@@ -1,18 +1,21 @@
 import csv
 
-def createHoverData(election: str):
+def createHoverData(electionType: str, electionYear: str):
 
-    if election == "Council2020":
-        fromFile = "Election Results\BCC2020\created\Council2020FirstPref.csv"
-        toFile = "Election Results\BCC2020\created\Council2020HoverText.csv"
+    if electionType == "Council":
+        if electionYear == "2020":
+            fromFile = "Election Results\Council2020\created\Council2020FirstPref.csv"
+            toFile = "Election Results\Council2020\created\Council2020HoverText.csv"
 
-    if election == "State2020":
-        fromFile = "Election Results\State2020\created\State2020FirstPref.csv"
-        toFile = "Election Results\State2020\created\State2020HoverText.csv"
+    elif electionType == "State":
+        if electionYear == "2020":
+            fromFile = "Election Results\State2020\created\State2020FirstPref.csv"
+            toFile = "Election Results\State2020\created\State2020HoverText.csv"
 
-    if election == "Federal2022":
-        fromFile = "Election Results\Federal2022\created\Federal2022FirstPref.csv"
-        toFile = "Election Results\Federal2022\created\Federal2022HoverText.csv"
+    elif electionType == "Federal":
+        if electionYear == "2022":
+            fromFile = "Election Results\Federal2022\created\Federal2022FirstPref.csv"
+            toFile = "Election Results\Federal2022\created\Federal2022HoverText.csv"
 
     header = ["DivisionNm", "HoverText"]
 
@@ -58,7 +61,9 @@ def createHoverData(election: str):
         for division in DivisionNames:
 
             # Initialise variables
-            hovertext = ""
+            hovertext = "<br>" 
+            hovertext = hovertext + "---------------------------------" + "<br>"
+
             totalvotes = 0
             informalvotes = 0
             numberofcandidates = -1
@@ -84,7 +89,7 @@ def createHoverData(election: str):
             for row in rows:
                 if row["DivisionNm"] == division:
                     if row["Surname"] != "Informal":
-                        hovertext = hovertext + row["PartyAb"] + ": \t" + str(row["TotalVotes"]) + " (" + str(round(int(row["TotalVotes"])*100/(totalvotes-informalvotes), 2)) + "%" + ")" + "<br>"
+                        hovertext = hovertext + row["PartyAb"] + ": \t" + str(row["TotalVotes"]) + " (" + str(round(int(row["TotalVotes"])*100/(totalvotes), 2)) + "%" + ")" + "<br>"
             HoverText[division] = hovertext
 
     # Write to Federal2022HoverText.csv
@@ -94,3 +99,7 @@ def createHoverData(election: str):
         for division in HoverText:
             writer.writerow([division, HoverText[division]])
 
+if __name__ == "__main__":
+    createHoverData("Council", "2020")
+    createHoverData("State", "2020")
+    createHoverData("Federal", "2022")

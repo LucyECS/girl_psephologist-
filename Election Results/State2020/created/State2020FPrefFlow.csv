@@ -1,0 +1,691 @@
+DivisionNm,CountNumber,BallotPosition,Surname,GivenNm,PartyAb,PartyNm,Elected,PreferenceCount,PreferencePercent,TransferCount,TransferPercent,Winner,DistributingBallotPosition,DistributingSurname,DistributingGivenNm,DistributingPartyAb,DistributingPartyNm
+Algester,0,1,AITKEN,Nerissa,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Algester,0,2,STACEY,Wayne,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Algester,0,3,MIRA,Josie,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Algester,0,4,ENOCH,Leeanne,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Algester,0,5,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Aspley,0,1,HARDY,Walter,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Aspley,0,2,SKILBECK,Neil,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Aspley,0,3,HANSEN,James,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Aspley,0,4,MORRISON,Joshua,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Aspley,0,5,MELLISH,Bart,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Aspley,0,6,COOPER,Amanda,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Aspley,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bancroft,0,1,WHITING,Chris,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bancroft,0,2,GRANT,Barry,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bancroft,0,3,ACKERMAN,Ell-Leigh,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bancroft,0,4,CARLSON,Phil,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bancroft,0,5,AAI REDDY,Nik,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bancroft,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Barron River,0,1,MCDONALD,Aaron,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Barron River,0,2,CRAWFORD,Craig,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Barron River,0,3,BROWN,Jenny,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Barron River,0,4,ANDREWS,Susan,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Barron River,0,5,ROWE,Adam,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Barron River,0,6,COOPER,Linda,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Barron River,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bonney,0,1,MARQUET,Leana,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bonney,0,2,O'CONNOR,Sam,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bonney,0,3,BORG,Ash,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bonney,0,4,BARK,David,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bonney,0,5,RIX,Michael,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bonney,0,6,JAVANMARD,Amin,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bonney,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Broadwater,0,1,SCHNEIDER,Jesse,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Broadwater,0,2,SIMPSON,Maureen,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Broadwater,0,3,BROADBENT,April,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Broadwater,0,4,KRISCHKER,Mara,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Broadwater,0,5,CRISAFULLI,David,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Broadwater,0,6,O'DONNELL,Natalie,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Broadwater,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,1,ANDREWS,Michael,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,2,MOSELEY,Deborah,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,3,BARRY-JONES,Alison,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,4,HOSKING,Joyce,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,5,MACKENZIE,Ken,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,6,DICKSON,Steve,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,7,PHILP,Daniel,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,8,MICKELBERG,Brent,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,9,LEE,Alina,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Buderim,0,10,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bulimba,0,1,BISHOP,Anthony,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bulimba,0,2,KUELSEN,Rolf,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bulimba,0,3,ARMSTRONG-SCHMAKEIT,Finn,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bulimba,0,4,CONWAY,Doug,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bulimba,0,5,FARMER,Di,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bulimba,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundaberg,0,1,ZUNKER,Ian,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundaberg,0,2,OGDEN,Claire,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundaberg,0,3,SMELTZ,Shane,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundaberg,0,4,JONES,Stewart,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundaberg,0,5,BATT,David,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundaberg,0,6,SMITH,Tom,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundaberg,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundamba,0,1,MCCALLUM,Lance,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundamba,0,2,BELL,Sharon,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundamba,0,3,LOWERY,Angela,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundamba,0,4,MUTTON,Danielle,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundamba,0,5,SHEARMAN,Rob,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Bundamba,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burdekin,0,1,THIRIET,Dominique,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burdekin,0,2,SMITH,Jack,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burdekin,0,3,BRUNKER,Michael,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burdekin,0,4,COX,Sam,KAP,Katter's Australian Party (KAP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burdekin,0,5,REMMER,Clive,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burdekin,0,6,LAST,Dale,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burdekin,0,7,WOOD,Benjamin,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burdekin,0,8,MORIARTY,Carolyn,NQF,North Queensland First,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burdekin,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burleigh,0,1,BATTY,Georgie,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burleigh,0,2,WALLACE,Scott,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burleigh,0,3,HART,Michael,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burleigh,0,4,WEBER,Ingrid,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burleigh,0,5,MEBBERSON,Rachel,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burleigh,0,6,FILINGERI,Carlo,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burleigh,0,7,BARTHOLOMEW,Wayne (Rabbit),ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burleigh,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burnett,0,1,JOHNS,Liam,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burnett,0,2,GLASS,Ric,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burnett,0,3,MANSELL,Geoffrey,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burnett,0,4,BENNETT,Stephen,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burnett,0,5,CASE,Elizabeth,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burnett,0,6,MORGAN,Kerri,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burnett,0,7,HUDSON,Paul,KAP,Katter's Australian Party (KAP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Burnett,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cairns,0,1,MARINO,Sam,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cairns,0,2,GRIFFITH,Darrin,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cairns,0,3,BAXTER,Sarah,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cairns,0,4,WRIGHT,David,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cairns,0,5,DENCH,Daniel,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cairns,0,6,HEALY,Michael,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cairns,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Callide,0,1,WALSH,Anthony,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Callide,0,2,EARNSHAW,Gordon,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Callide,0,3,BOYCE,Colin,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Callide,0,4,BURLING,Adam,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Callide,0,5,DOESSEL,Loris,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Callide,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Caloundra,0,1,ELLIS,Raelene,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Caloundra,0,2,JESSOP,Mike,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Caloundra,0,3,HART,Belinda,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Caloundra,0,4,POLAND,Luke,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Caloundra,0,5,HILL,Mathew,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Caloundra,0,6,COWARD,Stuart,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Caloundra,0,7,GRAY,Trevor,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Caloundra,0,8,HUNT,Jason,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Caloundra,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Capalaba,0,1,BROWN,Don,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Capalaba,0,2,METZEN,Michael,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Capalaba,0,3,WINTERS,Marilyn,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Capalaba,0,4,GILMORE,Neal,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Capalaba,0,5,CALLIL,Peter Ronald,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Capalaba,0,6,WALTERS,Bev,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Capalaba,0,7,BRANAGAN,Paul,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Capalaba,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Chatsworth,0,1,CLARKE,Aaron,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Chatsworth,0,2,GUY,Madonna,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Chatsworth,0,3,O'DONNELL,Lisa,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Chatsworth,0,4,MINNIKIN,Steve,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Chatsworth,0,5,CROOK,Andrew,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Chatsworth,0,6,FRY,Kathryn,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Chatsworth,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Clayfield,0,1,NICHOLLS,Tim,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Clayfield,0,2,BARTLETT,Andrew,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Clayfield,0,3,ANTHONY,Philip,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Clayfield,0,4,MOLONEY,Kathy,CLMP,Civil Liberties & Motorists Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Clayfield,0,5,KING,Robert,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Clayfield,0,6,DOUGLAS,Abby,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Clayfield,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Condamine,0,1,WOMERSLEY,Sean,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Condamine,0,2,PRIEBE,Greg,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Condamine,0,3,WEIR,Pat,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Condamine,0,4,HUYBREGTS,Brendon,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Condamine,0,5,HARRIS,Nui,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Condamine,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cook,0,1,BATZKE,Yodie,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cook,0,2,BROWN,Ed (Nipper),LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cook,0,3,TAYLEY,Desmond,NQF,North Queensland First,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cook,0,4,NEAL,Brett (Beaver),ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cook,0,5,RUDDELL,Deby,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cook,0,6,PARKER,Tanika,KAP,Katter's Australian Party (KAP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cook,0,7,LUI,Cynthia,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cook,0,8,GOULMY,Stephen,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cook,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Coomera,0,1,GAVRANICH,Lissy,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Coomera,0,2,JOHNSON,Chris,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Coomera,0,3,GALLAGHER,Heath,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Coomera,0,4,D'MONTFORD,She,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Coomera,0,5,CRANDON,Michael,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Coomera,0,6,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Coomera,0,7,BOURBON,Kris,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Coomera,0,8,WILKINSON,Tabita,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Coomera,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cooper,0,1,WILTSHIRE,Robert,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cooper,0,2,VENTNOR,Susan,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cooper,0,3,WINSTON-ALLOM,Katinka,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cooper,0,4,WISEMAN,Trent,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cooper,0,5,BUSH,Jonty,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Cooper,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Currumbin,0,1,TAKACS-THORNE,Tracy,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Currumbin,0,2,STUCKEY,Richard,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Currumbin,0,3,BURGOYNE,Peter,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Currumbin,0,4,CAMPRADT,Kaylee,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Currumbin,0,5,GERBER,Laura,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Currumbin,0,6,WADSWORTH,Glen,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Currumbin,0,7,PALMER,Anna,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Currumbin,0,8,LOGAN,Ian,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Currumbin,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Everton,0,1,JOHNSON,Mal,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Everton,0,2,JORDAN,Frank,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Everton,0,3,DISSANAYAKE,Joanne,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Everton,0,4,MANDER,Tim,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Everton,0,5,SHANKEY,Danielle,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Everton,0,6,WELLS,Jabez,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Everton,0,7,RATH,Helen,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Everton,0,8,RUSS,Simon,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Everton,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ferny Grove,0,1,PINI,Susan,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ferny Grove,0,2,MCCABE,John,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ferny Grove,0,3,SCOFIELD,Mark,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ferny Grove,0,4,FURNER,Mark,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ferny Grove,0,5,WILLIAMS,Elton,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ferny Grove,0,6,COLLS,Joel,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ferny Grove,0,7,LEHMANN,Chris,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ferny Grove,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gaven,0,1,SEWELL,Sharon,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gaven,0,2,SCANLON,Meaghan,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gaven,0,3,LUYKEN,Suzette,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gaven,0,4,DRAKE,Reyna,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gaven,0,5,BECK,Garry,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gaven,0,6,JACKSON,Kirsten,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gaven,0,7,SPAIN,Sally,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gaven,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gladstone,0,1,PETERSON,Murray,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gladstone,0,2,JORGENSEN,Kevin,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gladstone,0,3,HARDING,Ron,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gladstone,0,4,BUTCHER,Glenn,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gladstone,0,5,EASTAUGHFFE,Emma,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gladstone,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Glass House,0,1,CAMPBELL,Graeme,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Glass House,0,2,MCDONALD,James,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Glass House,0,3,HAMPSTEAD,Brent,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Glass House,0,4,MCLEAN,Andrew,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Glass House,0,5,POWELL,Andrew,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Glass House,0,6,MCCOY,Laressa,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Glass House,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Greenslopes,0,1,BOOKER,John,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Greenslopes,0,2,KELLY,Joe,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Greenslopes,0,3,HUML,Victor,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Greenslopes,0,4,NEWBOLD,Andrew,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Greenslopes,0,5,MELHOP,Jasmine (Jazzy),IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Greenslopes,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gregory,0,1,BAMBRICK,Paul,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gregory,0,2,MILLAR,Lachlan,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gregory,0,3,TURNER,Thomas,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gregory,0,4,KIARA,Tania,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gregory,0,5,KERRIGAN,Dave,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gregory,0,6,CURRIE,Bruce,CLMP,Civil Liberties & Motorists Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gregory,0,7,ROTHERY,Clint,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gregory,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gympie,0,1,MAERTENS,Roland,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gympie,0,2,PERRETT,Tony,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gympie,0,3,JEROME,Tim,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gympie,0,4,REARDON,Donna,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gympie,0,5,BLAXLAND,Michael,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gympie,0,6,FAIRBAIRN,Nicholas,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gympie,0,7,GRANGER-BROWN,Lauren,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gympie,0,8,WILLIAMS,Geoff,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Gympie,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hervey Bay,0,1,COLEMAN,Steve,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hervey Bay,0,2,HUXHAM,Damian,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hervey Bay,0,3,TANTARI,Adrian,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hervey Bay,0,4,BYRNES,Amy,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hervey Bay,0,5,GERDSEN,Sonja,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hervey Bay,0,6,TAYLOR,Stuart,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hervey Bay,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hill,0,1,GAROZZO,Tara,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hill,0,2,CAMPION,Peter,IND,Independent,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hill,0,3,KNUTH,Shane,KAP,Katter's Australian Party (KAP),Y,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hill,0,4,CUDA,Nick,LNP,Liberal National Party of Queensland,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hill,0,5,TUXFORD,Chester Gordon,IND,Independent,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hill,0,6,HODGKINS,Michael,ALP,Australian Labor Party (State of Queensland),N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hill,0,7,COX,Jennifer,The Greens,Queensland Greens,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hill,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hinchinbrook,0,1,SULLIVAN,Michael,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hinchinbrook,0,2,MEWING,Carolyn,The Greens,Queensland Greens,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hinchinbrook,0,3,MASON,Aurelio,UAP,Clive Palmer's United Australia Party,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hinchinbrook,0,4,SACKLEY,Jen,IND,Independent,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hinchinbrook,0,5,PIPER,Scott,LNP,Liberal National Party of Queensland,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hinchinbrook,0,6,JACOB,Paul,ALP,Australian Labor Party (State of Queensland),N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hinchinbrook,0,7,DAMETTO,Nick,KAP,Katter's Australian Party (KAP),Y,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Hinchinbrook,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Inala,0,1,REID,Scott,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Inala,0,2,MURPHY,Peter,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Inala,0,3,PALASZCZUK,Annastacia,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Inala,0,4,QUINLAN,Nigel,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Inala,0,5,JONES,Terry,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Inala,0,6,VIDAL,Michael,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Inala,0,7,PEROVIC,Miljenka,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Inala,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich,0,1,HOLMES,Suzie,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich,0,2,WALSH,Pat,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich,0,3,O'CONNELL,Scott,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich,0,4,MORTON,Shelly,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich,0,5,HOWARD,Jennifer,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich West,0,1,GRIEGER,Clem,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich West,0,2,WOLF,Raven,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich West,0,3,KOCHARDY,Karakan Karoly,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich West,0,4,GREEN,Chris,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich West,0,5,DUFFY,Gary,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich West,0,6,HOPKINS,Anthony,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich West,0,7,MADDEN,Jim,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ipswich West,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Jordan,0,1,SIDHU,Navdeep Singh,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Jordan,0,2,SYMES,Neil,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Jordan,0,3,MOONEY,Andrew,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Jordan,0,4,MULLEN,Charis,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Jordan,0,5,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kawana,0,1,MOUSSALLI,Lynette,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kawana,0,2,SRI,Anna,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kawana,0,3,MCGLADRIGAN,Afrikah,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kawana,0,4,BLEIJIE,Jarrod,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kawana,0,5,MARIKO,Pamela,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kawana,0,6,REDPATH,Bill,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kawana,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Keppel,0,1,LAUGA,Brittany,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Keppel,0,2,DE GROOT,Adrian,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Keppel,0,3,DOCKERY,Jimmy,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Keppel,0,4,SMELTZ,Nikki,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Keppel,0,5,ROTHERY,Wade,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Keppel,0,6,GANFIELD,Paula,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Keppel,0,7,MULLBRICK,Clancy,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Keppel,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kurwongbah,0,1,SNIJDERS,Earl,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kurwongbah,0,2,PROHASKA,Thor,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kurwongbah,0,3,PETRUS,Kerry,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kurwongbah,0,4,DWANE,Heather,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kurwongbah,0,5,ATTRILL,Kim,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kurwongbah,0,6,KING,Shane,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Kurwongbah,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lockyer,0,1,ROCKLIFF,Andrew,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lockyer,0,2,WEST,Corey,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lockyer,0,3,BUTLER,Janet,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lockyer,0,4,SAVAGE,Jim,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lockyer,0,5,HALEY,Rebecca,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lockyer,0,6,MCDONALD,Jim,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lockyer,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Logan,0,1,WEBER,Peter,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Logan,0,2,ISKANDER,Sam,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Logan,0,3,JENKINSON,Liam,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Logan,0,4,PATTISON,Clinton,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Logan,0,5,POWER,Linus,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Logan,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lytton,0,1,PHILLIPS,Georgia,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lytton,0,2,WALTERS,Gordon,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lytton,0,3,SPAITS,Jonathan,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lytton,0,4,PEASE,Joan,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lytton,0,5,SMITH,Debra,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lytton,0,6,AUSTIN,Ken,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Lytton,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Macalister,0,1,BYE,Bronwyn,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Macalister,0,2,PETERSEN,Kirsty,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Macalister,0,3,MCMAHON,Melissa,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Macalister,0,4,MCCLAER,David,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Macalister,0,5,MUSGRAVE,Ben,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Macalister,0,6,VAN MANEN,Judi,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Macalister,0,7,KEECH,Margaret,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Macalister,0,8,TAYLOR,Paul A S,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Macalister,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,1,LOVEJOY,Kirsten,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,2,BERTRAM,Miranda,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,3,DOBINSON,John Fair,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,4,SINGH,Pinky,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,5,WOOD,Malcolm,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,6,GRACE,Grace,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,7,SWAN,Paul,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,8,PERRY,Anne,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,9,HAMILTON,Alan,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+McConnel,0,10,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mackay,0,1,BONANNO,Chris,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mackay,0,2,KRSTIC,Shaun,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mackay,0,3,SAUNDERS,Julie,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mackay,0,4,GILBERT,Julieanne,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mackay,0,5,KEYS,Christine,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mackay,0,6,LINDENBERG,Imogen,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mackay,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maiwar,0,1,BERKMAN,Michael,The Greens,Queensland Greens,Y,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+Maiwar,0,2,RUSH,Jacob,UAP,Clive Palmer's United Australia Party,N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+Maiwar,0,3,THEVAR,Palani,ALP,Australian Labor Party (State of Queensland),N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+Maiwar,0,4,JOHNSON,Michael Andrew,IND,Independent,N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+Maiwar,0,5,SHANNON,Boyd,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+Maiwar,0,6,DAY,Lauren,LNP,Liberal National Party of Queensland,N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+Maiwar,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+Mansfield,0,1,WISHART,Janet,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mansfield,0,2,MCMILLAN,Corrine,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mansfield,0,3,WALTER,Rob,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mansfield,0,4,WIRTH,Jarrod John,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mansfield,0,5,TODOROVA,Maria,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mansfield,0,6,TAYLOR,Brendan,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mansfield,0,7,O'CALLAGHAN,Christopher,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mansfield,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,1,UNVERZAGT,Gabrielle,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,2,CREEVEY,Janet,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,3,MCCORMACK,Rod,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,4,POOLE,Tash,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,5,WADESON,Mark,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,6,SMITH,Alison,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,7,SIMPSON,Fiona,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,8,SEARLE,Greg,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,9,CONNOLLY,John,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maroochydore,0,10,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maryborough,0,1,SAUNDERS,Bruce,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maryborough,0,2,PACKER,Samantha,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maryborough,0,3,SOKOLOV,Alex,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maryborough,0,4,CHAPMAN,Denis,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maryborough,0,5,LOHSE,Sharon,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maryborough,0,6,BODY,River,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maryborough,0,7,ARMSTRONG,Craig,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Maryborough,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,1,HARRIS,Zai,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,2,HOLT,Rhett,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,3,AVDJIEV,Hristo,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,4,MCARTHUR-WILLIAMS,Nicholas,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,5,SOMSRIRUEN,Suphakan (Mod),CLMP,Civil Liberties & Motorists Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,6,UNGERER,Carl,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,7,STEVENS,Ray,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,8,LYNCH,Deb,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,9,JAMES,Stephen,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,10,JONES,Tory,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mermaid Beach,0,11,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Miller,0,1,ZIRDUM,Josip,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Miller,0,2,BAILEY,Mark,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Miller,0,3,DARWEN,Paul,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Miller,0,4,O'BRIEN,Patsy,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Miller,0,5,CARROLL,Edward,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Miller,0,6,PACKER,Maria,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Miller,0,7,JULIUS,Christian John,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Miller,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mirani,0,1,ANDREW,Stephen,ONP,Pauline Hanson's One Nation Queensland Division,Y,,,0,0,ONP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mirani,0,2,BYRAM,Nick,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ONP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mirani,0,3,HAMILTON,Shane,ALP,Australian Labor Party (State of Queensland),N,,,0,0,ONP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mirani,0,4,NEWITT,Tracie,LNP,Liberal National Party of Queensland,N,,,0,0,ONP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mirani,0,5,WATKIN,Ben,The Greens,Queensland Greens,N,,,0,0,ONP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mirani,0,6,BORG,Jason,NQF,North Queensland First,N,,,0,0,ONP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mirani,0,7,BORG,Tepepe,UAP,Clive Palmer's United Australia Party,N,,,0,0,ONP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mirani,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ONP,First Pref,First Pref,First Pref,First Pref,First Pref
+Moggill,0,1,ALBRECHT,Roberta,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Moggill,0,2,RAYWARD,Amy,CLMP,Civil Liberties & Motorists Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Moggill,0,3,ROWAN,Christian,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Moggill,0,4,MITCHELL,Bruce,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Moggill,0,5,MCCANE,Lawson,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Moggill,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Morayfield,0,1,SMITH,Amy,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Morayfield,0,2,CRAIG,Theresa,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Morayfield,0,3,HANSEN,Rodney,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Morayfield,0,4,MATTHEWS,Grant,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Morayfield,0,5,SNOW,Jason,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Morayfield,0,6,RYAN,Mark,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Morayfield,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mount Ommaney,0,1,BRAZIER,Clive,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mount Ommaney,0,2,POWELL,Michael,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mount Ommaney,0,3,EUGARDE,Ian,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mount Ommaney,0,4,WORSTELING,Asha,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mount Ommaney,0,5,HOOPER,Roger,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mount Ommaney,0,6,PUGH,Jess,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mount Ommaney,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,1,PEAD,Gary,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,2,MCMAHON,Brandon,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,3,ERIKSON,Leith,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,4,LIDDELL,Andrew,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,5,PYTELLEK,Mark,CLMP,Civil Liberties & Motorists Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,6,SHERWOOD,Bill,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,7,OTTEN-KAMP,Maxim,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,8,COX,Lindon,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,9,BATES,Ros,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,10,TURNER,Scott,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mudgeeraba,0,11,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mulgrave,0,1,PITT,Curtis,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mulgrave,0,2,FEHER-HOLAN,Attila,KAP,Katter's Australian Party (KAP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mulgrave,0,3,CORY,Sue,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mulgrave,0,4,BARTORILLO,Francis,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mulgrave,0,5,VALLIANOS,Gerry,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mulgrave,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mundingburra,0,1,JACKSON,Susan,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mundingburra,0,2,BROWN,Jenny,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mundingburra,0,3,WALKER,Les,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mundingburra,0,4,DOYLE,Glenn,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mundingburra,0,5,BREWSTER,Martin,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mundingburra,0,6,BOWRON,Ian,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mundingburra,0,7,TOMLINSON,Alannah,KAP,Katter's Australian Party (KAP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Mundingburra,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Murrumba,0,1,KENNEDY,Jason,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Murrumba,0,2,HADDOCK,Karen,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Murrumba,0,3,BARLOW,Yvonne,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Murrumba,0,4,CLARK,Stewart,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Murrumba,0,5,MILES,Steven,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Murrumba,0,6,MCMAHON,Leichelle,SFF,"Shooters, Fishers and Farmers Party (QLD)",N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Murrumba,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nanango,0,1,SCRIMSHAW,Tony,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nanango,0,2,FRECKLINGTON,Deb,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nanango,0,3,STAPLETON,Mark,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nanango,0,4,O'RANCE,Maggie,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nanango,0,5,HARBISON,John,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nanango,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nicklin,0,1,SKELTON,Robert,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nicklin,0,2,ETHERIDGE,Sue,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nicklin,0,3,CARDINAL,Michael,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nicklin,0,4,BOSI,Riccardo,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nicklin,0,5,HUNT,Marty,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nicklin,0,6,LAHN,Allona,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nicklin,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ninderry,0,1,NEWLAND-BLACKMORE,Andrea,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ninderry,0,2,WEIJERS,Frank,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ninderry,0,3,PURDIE,Dan,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ninderry,0,4,DODDS,Melinda,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ninderry,0,5,GILES,Jay,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ninderry,0,6,BRYAR,Dan,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Ninderry,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Noosa,0,1,REDFORD,Darrell,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+Noosa,0,2,PRESCOTT,Rhonda,The Greens,Queensland Greens,N,,,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+Noosa,0,3,DENHAM,Mark,ALP,Australian Labor Party (State of Queensland),N,,,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+Noosa,0,4,BELL-HENSELIN,Tracey,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+Noosa,0,5,BOLTON,Sandy,IND,Independent,Y,,,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+Noosa,0,6,BLEVIN,James,LNP,Liberal National Party of Queensland,N,,,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+Noosa,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+Nudgee,0,1,PRITCHARD,Dane,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nudgee,0,2,HALLIWELL,Carrol,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nudgee,0,3,DAVIES,Jim,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nudgee,0,4,LINARD,Leanne,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nudgee,0,5,SHAW,Ryan,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Nudgee,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Oodgeroo,0,1,ROBINSON,Mark,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Oodgeroo,0,2,HENLEY,Irene,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Oodgeroo,0,3,CHAPMAN,Douglas,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Oodgeroo,0,4,MARRIOTT,Kirstyn,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Oodgeroo,0,5,MAZLIN,Ian,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Oodgeroo,0,6,RICHARDSON,Claire,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Oodgeroo,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pine Rivers,0,1,LEECH,Christopher,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pine Rivers,0,2,SEIFFERT-SMITH,Tara,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pine Rivers,0,3,BOYD,Nikki,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pine Rivers,0,4,VASCHINA,Bruce,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pine Rivers,0,5,THOMAS,Kara,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pine Rivers,0,6,AUSTIN,Steve,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pine Rivers,0,7,BROHMAN,Maureen,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pine Rivers,0,8,PATTRICK,Alissa,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pine Rivers,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pumicestone,0,1,DRYDEN,Ryan,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pumicestone,0,2,KING,Ali,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pumicestone,0,3,NEWBERY,Steven,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pumicestone,0,4,GASKE,Fiona,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pumicestone,0,5,OGDEN,Richard,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pumicestone,0,6,KONOWALENKO,Ross,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Pumicestone,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redcliffe,0,1,D'ATH,Yvette,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redcliffe,0,2,KERR,Carolyn,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redcliffe,0,3,DAVY,Virginia,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redcliffe,0,4,SIMON,Will,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redcliffe,0,5,PHILP,Ian,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redcliffe,0,6,DOOLEY,Kerri-Anne,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redcliffe,0,7,BLOHBERGER,Bob,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redcliffe,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redlands,0,1,MCNAUGHT,Carmen,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redlands,0,2,PIKE,Henry,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redlands,0,3,WILLIAMS,Peter,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redlands,0,4,MAHER,Michelle,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redlands,0,5,POPE,Andrew,SFF,"Shooters, Fishers and Farmers Party (QLD)",N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redlands,0,6,RICHARDS,Kim,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redlands,0,7,GUNNIS,Craig,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redlands,0,8,BRADY,Frank Everett,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Redlands,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,1,DOBLO,Dominic,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,2,HOPKINS,Tony,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,3,JONES,Mick,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,4,O'ROURKE,Barry,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,5,SAXON,Yvette,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,6,SHEPHERD,Christian,KAP,Katter's Australian Party (KAP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,7,OBRIEN,Torin,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,8,CRANGLE,Paul,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,9,BARNARD,Laura,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Rockhampton,0,10,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Sandgate,0,1,MILES,Rodney,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Sandgate,0,2,SIEMSEN,Clark,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Sandgate,0,3,MILHAM,Todd,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Sandgate,0,4,HINCHLIFFE,Stirling,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Sandgate,0,5,LE ROY,Miree,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Sandgate,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Scenic Rim,0,1,STANTON,Luz,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Scenic Rim,0,2,KRAUSE,Jon,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Scenic Rim,0,3,FOWLER,Bradley,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Scenic Rim,0,4,HUSBANDS,Deborah,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Scenic Rim,0,5,HENSELIN,Paul,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Scenic Rim,0,6,AGNOLETTO,Pietro,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Scenic Rim,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+South Brisbane,0,1,TRAD,Jackie,ALP,Australian Labor Party (State of Queensland),N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+South Brisbane,0,2,MEYER,John,IND,Independent,N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+South Brisbane,0,3,THORNE,Marcus,UAP,Clive Palmer's United Australia Party,N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+South Brisbane,0,4,MACMAHON,Amy,The Greens,Queensland Greens,Y,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+South Brisbane,0,5,TAXIS,Rosalie,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+South Brisbane,0,6,GREHAN,Clem,LNP,Liberal National Party of Queensland,N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+South Brisbane,0,7,JIGGENS,John,IND,Independent,N,,,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+South Brisbane,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,The Greens,First Pref,First Pref,First Pref,First Pref,First Pref
+Southern Downs,0,1,HENDERSON,Tom,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southern Downs,0,2,RICHTERS,Joel,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southern Downs,0,3,LISTER,James,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southern Downs,0,4,RICHARDSON,Malcolm,SFF,"Shooters, Fishers and Farmers Party (QLD)",N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southern Downs,0,5,WALDRON,Deborah,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southern Downs,0,6,MOULDEN,Rosemary,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southern Downs,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southport,0,1,QUINN,Alan,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southport,0,2,FELIX,Raphael,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southport,0,3,LAMBERT,Brett,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southport,0,4,MOLHOEK,Rob,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southport,0,5,GALLAGHER,Susie,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southport,0,6,DRAKE,Jack,CLMP,Civil Liberties & Motorists Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southport,0,7,AVDJIEVA,Maria,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Southport,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Springwood,0,1,DE BRENNI,Mick,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Springwood,0,2,LEO,Janina,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Springwood,0,3,RUSH,Judy,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Springwood,0,4,BOULTON,Kirrily,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Springwood,0,5,COOKSON,Glen,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Springwood,0,6,SOKOLOV,George,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Springwood,0,7,SGANZERLA,Ian,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Springwood,0,8,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stafford,0,1,HODGES,Jeff,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stafford,0,2,BATES,Stephen,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stafford,0,3,SANGJITPHUN,Ed,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stafford,0,4,DWYER,Kerrie,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stafford,0,5,CONCIATORE,Anthony,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stafford,0,6,SULLIVAN,Jimmy,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stafford,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stretton,0,1,CHEKHUNOV,Alexey,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stretton,0,2,ZHUANG,Peter,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stretton,0,3,PEGG,Duncan,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stretton,0,4,WILDIN,Andrea,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Stretton,0,5,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Surfers Paradise,0,1,SCHULTZ,Leeanne,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Surfers Paradise,0,2,MCKAY,Roger,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Surfers Paradise,0,3,BAILEY,Brianna,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Surfers Paradise,0,4,LANGBROEK,John-Paul,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Surfers Paradise,0,5,QUINN,Nelson,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Surfers Paradise,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Theodore,0,1,BELL,Tracey,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Theodore,0,2,BOOTHMAN,Mark,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Theodore,0,3,WOODLOCK,John,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Theodore,0,4,HOLLAND,Anita,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Theodore,0,5,MARKS,Robert,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Theodore,0,6,OXENFORD,Gale,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Theodore,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Thuringowa,0,1,ALEXANDER,Jeni,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Thuringowa,0,2,HARDISTY,Heidi,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Thuringowa,0,3,WOOD,Julianne,KAP,Katter's Australian Party (KAP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Thuringowa,0,4,TURNER,Michael (Blu),UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Thuringowa,0,5,HARPER,Aaron,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Thuringowa,0,6,MARR,Natalie,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Thuringowa,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toohey,0,1,CRAZE,Warren,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toohey,0,2,ROEL,Claudia,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toohey,0,3,GARTON,Claire,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toohey,0,4,PETERSON,Nikolas,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toohey,0,5,RUSSO,Peter,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toohey,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba North,0,1,HUMPHREY,Ron,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba North,0,2,WATTS,Trevor,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba North,0,3,SOKOLOVA,Stella,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba North,0,4,NELLIGAN,Alyce,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba North,0,5,O'HARA SULLIVAN,Megan,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba North,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba South,0,1,KOZLOWSKI,Dylan,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba South,0,2,COYNE,Thomas,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba South,0,3,TURNER,Allan,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba South,0,4,JANETZKI,David,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba South,0,5,BERRY,Robert,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba South,0,6,KRAUSE,Susan,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Toowoomba South,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,1,MCMAHON,Toni,IMOP,Informed Medical Options Party (IMOP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,2,SCHWARZ,Joshua,KAP,Katter's Australian Party (KAP),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,3,STEWART,Scott,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,4,GRUMBERG,Samara,Animal Justice Party,Animal Justice Party (Queensland),N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,5,HATHAWAY,John,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,6,DOWLING,Greg,UAP,Clive Palmer's United Australia Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,7,HAWKS,Clynton,NQF,North Queensland First,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,8,CLARKSON,Clive,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,9,O'GRADY,Tom,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Townsville,0,10,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Traeger,0,1,BAMBRICK,James,ALP,Australian Labor Party (State of Queensland),N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Traeger,0,2,HORVATH,Kristian,The Greens,Queensland Greens,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Traeger,0,3,KATTER,Robbie,KAP,Katter's Australian Party (KAP),Y,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Traeger,0,4,SMITH,Marnie,LNP,Liberal National Party of Queensland,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Traeger,0,5,COLLINS,Phillip,UAP,Clive Palmer's United Australia Party,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Traeger,0,6,SCRIVEN,Craig H.B,IND,Independent,N,,,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Traeger,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,KAP,First Pref,First Pref,First Pref,First Pref,First Pref
+Warrego,0,1,GURNETT,Rick,KAP,Katter's Australian Party (KAP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Warrego,0,2,SANDERSON,Joshua,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Warrego,0,3,STONE,Mark,IND,Independent,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Warrego,0,4,COYNE,Joshua,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Warrego,0,5,LEAHY,Ann,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Warrego,0,6,O'BRIEN,Mark,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Warrego,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Waterford,0,1,CASWELL,Andrew,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Waterford,0,2,SMART,Lachlan,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Waterford,0,3,FENTIMAN,Shannon,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Waterford,0,4,MILLER,Kim,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Waterford,0,5,OLSEN,Ben,CLMP,Civil Liberties & Motorists Party,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Waterford,0,6,CARTER,Lanai,IND,Independent,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Waterford,0,7,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Whitsunday,0,1,HILDER,Paul,LCQP,Legalise Cannabis Qld (Party),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Whitsunday,0,2,CAMM,Amanda,LNP,Liberal National Party of Queensland,Y,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Whitsunday,0,3,ARMSTRONG,Greg,UAP,Clive Palmer's United Australia Party,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Whitsunday,0,4,BARRETT,Emma,The Greens,Queensland Greens,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Whitsunday,0,5,KELLY,Angie,ALP,Australian Labor Party (State of Queensland),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Whitsunday,0,6,LAWSON,Deb,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Whitsunday,0,7,COSTIGAN,Jason,NQF,North Queensland First,N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Whitsunday,0,8,PATERSON,Ciaron,KAP,Katter's Australian Party (KAP),N,,,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Whitsunday,0,9,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+Woodridge,0,1,DICK,Cameron,ALP,Australian Labor Party (State of Queensland),Y,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Woodridge,0,2,BAUER,Russell,LNP,Liberal National Party of Queensland,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Woodridge,0,3,BENNETT,Valerie,The Greens,Queensland Greens,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Woodridge,0,4,VALENTINE,Lann,ONP,Pauline Hanson's One Nation Queensland Division,N,,,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+Woodridge,0,5,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref

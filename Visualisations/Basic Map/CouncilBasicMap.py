@@ -5,13 +5,11 @@ import json
 from ColourScales import COLOURSCALE
 
 # Read in the data
-data = pd.read_csv('Election Results\BCC2020\created\Council2020Winner.csv')
+data = pd.read_csv('Election Results\Council2020\created\Council2020Winner.csv')
 # Read in the hover text
-HoverText = pd.read_csv('Election Results\BCC2020\created\Council2020HoverText.csv')
+HoverText = pd.read_csv('Election Results\Council2020\created\Council2020HoverText.csv')
 # Merge the data and the hover text
 data = pd.merge(data, HoverText, on="DivisionNm")
-
-print(data)
 
 # Read in the geojson file
 with open("Boundaries\BCC.geojson") as json_file:

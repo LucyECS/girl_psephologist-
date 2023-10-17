@@ -11,8 +11,6 @@ HoverText = pd.read_csv('Election Results\Federal2022\created\Federal2022HoverTe
 # Merge the data and the hover text
 data = pd.merge(data, HoverText, on="DivisionNm")
 
-print(data)
-
 # Read in the json file
 with open("Boundaries\Federal.json") as json_file:
     locations = json.load(json_file)
