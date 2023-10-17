@@ -1,0 +1,691 @@
+DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyAb,PartyNm,TotalVotes
+1,Algester,Informal,Informal,0,N,Informal,Informal,1142
+1,Algester,Nerissa,AITKEN,1,N,Liberal National Party of Queensland,LNP,7505
+1,Algester,Wayne,STACEY,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2147
+1,Algester,Josie,MIRA,3,N,Queensland Greens,The Greens,2514
+1,Algester,Leeanne,ENOCH,4,Y,Australian Labor Party (State of Queensland),Australian Labor Party,17452
+2,Aspley,Informal,Informal,0,N,Informal,Informal,711
+2,Aspley,Walter,HARDY,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1141
+2,Aspley,Neil,SKILBECK,2,N,Civil Liberties & Motorists Party,CLMP,305
+2,Aspley,James,HANSEN,3,N,Queensland Greens,The Greens,2997
+2,Aspley,Joshua,MORRISON,4,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,247
+2,Aspley,Bart,MELLISH,5,Y,Australian Labor Party (State of Queensland),Australian Labor Party,15261
+2,Aspley,Amanda,COOPER,6,N,Liberal National Party of Queensland,LNP,13579
+3,Bancroft,Informal,Informal,0,N,Informal,Informal,1017
+3,Bancroft,Chris,WHITING,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,16301
+3,Bancroft,Barry,GRANT,2,N,Independent,IND,1001
+3,Bancroft,Ell-Leigh,ACKERMAN,3,N,Queensland Greens,The Greens,1820
+3,Bancroft,Phil,CARLSON,4,N,Liberal National Party of Queensland,LNP,8626
+3,Bancroft,Nik,AAI REDDY,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2666
+4,Barron River,Informal,Informal,0,N,Informal,Informal,1059
+4,Barron River,Aaron,MCDONALD,1,N,Queensland Greens,The Greens,4134
+4,Barron River,Craig,CRAWFORD,2,Y,Australian Labor Party (State of Queensland),Australian Labor Party,12385
+4,Barron River,Jenny,BROWN,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,345
+4,Barron River,Susan,ANDREWS,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1852
+4,Barron River,Adam,ROWE,5,N,Informed Medical Options Party (IMOP),IMOP,575
+4,Barron River,Linda,COOPER,6,N,Liberal National Party of Queensland,LNP,12092
+5,Bonney,Informal,Informal,0,N,Informal,Informal,1115
+5,Bonney,Leana,MARQUET,1,N,Independent,IND,498
+5,Bonney,Sam,O'CONNOR,2,Y,Liberal National Party of Queensland,LNP,15323
+5,Bonney,Ash,BORG,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,9226
+5,Bonney,David,BARK,4,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,381
+5,Bonney,Michael,RIX,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1113
+5,Bonney,Amin,JAVANMARD,6,N,Queensland Greens,The Greens,2229
+6,Broadwater,Informal,Informal,0,N,Informal,Informal,1004
+6,Broadwater,Jesse,SCHNEIDER,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1796
+6,Broadwater,Maureen,SIMPSON,2,N,Australian Labor Party (State of Queensland),Australian Labor Party,8041
+6,Broadwater,April,BROADBENT,3,N,Queensland Greens,The Greens,1583
+6,Broadwater,Mara,KRISCHKER,4,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,441
+6,Broadwater,David,CRISAFULLI,5,Y,Liberal National Party of Queensland,LNP,18059
+6,Broadwater,Natalie,O'DONNELL,6,N,Informed Medical Options Party (IMOP),IMOP,386
+7,Buderim,Informal,Informal,0,N,Informal,Informal,1293
+7,Buderim,Michael,ANDREWS,1,N,Independent,IND,741
+7,Buderim,Deborah,MOSELEY,2,N,Queensland Greens,The Greens,3422
+7,Buderim,Alison,BARRY-JONES,3,N,Independent,IND,572
+7,Buderim,Joyce,HOSKING,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1477
+7,Buderim,Ken,MACKENZIE,5,N,Australian Labor Party (State of Queensland),Australian Labor Party,8932
+7,Buderim,Steve,DICKSON,6,N,Independent,IND,2234
+7,Buderim,Daniel,PHILP,7,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,191
+7,Buderim,Brent,MICKELBERG,8,Y,Liberal National Party of Queensland,LNP,13443
+7,Buderim,Alina,LEE,9,N,Informed Medical Options Party (IMOP),IMOP,601
+8,Bulimba,Informal,Informal,0,N,Informal,Informal,673
+8,Bulimba,Anthony,BISHOP,1,N,Liberal National Party of Queensland,LNP,11883
+8,Bulimba,Rolf,KUELSEN,2,N,Queensland Greens,The Greens,4665
+8,Bulimba,Finn,ARMSTRONG-SCHMAKEIT,3,N,Independent,IND,659
+8,Bulimba,Doug,CONWAY,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,785
+8,Bulimba,Di,FARMER,5,Y,Australian Labor Party (State of Queensland),Australian Labor Party,16764
+9,Bundaberg,Informal,Informal,0,N,Informal,Informal,1105
+9,Bundaberg,Ian,ZUNKER,1,N,Legalise Cannabis Qld (Party),LCQP,1669
+9,Bundaberg,Claire,OGDEN,2,N,Queensland Greens,The Greens,964
+9,Bundaberg,Shane,SMELTZ,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,244
+9,Bundaberg,Stewart,JONES,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1766
+9,Bundaberg,David,BATT,5,N,Liberal National Party of Queensland,LNP,12577
+9,Bundaberg,Tom,SMITH,6,Y,Australian Labor Party (State of Queensland),Australian Labor Party,13053
+10,Bundamba,Informal,Informal,0,N,Informal,Informal,1344
+10,Bundamba,Lance,MCCALLUM,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,17015
+10,Bundamba,Sharon,BELL,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,4553
+10,Bundamba,Angela,LOWERY,3,N,Animal Justice Party (Queensland),Animal Justice Party,1099
+10,Bundamba,Danielle,MUTTON,4,N,Queensland Greens,The Greens,3127
+10,Bundamba,Rob,SHEARMAN,5,N,Liberal National Party of Queensland,LNP,4635
+11,Burdekin,Informal,Informal,0,N,Informal,Informal,1012
+11,Burdekin,Dominique,THIRIET,1,N,Animal Justice Party (Queensland),Animal Justice Party,419
+11,Burdekin,Jack,SMITH,2,N,Queensland Greens,The Greens,600
+11,Burdekin,Michael,BRUNKER,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,9425
+11,Burdekin,Sam,COX,4,N,Katter's Australian Party (KAP),KAP,4212
+11,Burdekin,Clive,REMMER,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2080
+11,Burdekin,Dale,LAST,6,Y,Liberal National Party of Queensland,LNP,11792
+11,Burdekin,Benjamin,WOOD,7,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,274
+11,Burdekin,Carolyn,MORIARTY,8,N,North Queensland First,NQF,900
+12,Burleigh,Informal,Informal,0,N,Informal,Informal,1297
+12,Burleigh,Georgie,BATTY,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2114
+12,Burleigh,Scott,WALLACE,2,N,Animal Justice Party (Queensland),Animal Justice Party,948
+12,Burleigh,Michael,HART,3,Y,Liberal National Party of Queensland,LNP,11743
+12,Burleigh,Ingrid,WEBER,4,N,Legalise Cannabis Qld (Party),LCQP,1085
+12,Burleigh,Rachel,MEBBERSON,5,N,Queensland Greens,The Greens,2753
+12,Burleigh,Carlo,FILINGERI,6,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,321
+12,Burleigh,Wayne (Rabbit),BARTHOLOMEW,7,N,Australian Labor Party (State of Queensland),Australian Labor Party,10609
+13,Burnett,Informal,Informal,0,N,Informal,Informal,1311
+13,Burnett,Liam,JOHNS,1,N,Queensland Greens,The Greens,1436
+13,Burnett,Ric,GLASS,2,N,Independent,IND,235
+13,Burnett,Geoffrey,MANSELL,3,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2832
+13,Burnett,Stephen,BENNETT,4,Y,Liberal National Party of Queensland,LNP,15330
+13,Burnett,Elizabeth,CASE,5,N,Informed Medical Options Party (IMOP),IMOP,682
+13,Burnett,Kerri,MORGAN,6,N,Australian Labor Party (State of Queensland),Australian Labor Party,9686
+13,Burnett,Paul,HUDSON,7,N,Katter's Australian Party (KAP),KAP,1336
+14,Cairns,Informal,Informal,0,N,Informal,Informal,1056
+14,Cairns,Sam,MARINO,1,N,Liberal National Party of Queensland,LNP,10505
+14,Cairns,Darrin,GRIFFITH,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1707
+14,Cairns,Sarah,BAXTER,3,N,Informed Medical Options Party (IMOP),IMOP,724
+14,Cairns,David,WRIGHT,4,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,302
+14,Cairns,Daniel,DENCH,5,N,Queensland Greens,The Greens,2829
+14,Cairns,Michael,HEALY,6,Y,Australian Labor Party (State of Queensland),Australian Labor Party,12727
+15,Callide,Informal,Informal,0,N,Informal,Informal,887
+15,Callide,Anthony,WALSH,1,N,Queensland Greens,The Greens,1147
+15,Callide,Gordon,EARNSHAW,2,N,Australian Labor Party (State of Queensland),Australian Labor Party,7463
+15,Callide,Colin,BOYCE,3,Y,Liberal National Party of Queensland,LNP,16608
+15,Callide,Adam,BURLING,4,N,Independent,IND,2444
+15,Callide,Loris,DOESSEL,5,N,Independent,IND,1371
+16,Caloundra,Informal,Informal,0,N,Informal,Informal,1497
+16,Caloundra,Raelene,ELLIS,1,N,Queensland Greens,The Greens,3281
+16,Caloundra,Mike,JESSOP,2,N,Independent,IND,245
+16,Caloundra,Belinda,HART,3,N,Informed Medical Options Party (IMOP),IMOP,783
+16,Caloundra,Luke,POLAND,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2007
+16,Caloundra,Mathew,HILL,5,N,Independent,IND,238
+16,Caloundra,Stuart,COWARD,6,N,Liberal National Party of Queensland,LNP,12234
+16,Caloundra,Trevor,GRAY,7,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,255
+16,Caloundra,Jason,HUNT,8,Y,Australian Labor Party (State of Queensland),Australian Labor Party,13406
+17,Capalaba,Informal,Informal,0,N,Informal,Informal,1246
+17,Capalaba,Don,BROWN,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,15160
+17,Capalaba,Michael,METZEN,2,N,Queensland Greens,The Greens,2500
+17,Capalaba,Marilyn,WINTERS,3,N,Informed Medical Options Party (IMOP),IMOP,530
+17,Capalaba,Neal,GILMORE,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1631
+17,Capalaba,Peter Ronald,CALLIL,5,N,Civil Liberties & Motorists Party,CLMP,252
+17,Capalaba,Bev,WALTERS,6,N,Liberal National Party of Queensland,LNP,9719
+17,Capalaba,Paul,BRANAGAN,7,N,Independent,IND,1655
+18,Chatsworth,Informal,Informal,0,N,Informal,Informal,800
+18,Chatsworth,Aaron,CLARKE,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,965
+18,Chatsworth,Madonna,GUY,2,N,Informed Medical Options Party (IMOP),IMOP,362
+18,Chatsworth,Lisa,O'DONNELL,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,12497
+18,Chatsworth,Steve,MINNIKIN,4,Y,Liberal National Party of Queensland,LNP,14614
+18,Chatsworth,Andrew,CROOK,5,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,191
+18,Chatsworth,Kathryn,FRY,6,N,Queensland Greens,The Greens,2941
+19,Clayfield,Informal,Informal,0,N,Informal,Informal,719
+19,Clayfield,Tim,NICHOLLS,1,Y,Liberal National Party of Queensland,LNP,15979
+19,Clayfield,Andrew,BARTLETT,2,N,Queensland Greens,The Greens,6132
+19,Clayfield,Philip,ANTHONY,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,11157
+19,Clayfield,Kathy,MOLONEY,4,N,Civil Liberties & Motorists Party,CLMP,254
+19,Clayfield,Robert,KING,5,N,Independent,IND,478
+19,Clayfield,Abby,DOUGLAS,6,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,817
+20,Condamine,Informal,Informal,0,N,Informal,Informal,993
+20,Condamine,Sean,WOMERSLEY,1,N,Queensland Greens,The Greens,1659
+20,Condamine,Greg,PRIEBE,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,5286
+20,Condamine,Pat,WEIR,3,Y,Liberal National Party of Queensland,LNP,18466
+20,Condamine,Brendon,HUYBREGTS,4,N,Australian Labor Party (State of Queensland),Australian Labor Party,7775
+20,Condamine,Nui,HARRIS,5,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,595
+21,Cook,Informal,Informal,0,N,Informal,Informal,1167
+21,Cook,Yodie,BATZKE,1,N,Independent,IND,1000
+21,Cook,Ed (Nipper),BROWN,2,N,Liberal National Party of Queensland,LNP,6241
+21,Cook,Desmond,TAYLEY,3,N,North Queensland First,NQF,624
+21,Cook,Brett (Beaver),NEAL,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1717
+21,Cook,Deby,RUDDELL,5,N,Queensland Greens,The Greens,1306
+21,Cook,Tanika,PARKER,6,N,Katter's Australian Party (KAP),KAP,4458
+21,Cook,Cynthia,LUI,7,Y,Australian Labor Party (State of Queensland),Australian Labor Party,10363
+21,Cook,Stephen,GOULMY,8,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,184
+22,Coomera,Informal,Informal,0,N,Informal,Informal,1888
+22,Coomera,Lissy,GAVRANICH,1,N,Queensland Greens,The Greens,3015
+22,Coomera,Chris,JOHNSON,2,N,Australian Labor Party (State of Queensland),Australian Labor Party,13310
+22,Coomera,Heath,GALLAGHER,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,618
+22,Coomera,She,D'MONTFORD,4,N,Informed Medical Options Party (IMOP),IMOP,481
+22,Coomera,Michael,CRANDON,5,Y,Liberal National Party of Queensland,LNP,14655
+22,Coomera,Darryl,PROUT,6,N,Animal Justice Party (Queensland),Animal Justice Party,977
+22,Coomera,Kris,BOURBON,7,N,Independent,IND,558
+22,Coomera,Tabita,WILKINSON,8,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3051
+23,Cooper,Informal,Informal,0,N,Informal,Informal,443
+23,Cooper,Robert,WILTSHIRE,1,N,Independent,IND,366
+23,Cooper,Susan,VENTNOR,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,587
+23,Cooper,Katinka,WINSTON-ALLOM,3,N,Queensland Greens,The Greens,10000
+23,Cooper,Trent,WISEMAN,4,N,Liberal National Party of Queensland,LNP,11285
+23,Cooper,Jonty,BUSH,5,Y,Australian Labor Party (State of Queensland),Australian Labor Party,11509
+24,Currumbin,Informal,Informal,0,N,Informal,Informal,1454
+24,Currumbin,Tracy,TAKACS-THORNE,1,N,Independent,IND,1048
+24,Currumbin,Richard,STUCKEY,2,N,Independent,IND,1681
+24,Currumbin,Peter,BURGOYNE,3,N,Queensland Greens,The Greens,2933
+24,Currumbin,Kaylee,CAMPRADT,4,N,Australian Labor Party (State of Queensland),Australian Labor Party,10317
+24,Currumbin,Laura,GERBER,5,Y,Liberal National Party of Queensland,LNP,11957
+24,Currumbin,Glen,WADSWORTH,6,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1193
+24,Currumbin,Anna,PALMER,7,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,460
+24,Currumbin,Ian,LOGAN,8,N,Independent,IND,127
+25,Everton,Informal,Informal,0,N,Informal,Informal,782
+25,Everton,Mal,JOHNSON,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1051
+25,Everton,Frank,JORDAN,2,N,Legalise Cannabis Qld (Party),LCQP,871
+25,Everton,Joanne,DISSANAYAKE,3,N,Informed Medical Options Party (IMOP),IMOP,264
+25,Everton,Tim,MANDER,4,Y,Liberal National Party of Queensland,LNP,15455
+25,Everton,Danielle,SHANKEY,5,N,Australian Labor Party (State of Queensland),Australian Labor Party,12755
+25,Everton,Jabez,WELLS,6,N,Independent,IND,105
+25,Everton,Helen,RATH,7,N,Queensland Greens,The Greens,3098
+25,Everton,Simon,RUSS,8,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,152
+26,Ferny Grove,Informal,Informal,0,N,Informal,Informal,870
+26,Ferny Grove,Susan,PINI,1,N,Informed Medical Options Party (IMOP),IMOP,510
+26,Ferny Grove,John,MCCABE,2,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,191
+26,Ferny Grove,Mark,SCOFIELD,3,N,Independent,IND,467
+26,Ferny Grove,Mark,FURNER,4,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14577
+26,Ferny Grove,Elton,WILLIAMS,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,956
+26,Ferny Grove,Joel,COLLS,6,N,Queensland Greens,The Greens,4910
+26,Ferny Grove,Chris,LEHMANN,7,N,Liberal National Party of Queensland,LNP,10714
+27,Gaven,Informal,Informal,0,N,Informal,Informal,1419
+27,Gaven,Sharon,SEWELL,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2239
+27,Gaven,Meaghan,SCANLON,2,Y,Australian Labor Party (State of Queensland),Australian Labor Party,12932
+27,Gaven,Suzette,LUYKEN,3,N,Legalise Cannabis Qld (Party),LCQP,1065
+27,Gaven,Reyna,DRAKE,4,N,Civil Liberties & Motorists Party,CLMP,192
+27,Gaven,Garry,BECK,5,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,292
+27,Gaven,Kirsten,JACKSON,6,N,Liberal National Party of Queensland,LNP,9021
+27,Gaven,Sally,SPAIN,7,N,Queensland Greens,The Greens,1503
+28,Gladstone,Informal,Informal,0,N,Informal,Informal,924
+28,Gladstone,Murray,PETERSON,1,N,Independent,IND,1162
+28,Gladstone,Kevin,JORGENSEN,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3677
+28,Gladstone,Ron,HARDING,3,N,Liberal National Party of Queensland,LNP,4339
+28,Gladstone,Glenn,BUTCHER,4,Y,Australian Labor Party (State of Queensland),Australian Labor Party,18429
+28,Gladstone,Emma,EASTAUGHFFE,5,N,Queensland Greens,The Greens,1011
+29,Glass House,Informal,Informal,0,N,Informal,Informal,1083
+29,Glass House,Graeme,CAMPBELL,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3134
+29,Glass House,James,MCDONALD,2,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,343
+29,Glass House,Brent,HAMPSTEAD,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,9753
+29,Glass House,Andrew,MCLEAN,4,N,Queensland Greens,The Greens,3937
+29,Glass House,Andrew,POWELL,5,Y,Liberal National Party of Queensland,LNP,12265
+29,Glass House,Laressa,MCCOY,6,N,Informed Medical Options Party (IMOP),IMOP,1015
+30,Greenslopes,Informal,Informal,0,N,Informal,Informal,640
+30,Greenslopes,John,BOOKER,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,805
+30,Greenslopes,Joe,KELLY,2,Y,Australian Labor Party (State of Queensland),Australian Labor Party,13426
+30,Greenslopes,Victor,HUML,3,N,Queensland Greens,The Greens,7609
+30,Greenslopes,Andrew,NEWBOLD,4,N,Liberal National Party of Queensland,LNP,10238
+30,Greenslopes,Jasmine (Jazzy),MELHOP,5,N,Informed Medical Options Party (IMOP),IMOP,403
+31,Gregory,Informal,Informal,0,N,Informal,Informal,577
+31,Gregory,Paul,BAMBRICK,1,N,Queensland Greens,The Greens,580
+31,Gregory,Lachlan,MILLAR,2,Y,Liberal National Party of Queensland,LNP,11197
+31,Gregory,Thomas,TURNER,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,288
+31,Gregory,Tania,KIARA,4,N,Informed Medical Options Party (IMOP),IMOP,256
+31,Gregory,Dave,KERRIGAN,5,N,Australian Labor Party (State of Queensland),Australian Labor Party,5121
+31,Gregory,Bruce,CURRIE,6,N,Civil Liberties & Motorists Party,CLMP,370
+31,Gregory,Clint,ROTHERY,7,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2861
+32,Gympie,Informal,Informal,0,N,Informal,Informal,1676
+32,Gympie,Roland,MAERTENS,1,N,Independent,IND,457
+32,Gympie,Tony,PERRETT,2,Y,Liberal National Party of Queensland,LNP,14071
+32,Gympie,Tim,JEROME,3,N,Independent,IND,1709
+32,Gympie,Donna,REARDON,4,N,Independent,IND,636
+32,Gympie,Michael,BLAXLAND,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,4172
+32,Gympie,Nicholas,FAIRBAIRN,6,N,Informed Medical Options Party (IMOP),IMOP,566
+32,Gympie,Lauren,GRANGER-BROWN,7,N,Queensland Greens,The Greens,2060
+32,Gympie,Geoff,WILLIAMS,8,N,Australian Labor Party (State of Queensland),Australian Labor Party,9501
+33,Hervey Bay,Informal,Informal,0,N,Informal,Informal,1247
+33,Hervey Bay,Steve,COLEMAN,1,N,Liberal National Party of Queensland,LNP,11637
+33,Hervey Bay,Damian,HUXHAM,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3773
+33,Hervey Bay,Adrian,TANTARI,3,Y,Australian Labor Party (State of Queensland),Australian Labor Party,13382
+33,Hervey Bay,Amy,BYRNES,4,N,Animal Justice Party (Queensland),Animal Justice Party,1024
+33,Hervey Bay,Sonja,GERDSEN,5,N,Queensland Greens,The Greens,1061
+33,Hervey Bay,Stuart,TAYLOR,6,N,Independent,IND,3001
+34,Hill,Informal,Informal,0,N,Informal,Informal,1179
+34,Hill,Tara,GAROZZO,1,N,Informed Medical Options Party (IMOP),IMOP,850
+34,Hill,Peter,CAMPION,2,N,Independent,IND,414
+34,Hill,Shane,KNUTH,3,Y,Katter's Australian Party (KAP),KAP,16970
+34,Hill,Nick,CUDA,4,N,Liberal National Party of Queensland,LNP,5466
+34,Hill,Chester Gordon,TUXFORD,5,N,Independent,IND,114
+34,Hill,Michael,HODGKINS,6,N,Australian Labor Party (State of Queensland),Australian Labor Party,6354
+34,Hill,Jennifer,COX,7,N,Queensland Greens,The Greens,2083
+35,Hinchinbrook,Informal,Informal,0,N,Informal,Informal,1053
+35,Hinchinbrook,Michael,SULLIVAN,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2097
+35,Hinchinbrook,Carolyn,MEWING,2,N,Queensland Greens,The Greens,1010
+35,Hinchinbrook,Aurelio,MASON,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,393
+35,Hinchinbrook,Jen,SACKLEY,4,N,Independent,IND,351
+35,Hinchinbrook,Scott,PIPER,5,N,Liberal National Party of Queensland,LNP,7342
+35,Hinchinbrook,Paul,JACOB,6,N,Australian Labor Party (State of Queensland),Australian Labor Party,5723
+35,Hinchinbrook,Nick,DAMETTO,7,Y,Katter's Australian Party (KAP),KAP,12522
+36,Inala,Informal,Informal,0,N,Informal,Informal,1521
+36,Inala,Scott,REID,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1341
+36,Inala,Peter,MURPHY,2,N,Queensland Greens,The Greens,2275
+36,Inala,Annastacia,PALASZCZUK,3,Y,Australian Labor Party (State of Queensland),Australian Labor Party,19888
+36,Inala,Nigel,QUINLAN,4,N,Legalise Cannabis Qld (Party),LCQP,734
+36,Inala,Terry,JONES,5,N,Independent,IND,197
+36,Inala,Michael,VIDAL,6,N,Civil Liberties & Motorists Party,CLMP,183
+36,Inala,Miljenka,PEROVIC,7,N,Liberal National Party of Queensland,LNP,4879
+37,Ipswich,Informal,Informal,0,N,Informal,Informal,903
+37,Ipswich,Suzie,HOLMES,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3947
+37,Ipswich,Pat,WALSH,2,N,Queensland Greens,The Greens,2396
+37,Ipswich,Scott,O'CONNELL,3,N,Liberal National Party of Queensland,LNP,5769
+37,Ipswich,Shelly,MORTON,4,N,Legalise Cannabis Qld (Party),LCQP,1565
+37,Ipswich,Jennifer,HOWARD,5,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14699
+38,Ipswich West,Informal,Informal,0,N,Informal,Informal,1252
+38,Ipswich West,Clem,GRIEGER,1,N,Civil Liberties & Motorists Party,CLMP,565
+38,Ipswich West,Raven,WOLF,2,N,Queensland Greens,The Greens,1957
+38,Ipswich West,Karakan Karoly,KOCHARDY,3,N,Independent,IND,321
+38,Ipswich West,Chris,GREEN,4,N,Liberal National Party of Queensland,LNP,6328
+38,Ipswich West,Gary,DUFFY,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,4412
+38,Ipswich West,Anthony,HOPKINS,6,N,Legalise Cannabis Qld (Party),LCQP,1361
+38,Ipswich West,Jim,MADDEN,7,Y,Australian Labor Party (State of Queensland),Australian Labor Party,15033
+39,Jordan,Informal,Informal,0,N,Informal,Informal,1197
+39,Jordan,Navdeep Singh,SIDHU,1,N,Queensland Greens,The Greens,3579
+39,Jordan,Neil,SYMES,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3705
+39,Jordan,Andrew,MOONEY,3,N,Liberal National Party of Queensland,LNP,7560
+39,Jordan,Charis,MULLEN,4,Y,Australian Labor Party (State of Queensland),Australian Labor Party,18471
+40,Kawana,Informal,Informal,0,N,Informal,Informal,1038
+40,Kawana,Lynette,MOUSSALLI,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1924
+40,Kawana,Anna,SRI,2,N,Queensland Greens,The Greens,2965
+40,Kawana,Afrikah,MCGLADRIGAN,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,324
+40,Kawana,Jarrod,BLEIJIE,4,Y,Liberal National Party of Queensland,LNP,16148
+40,Kawana,Pamela,MARIKO,5,N,Animal Justice Party (Queensland),Animal Justice Party,569
+40,Kawana,Bill,REDPATH,6,N,Australian Labor Party (State of Queensland),Australian Labor Party,9835
+41,Keppel,Informal,Informal,0,N,Informal,Informal,973
+41,Keppel,Brittany,LAUGA,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14969
+41,Keppel,Adrian,DE GROOT,2,N,Liberal National Party of Queensland,LNP,9576
+41,Keppel,Jimmy,DOCKERY,3,N,Legalise Cannabis Qld (Party),LCQP,862
+41,Keppel,Nikki,SMELTZ,4,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,192
+41,Keppel,Wade,ROTHERY,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,5069
+41,Keppel,Paula,GANFIELD,6,N,Informed Medical Options Party (IMOP),IMOP,430
+41,Keppel,Clancy,MULLBRICK,7,N,Queensland Greens,The Greens,1291
+42,Kurwongbah,Informal,Informal,0,N,Informal,Informal,1192
+42,Kurwongbah,Earl,SNIJDERS,1,N,Queensland Greens,The Greens,2317
+42,Kurwongbah,Thor,PROHASKA,2,N,Independent,IND,721
+42,Kurwongbah,Kerry,PETRUS,3,N,Liberal National Party of Queensland,LNP,8460
+42,Kurwongbah,Heather,DWANE,4,N,Animal Justice Party (Queensland),Animal Justice Party,787
+42,Kurwongbah,Kim,ATTRILL,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2834
+42,Kurwongbah,Shane,KING,6,Y,Australian Labor Party (State of Queensland),Australian Labor Party,16243
+43,Lockyer,Informal,Informal,0,N,Informal,Informal,1091
+43,Lockyer,Andrew,ROCKLIFF,1,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,563
+43,Lockyer,Corey,WEST,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,4010
+43,Lockyer,Janet,BUTLER,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,7477
+43,Lockyer,Jim,SAVAGE,4,N,Independent,IND,3057
+43,Lockyer,Rebecca,HALEY,5,N,Queensland Greens,The Greens,1489
+43,Lockyer,Jim,MCDONALD,6,Y,Liberal National Party of Queensland,LNP,13662
+44,Logan,Informal,Informal,0,N,Informal,Informal,1205
+44,Logan,Peter,WEBER,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,4283
+44,Logan,Sam,ISKANDER,2,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,524
+44,Logan,Liam,JENKINSON,3,N,Queensland Greens,The Greens,1900
+44,Logan,Clinton,PATTISON,4,N,Liberal National Party of Queensland,LNP,7725
+44,Logan,Linus,POWER,5,Y,Australian Labor Party (State of Queensland),Australian Labor Party,16587
+45,Lytton,Informal,Informal,0,N,Informal,Informal,856
+45,Lytton,Georgia,PHILLIPS,1,N,Informed Medical Options Party (IMOP),IMOP,606
+45,Lytton,Gordon,WALTERS,2,N,Liberal National Party of Queensland,LNP,9955
+45,Lytton,Jonathan,SPAITS,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,321
+45,Lytton,Joan,PEASE,4,Y,Australian Labor Party (State of Queensland),Australian Labor Party,17067
+45,Lytton,Debra,SMITH,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1289
+45,Lytton,Ken,AUSTIN,6,N,Queensland Greens,The Greens,3450
+46,Macalister,Informal,Informal,0,N,Informal,Informal,1667
+46,Macalister,Bronwyn,BYE,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2178
+46,Macalister,Kirsty,PETERSEN,2,N,Queensland Greens,The Greens,1810
+46,Macalister,Melissa,MCMAHON,3,Y,Australian Labor Party (State of Queensland),Australian Labor Party,12896
+46,Macalister,David,MCCLAER,4,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,348
+46,Macalister,Ben,MUSGRAVE,5,N,Civil Liberties & Motorists Party,CLMP,304
+46,Macalister,Judi,VAN MANEN,6,N,Liberal National Party of Queensland,LNP,7921
+46,Macalister,Margaret,KEECH,7,N,Independent,IND,3020
+46,Macalister,Paul A S,TAYLOR,8,N,Independent,IND,714
+47,McConnel,Informal,Informal,0,N,Informal,Informal,885
+47,McConnel,Kirsten,LOVEJOY,1,N,Queensland Greens,The Greens,9263
+47,McConnel,Miranda,BERTRAM,2,N,Independent,IND,236
+47,McConnel,John Fair,DOBINSON,3,N,Independent,IND,93
+47,McConnel,Pinky,SINGH,4,N,Liberal National Party of Queensland,LNP,10192
+47,McConnel,Malcolm,WOOD,5,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,164
+47,McConnel,Grace,GRACE,6,Y,Australian Labor Party (State of Queensland),Australian Labor Party,11616
+47,McConnel,Paul,SWAN,7,N,Legalise Cannabis Qld (Party),LCQP,721
+47,McConnel,Anne,PERRY,8,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,474
+47,McConnel,Alan,HAMILTON,9,N,Informed Medical Options Party (IMOP),IMOP,152
+48,Mackay,Informal,Informal,0,N,Informal,Informal,1314
+48,Mackay,Chris,BONANNO,1,N,Liberal National Party of Queensland,LNP,10061
+48,Mackay,Shaun,KRSTIC,2,N,Legalise Cannabis Qld (Party),LCQP,1378
+48,Mackay,Julie,SAUNDERS,3,N,Informed Medical Options Party (IMOP),IMOP,382
+48,Mackay,Julieanne,GILBERT,4,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14632
+48,Mackay,Christine,KEYS,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3965
+48,Mackay,Imogen,LINDENBERG,6,N,Queensland Greens,The Greens,1071
+49,Maiwar,Informal,Informal,0,N,Informal,Informal,478
+49,Maiwar,Michael,BERKMAN,1,Y,Queensland Greens,The Greens,14254
+49,Maiwar,Jacob,RUSH,2,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,170
+49,Maiwar,Palani,THEVAR,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,6413
+49,Maiwar,Michael Andrew,JOHNSON,4,N,Independent,IND,348
+49,Maiwar,Boyd,SHANNON,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,476
+49,Maiwar,Lauren,DAY,6,N,Liberal National Party of Queensland,LNP,12832
+50,Mansfield,Informal,Informal,0,N,Informal,Informal,826
+50,Mansfield,Janet,WISHART,1,N,Liberal National Party of Queensland,LNP,11874
+50,Mansfield,Corrine,MCMILLAN,2,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14256
+50,Mansfield,Rob,WALTER,3,N,Queensland Greens,The Greens,2967
+50,Mansfield,Jarrod John,WIRTH,4,N,Independent,IND,233
+50,Mansfield,Maria,TODOROVA,5,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,145
+50,Mansfield,Brendan,TAYLOR,6,N,Legalise Cannabis Qld (Party),LCQP,708
+50,Mansfield,Christopher,O'CALLAGHAN,7,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,715
+51,Maroochydore,Informal,Informal,0,N,Informal,Informal,1327
+51,Maroochydore,Gabrielle,UNVERZAGT,1,N,Queensland Greens,The Greens,3336
+51,Maroochydore,Janet,CREEVEY,2,N,Independent,IND,149
+51,Maroochydore,Rod,MCCORMACK,3,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1247
+51,Maroochydore,Tash,POOLE,4,N,Animal Justice Party (Queensland),Animal Justice Party,926
+51,Maroochydore,Mark,WADESON,5,N,Independent,IND,147
+51,Maroochydore,Alison,SMITH,6,N,Australian Labor Party (State of Queensland),Australian Labor Party,7737
+51,Maroochydore,Fiona,SIMPSON,7,Y,Liberal National Party of Queensland,LNP,14426
+51,Maroochydore,Greg,SEARLE,8,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,248
+51,Maroochydore,John,CONNOLLY,9,N,Independent,IND,1916
+52,Maryborough,Informal,Informal,0,N,Informal,Informal,1293
+52,Maryborough,Bruce,SAUNDERS,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,17751
+52,Maryborough,Samantha,PACKER,2,N,Informed Medical Options Party (IMOP),IMOP,452
+52,Maryborough,Alex,SOKOLOV,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,194
+52,Maryborough,Denis,CHAPMAN,4,N,Liberal National Party of Queensland,LNP,8763
+52,Maryborough,Sharon,LOHSE,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,4392
+52,Maryborough,River,BODY,6,N,Legalise Cannabis Qld (Party),LCQP,885
+52,Maryborough,Craig,ARMSTRONG,7,N,Queensland Greens,The Greens,888
+53,Mermaid Beach,Informal,Informal,0,N,Informal,Informal,1870
+53,Mermaid Beach,Zai,HARRIS,1,N,Queensland Greens,The Greens,3090
+53,Mermaid Beach,Rhett,HOLT,2,N,Independent,IND,302
+53,Mermaid Beach,Hristo,AVDJIEV,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,375
+53,Mermaid Beach,Nicholas,MCARTHUR-WILLIAMS,4,N,Independent,IND,254
+53,Mermaid Beach,Suphakan (Mod),SOMSRIRUEN,5,N,Civil Liberties & Motorists Party,CLMP,174
+53,Mermaid Beach,Carl,UNGERER,6,N,Australian Labor Party (State of Queensland),Australian Labor Party,8721
+53,Mermaid Beach,Ray,STEVENS,7,Y,Liberal National Party of Queensland,LNP,12604
+53,Mermaid Beach,Deb,LYNCH,8,N,Legalise Cannabis Qld (Party),LCQP,1142
+53,Mermaid Beach,Stephen,JAMES,9,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1434
+53,Mermaid Beach,Tory,JONES,10,N,Independent,IND,506
+54,Miller,Informal,Informal,0,N,Informal,Informal,620
+54,Miller,Josip,ZIRDUM,1,N,Legalise Cannabis Qld (Party),LCQP,1004
+54,Miller,Mark,BAILEY,2,Y,Australian Labor Party (State of Queensland),Australian Labor Party,13407
+54,Miller,Paul,DARWEN,3,N,Liberal National Party of Queensland,LNP,9759
+54,Miller,Patsy,O'BRIEN,4,N,Queensland Greens,The Greens,6590
+54,Miller,Edward,CARROLL,5,N,Independent,IND,380
+54,Miller,Maria,PACKER,6,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,613
+54,Miller,Christian John,JULIUS,7,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,174
+55,Mirani,Informal,Informal,0,N,Informal,Informal,1146
+55,Mirani,Stephen,ANDREW,1,Y,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,9320
+55,Mirani,Nick,BYRAM,2,N,Civil Liberties & Motorists Party,CLMP,342
+55,Mirani,Shane,HAMILTON,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,9412
+55,Mirani,Tracie,NEWITT,4,N,Liberal National Party of Queensland,LNP,8123
+55,Mirani,Ben,WATKIN,5,N,Queensland Greens,The Greens,715
+55,Mirani,Jason,BORG,6,N,North Queensland First,NQF,1200
+55,Mirani,Tepepe,BORG,7,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,329
+56,Moggill,Informal,Informal,0,N,Informal,Informal,546
+56,Moggill,Roberta,ALBRECHT,1,N,Australian Labor Party (State of Queensland),Australian Labor Party,9012
+56,Moggill,Amy,RAYWARD,2,N,Civil Liberties & Motorists Party,CLMP,395
+56,Moggill,Christian,ROWAN,3,Y,Liberal National Party of Queensland,LNP,14888
+56,Moggill,Bruce,MITCHELL,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,922
+56,Moggill,Lawson,MCCANE,5,N,Queensland Greens,The Greens,6536
+57,Morayfield,Informal,Informal,0,N,Informal,Informal,1429
+57,Morayfield,Amy,SMITH,1,N,Queensland Greens,The Greens,2393
+57,Morayfield,Theresa,CRAIG,2,N,Liberal National Party of Queensland,LNP,6549
+57,Morayfield,Rodney,HANSEN,3,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3582
+57,Morayfield,Grant,MATTHEWS,4,N,Informed Medical Options Party (IMOP),IMOP,594
+57,Morayfield,Jason,SNOW,5,N,Independent,IND,631
+57,Morayfield,Mark,RYAN,6,Y,Australian Labor Party (State of Queensland),Australian Labor Party,16386
+58,Mount Ommaney,Informal,Informal,0,N,Informal,Informal,905
+58,Mount Ommaney,Clive,BRAZIER,1,N,Legalise Cannabis Qld (Party),LCQP,1034
+58,Mount Ommaney,Michael,POWELL,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,819
+58,Mount Ommaney,Ian,EUGARDE,3,N,Independent,IND,184
+58,Mount Ommaney,Asha,WORSTELING,4,N,Queensland Greens,The Greens,3526
+58,Mount Ommaney,Roger,HOOPER,5,N,Liberal National Party of Queensland,LNP,10252
+58,Mount Ommaney,Jess,PUGH,6,Y,Australian Labor Party (State of Queensland),Australian Labor Party,16148
+59,Mudgeeraba,Informal,Informal,0,N,Informal,Informal,1667
+59,Mudgeeraba,Gary,PEAD,1,N,Independent,IND,528
+59,Mudgeeraba,Brandon,MCMAHON,2,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,565
+59,Mudgeeraba,Leith,ERIKSON,3,N,Independent,IND,224
+59,Mudgeeraba,Andrew,LIDDELL,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2464
+59,Mudgeeraba,Mark,PYTELLEK,5,N,Civil Liberties & Motorists Party,CLMP,299
+59,Mudgeeraba,Bill,SHERWOOD,6,N,Independent,IND,273
+59,Mudgeeraba,Maxim,OTTEN-KAMP,7,N,Australian Labor Party (State of Queensland),Australian Labor Party,8472
+59,Mudgeeraba,Lindon,COX,8,N,Animal Justice Party (Queensland),Animal Justice Party,624
+59,Mudgeeraba,Ros,BATES,9,Y,Liberal National Party of Queensland,LNP,15640
+59,Mudgeeraba,Scott,TURNER,10,N,Queensland Greens,The Greens,2857
+60,Mulgrave,Informal,Informal,0,N,Informal,Informal,1256
+60,Mulgrave,Curtis,PITT,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14254
+60,Mulgrave,Attila,FEHER-HOLAN,2,N,Katter's Australian Party (KAP),KAP,3395
+60,Mulgrave,Sue,CORY,3,N,Queensland Greens,The Greens,1772
+60,Mulgrave,Francis,BARTORILLO,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1825
+60,Mulgrave,Gerry,VALLIANOS,5,N,Liberal National Party of Queensland,LNP,7341
+61,Mundingburra,Informal,Informal,0,N,Informal,Informal,945
+61,Mundingburra,Susan,JACKSON,1,N,Legalise Cannabis Qld (Party),LCQP,1307
+61,Mundingburra,Jenny,BROWN,2,N,Queensland Greens,The Greens,1953
+61,Mundingburra,Les,WALKER,3,Y,Australian Labor Party (State of Queensland),Australian Labor Party,10839
+61,Mundingburra,Glenn,DOYLE,4,N,Liberal National Party of Queensland,LNP,9170
+61,Mundingburra,Martin,BREWSTER,5,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,320
+61,Mundingburra,Ian,BOWRON,6,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1323
+61,Mundingburra,Alannah,TOMLINSON,7,N,Katter's Australian Party (KAP),KAP,3448
+62,Murrumba,Informal,Informal,0,N,Informal,Informal,1269
+62,Murrumba,Jason,KENNEDY,1,N,Queensland Greens,The Greens,2840
+62,Murrumba,Karen,HADDOCK,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2571
+62,Murrumba,Yvonne,BARLOW,3,N,Liberal National Party of Queensland,LNP,10016
+62,Murrumba,Stewart,CLARK,4,N,Independent,IND,667
+62,Murrumba,Steven,MILES,5,Y,Australian Labor Party (State of Queensland),Australian Labor Party,17433
+62,Murrumba,Leichelle,MCMAHON,6,N,"Shooters, Fishers and Farmers Party (QLD)",SFF,961
+63,Nanango,Informal,Informal,0,N,Informal,Informal,859
+63,Nanango,Tony,SCRIMSHAW,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,4737
+63,Nanango,Deb,FRECKLINGTON,2,Y,Liberal National Party of Queensland,LNP,16085
+63,Nanango,Mark,STAPLETON,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,8908
+63,Nanango,Maggie,O'RANCE,4,N,Legalise Cannabis Qld (Party),LCQP,1342
+63,Nanango,John,HARBISON,5,N,Queensland Greens,The Greens,1154
+64,Nicklin,Informal,Informal,0,N,Informal,Informal,1138
+64,Nicklin,Robert,SKELTON,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,10214
+64,Nicklin,Sue,ETHERIDGE,2,N,Queensland Greens,The Greens,3702
+64,Nicklin,Michael,CARDINAL,3,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1900
+64,Nicklin,Riccardo,BOSI,4,N,Independent,IND,1387
+64,Nicklin,Marty,HUNT,5,N,Liberal National Party of Queensland,LNP,11255
+64,Nicklin,Allona,LAHN,6,N,Informed Medical Options Party (IMOP),IMOP,1190
+65,Ninderry,Informal,Informal,0,N,Informal,Informal,1274
+65,Ninderry,Andrea,NEWLAND-BLACKMORE,1,N,Informed Medical Options Party (IMOP),IMOP,1344
+65,Ninderry,Frank,WEIJERS,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2072
+65,Ninderry,Dan,PURDIE,3,Y,Liberal National Party of Queensland,LNP,14582
+65,Ninderry,Melinda,DODDS,4,N,Australian Labor Party (State of Queensland),Australian Labor Party,10714
+65,Ninderry,Jay,GILES,5,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,272
+65,Ninderry,Dan,BRYAR,6,N,Queensland Greens,The Greens,4149
+66,Noosa,Informal,Informal,0,N,Informal,Informal,837
+66,Noosa,Darrell,REDFORD,1,N,Animal Justice Party (Queensland),Animal Justice Party,541
+66,Noosa,Rhonda,PRESCOTT,2,N,Queensland Greens,The Greens,2300
+66,Noosa,Mark,DENHAM,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,4607
+66,Noosa,Tracey,BELL-HENSELIN,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1147
+66,Noosa,Sandy,BOLTON,5,Y,Independent,IND,14051
+66,Noosa,James,BLEVIN,6,N,Liberal National Party of Queensland,LNP,9344
+67,Nudgee,Informal,Informal,0,N,Informal,Informal,839
+67,Nudgee,Dane,PRITCHARD,1,N,Informed Medical Options Party (IMOP),IMOP,584
+67,Nudgee,Carrol,HALLIWELL,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1149
+67,Nudgee,Jim,DAVIES,3,N,Queensland Greens,The Greens,4327
+67,Nudgee,Leanne,LINARD,4,Y,Australian Labor Party (State of Queensland),Australian Labor Party,16836
+67,Nudgee,Ryan,SHAW,5,N,Liberal National Party of Queensland,LNP,9818
+68,Oodgeroo,Informal,Informal,0,N,Informal,Informal,894
+68,Oodgeroo,Mark,ROBINSON,1,Y,Liberal National Party of Queensland,LNP,12083
+68,Oodgeroo,Irene,HENLEY,2,N,Australian Labor Party (State of Queensland),Australian Labor Party,8231
+68,Oodgeroo,Douglas,CHAPMAN,3,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,984
+68,Oodgeroo,Kirstyn,MARRIOTT,4,N,Informed Medical Options Party (IMOP),IMOP,341
+68,Oodgeroo,Ian,MAZLIN,5,N,Queensland Greens,The Greens,1575
+68,Oodgeroo,Claire,RICHARDSON,6,N,Independent,IND,6349
+69,Pine Rivers,Informal,Informal,0,N,Informal,Informal,1115
+69,Pine Rivers,Christopher,LEECH,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1702
+69,Pine Rivers,Tara,SEIFFERT-SMITH,2,N,Queensland Greens,The Greens,3148
+69,Pine Rivers,Nikki,BOYD,3,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14953
+69,Pine Rivers,Bruce,VASCHINA,4,N,Independent,IND,326
+69,Pine Rivers,Kara,THOMAS,5,N,Liberal National Party of Queensland,LNP,12263
+69,Pine Rivers,Steve,AUSTIN,6,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,250
+69,Pine Rivers,Maureen,BROHMAN,7,N,Animal Justice Party (Queensland),Animal Justice Party,549
+69,Pine Rivers,Alissa,PATTRICK,8,N,Informed Medical Options Party (IMOP),IMOP,427
+70,Pumicestone,Informal,Informal,0,N,Informal,Informal,1057
+70,Pumicestone,Ryan,DRYDEN,1,N,Legalise Cannabis Qld (Party),LCQP,1414
+70,Pumicestone,Ali,KING,2,Y,Australian Labor Party (State of Queensland),Australian Labor Party,15423
+70,Pumicestone,Steven,NEWBERY,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,372
+70,Pumicestone,Fiona,GASKE,4,N,Liberal National Party of Queensland,LNP,12150
+70,Pumicestone,Richard,OGDEN,5,N,Queensland Greens,The Greens,1460
+70,Pumicestone,Ross,KONOWALENKO,6,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2617
+71,Redcliffe,Informal,Informal,0,N,Informal,Informal,1044
+71,Redcliffe,Yvette,D'ATH,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,15371
+71,Redcliffe,Carolyn,KERR,2,N,Independent,IND,352
+71,Redcliffe,Virginia,DAVY,3,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1427
+71,Redcliffe,Will,SIMON,4,N,Queensland Greens,The Greens,2364
+71,Redcliffe,Ian,PHILP,5,N,Independent,IND,694
+71,Redcliffe,Kerri-Anne,DOOLEY,6,N,Liberal National Party of Queensland,LNP,12231
+71,Redcliffe,Bob,BLOHBERGER,7,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,314
+72,Redlands,Informal,Informal,0,N,Informal,Informal,1167
+72,Redlands,Carmen,MCNAUGHT,1,N,Queensland Greens,The Greens,2360
+72,Redlands,Henry,PIKE,2,N,Liberal National Party of Queensland,LNP,12457
+72,Redlands,Peter,WILLIAMS,3,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1356
+72,Redlands,Michelle,MAHER,4,N,Informed Medical Options Party (IMOP),IMOP,494
+72,Redlands,Andrew,POPE,5,N,"Shooters, Fishers and Farmers Party (QLD)",SFF,442
+72,Redlands,Kim,RICHARDS,6,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14211
+72,Redlands,Craig,GUNNIS,7,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,213
+72,Redlands,Frank Everett,BRADY,8,N,Legalise Cannabis Qld (Party),LCQP,1132
+73,Rockhampton,Informal,Informal,0,N,Informal,Informal,1489
+73,Rockhampton,Dominic,DOBLO,1,N,Independent,IND,2042
+73,Rockhampton,Tony,HOPKINS,2,N,Liberal National Party of Queensland,LNP,7118
+73,Rockhampton,Mick,JONES,3,N,Queensland Greens,The Greens,1025
+73,Rockhampton,Barry,O'ROURKE,4,Y,Australian Labor Party (State of Queensland),Australian Labor Party,13289
+73,Rockhampton,Yvette,SAXON,5,N,Informed Medical Options Party (IMOP),IMOP,328
+73,Rockhampton,Christian,SHEPHERD,6,N,Katter's Australian Party (KAP),KAP,1151
+73,Rockhampton,Torin,OBRIEN,7,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3714
+73,Rockhampton,Paul,CRANGLE,8,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,130
+73,Rockhampton,Laura,BARNARD,9,N,Legalise Cannabis Qld (Party),LCQP,1189
+74,Sandgate,Informal,Informal,0,N,Informal,Informal,908
+74,Sandgate,Rodney,MILES,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1693
+74,Sandgate,Clark,SIEMSEN,2,N,Liberal National Party of Queensland,LNP,8712
+74,Sandgate,Todd,MILHAM,3,N,Independent,IND,558
+74,Sandgate,Stirling,HINCHLIFFE,4,Y,Australian Labor Party (State of Queensland),Australian Labor Party,17777
+74,Sandgate,Miree,LE ROY,5,N,Queensland Greens,The Greens,3825
+75,Scenic Rim,Informal,Informal,0,N,Informal,Informal,1061
+75,Scenic Rim,Luz,STANTON,1,N,Australian Labor Party (State of Queensland),Australian Labor Party,8699
+75,Scenic Rim,Jon,KRAUSE,2,Y,Liberal National Party of Queensland,LNP,15592
+75,Scenic Rim,Bradley,FOWLER,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,313
+75,Scenic Rim,Deborah,HUSBANDS,4,N,Informed Medical Options Party (IMOP),IMOP,700
+75,Scenic Rim,Paul,HENSELIN,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,4934
+75,Scenic Rim,Pietro,AGNOLETTO,6,N,Queensland Greens,The Greens,2606
+76,South Brisbane,Informal,Informal,0,N,Informal,Informal,882
+76,South Brisbane,Jackie,TRAD,1,N,Australian Labor Party (State of Queensland),Australian Labor Party,11471
+76,South Brisbane,John,MEYER,2,N,Independent,IND,441
+76,South Brisbane,Marcus,THORNE,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,206
+76,South Brisbane,Amy,MACMAHON,4,Y,Queensland Greens,The Greens,12631
+76,South Brisbane,Rosalie,TAXIS,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,573
+76,South Brisbane,Clem,GREHAN,6,N,Liberal National Party of Queensland,LNP,7616
+76,South Brisbane,John,JIGGENS,7,N,Independent,IND,398
+77,Southern Downs,Informal,Informal,0,N,Informal,Informal,756
+77,Southern Downs,Tom,HENDERSON,1,N,Queensland Greens,The Greens,1309
+77,Southern Downs,Joel,RICHTERS,2,N,Australian Labor Party (State of Queensland),Australian Labor Party,8198
+77,Southern Downs,James,LISTER,3,Y,Liberal National Party of Queensland,LNP,16285
+77,Southern Downs,Malcolm,RICHARDSON,4,N,"Shooters, Fishers and Farmers Party (QLD)",SFF,1398
+77,Southern Downs,Deborah,WALDRON,5,N,Legalise Cannabis Qld (Party),LCQP,1189
+77,Southern Downs,Rosemary,MOULDEN,6,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3182
+78,Southport,Informal,Informal,0,N,Informal,Informal,1269
+78,Southport,Alan,QUINN,1,N,Queensland Greens,The Greens,2532
+78,Southport,Raphael,FELIX,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1631
+78,Southport,Brett,LAMBERT,3,N,Independent,IND,669
+78,Southport,Rob,MOLHOEK,4,Y,Liberal National Party of Queensland,LNP,12734
+78,Southport,Susie,GALLAGHER,5,N,Australian Labor Party (State of Queensland),Australian Labor Party,9650
+78,Southport,Jack,DRAKE,6,N,Civil Liberties & Motorists Party,CLMP,267
+78,Southport,Maria,AVDJIEVA,7,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,456
+79,Springwood,Informal,Informal,0,N,Informal,Informal,1083
+79,Springwood,Mick,DE BRENNI,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,15066
+79,Springwood,Janina,LEO,2,N,Queensland Greens,The Greens,2331
+79,Springwood,Judy,RUSH,3,N,Animal Justice Party (Queensland),Animal Justice Party,686
+79,Springwood,Kirrily,BOULTON,4,N,Liberal National Party of Queensland,LNP,10646
+79,Springwood,Glen,COOKSON,5,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1658
+79,Springwood,George,SOKOLOV,6,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,234
+79,Springwood,Ian,SGANZERLA,7,N,Civil Liberties & Motorists Party,CLMP,261
+80,Stafford,Informal,Informal,0,N,Informal,Informal,827
+80,Stafford,Jeff,HODGES,1,N,Civil Liberties & Motorists Party,CLMP,644
+80,Stafford,Stephen,BATES,2,N,Queensland Greens,The Greens,5578
+80,Stafford,Ed,SANGJITPHUN,3,N,Liberal National Party of Queensland,LNP,10837
+80,Stafford,Kerrie,DWYER,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1006
+80,Stafford,Anthony,CONCIATORE,5,N,Independent,IND,417
+80,Stafford,Jimmy,SULLIVAN,6,Y,Australian Labor Party (State of Queensland),Australian Labor Party,15472
+81,Stretton,Informal,Informal,0,N,Informal,Informal,1010
+81,Stretton,Alexey,CHEKHUNOV,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1280
+81,Stretton,Peter,ZHUANG,2,N,Liberal National Party of Queensland,LNP,8609
+81,Stretton,Duncan,PEGG,3,Y,Australian Labor Party (State of Queensland),Australian Labor Party,16128
+81,Stretton,Andrea,WILDIN,4,N,Queensland Greens,The Greens,2483
+82,Surfers Paradise,Informal,Informal,0,N,Informal,Informal,1031
+82,Surfers Paradise,Leeanne,SCHULTZ,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1785
+82,Surfers Paradise,Roger,MCKAY,2,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,684
+82,Surfers Paradise,Brianna,BAILEY,3,N,Australian Labor Party (State of Queensland),Australian Labor Party,7265
+82,Surfers Paradise,John-Paul,LANGBROEK,4,Y,Liberal National Party of Queensland,LNP,16470
+82,Surfers Paradise,Nelson,QUINN,5,N,Queensland Greens,The Greens,2324
+83,Theodore,Informal,Informal,0,N,Informal,Informal,1360
+83,Theodore,Tracey,BELL,1,N,Australian Labor Party (State of Queensland),Australian Labor Party,11516
+83,Theodore,Mark,BOOTHMAN,2,Y,Liberal National Party of Queensland,LNP,13320
+83,Theodore,John,WOODLOCK,3,N,Queensland Greens,The Greens,2083
+83,Theodore,Anita,HOLLAND,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2152
+83,Theodore,Robert,MARKS,5,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,438
+83,Theodore,Gale,OXENFORD,6,N,Independent,IND,618
+84,Thuringowa,Informal,Informal,0,N,Informal,Informal,1182
+84,Thuringowa,Jeni,ALEXANDER,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2907
+84,Thuringowa,Heidi,HARDISTY,2,N,Queensland Greens,The Greens,1476
+84,Thuringowa,Julianne,WOOD,3,N,Katter's Australian Party (KAP),KAP,4780
+84,Thuringowa,Michael (Blu),TURNER,4,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,547
+84,Thuringowa,Aaron,HARPER,5,Y,Australian Labor Party (State of Queensland),Australian Labor Party,10922
+84,Thuringowa,Natalie,MARR,6,N,Liberal National Party of Queensland,LNP,9022
+85,Toohey,Informal,Informal,0,N,Informal,Informal,990
+85,Toohey,Warren,CRAZE,1,N,Liberal National Party of Queensland,LNP,8706
+85,Toohey,Claudia,ROEL,2,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,939
+85,Toohey,Claire,GARTON,3,N,Queensland Greens,The Greens,3636
+85,Toohey,Nikolas,PETERSON,4,N,Legalise Cannabis Qld (Party),LCQP,1072
+85,Toohey,Peter,RUSSO,5,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14591
+86,Toowoomba North,Informal,Informal,0,N,Informal,Informal,819
+86,Toowoomba North,Ron,HUMPHREY,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2380
+86,Toowoomba North,Trevor,WATTS,2,Y,Liberal National Party of Queensland,LNP,16115
+86,Toowoomba North,Stella,SOKOLOVA,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,364
+86,Toowoomba North,Alyce,NELLIGAN,4,N,Queensland Greens,The Greens,2080
+86,Toowoomba North,Megan,O'HARA SULLIVAN,5,N,Australian Labor Party (State of Queensland),Australian Labor Party,11297
+87,Toowoomba South,Informal,Informal,0,N,Informal,Informal,929
+87,Toowoomba South,Dylan,KOZLOWSKI,1,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2502
+87,Toowoomba South,Thomas,COYNE,2,N,Queensland Greens,The Greens,2232
+87,Toowoomba South,Allan,TURNER,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,490
+87,Toowoomba South,David,JANETZKI,4,Y,Liberal National Party of Queensland,LNP,16689
+87,Toowoomba South,Robert,BERRY,5,N,Independent,IND,570
+87,Toowoomba South,Susan,KRAUSE,6,N,Australian Labor Party (State of Queensland),Australian Labor Party,10028
+88,Townsville,Informal,Informal,0,N,Informal,Informal,1484
+88,Townsville,Toni,MCMAHON,1,N,Informed Medical Options Party (IMOP),IMOP,534
+88,Townsville,Joshua,SCHWARZ,2,N,Katter's Australian Party (KAP),KAP,3204
+88,Townsville,Scott,STEWART,3,Y,Australian Labor Party (State of Queensland),Australian Labor Party,10289
+88,Townsville,Samara,GRUMBERG,4,N,Animal Justice Party (Queensland),Animal Justice Party,554
+88,Townsville,John,HATHAWAY,5,N,Liberal National Party of Queensland,LNP,9508
+88,Townsville,Greg,DOWLING,6,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,520
+88,Townsville,Clynton,HAWKS,7,N,North Queensland First,NQF,157
+88,Townsville,Clive,CLARKSON,8,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,1293
+88,Townsville,Tom,O'GRADY,9,N,Queensland Greens,The Greens,2366
+89,Traeger,Informal,Informal,0,N,Informal,Informal,633
+89,Traeger,James,BAMBRICK,1,N,Australian Labor Party (State of Queensland),Australian Labor Party,4219
+89,Traeger,Kristian,HORVATH,2,N,Queensland Greens,The Greens,460
+89,Traeger,Robbie,KATTER,3,Y,Katter's Australian Party (KAP),KAP,12047
+89,Traeger,Marnie,SMITH,4,N,Liberal National Party of Queensland,LNP,3284
+89,Traeger,Phillip,COLLINS,5,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,182
+89,Traeger,Craig H.B,SCRIVEN,6,N,Independent,IND,277
+90,Warrego,Informal,Informal,0,N,Informal,Informal,521
+90,Warrego,Rick,GURNETT,1,N,Katter's Australian Party (KAP),KAP,2842
+90,Warrego,Joshua,SANDERSON,2,N,Queensland Greens,The Greens,569
+90,Warrego,Mark,STONE,3,N,Independent,IND,487
+90,Warrego,Joshua,COYNE,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2224
+90,Warrego,Ann,LEAHY,5,Y,Liberal National Party of Queensland,LNP,14100
+90,Warrego,Mark,O'BRIEN,6,N,Australian Labor Party (State of Queensland),Australian Labor Party,4966
+91,Waterford,Informal,Informal,0,N,Informal,Informal,1463
+91,Waterford,Andrew,CASWELL,1,N,Liberal National Party of Queensland,LNP,6902
+91,Waterford,Lachlan,SMART,2,N,Queensland Greens,The Greens,1882
+91,Waterford,Shannon,FENTIMAN,3,Y,Australian Labor Party (State of Queensland),Australian Labor Party,14759
+91,Waterford,Kim,MILLER,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2442
+91,Waterford,Ben,OLSEN,5,N,Civil Liberties & Motorists Party,CLMP,400
+91,Waterford,Lanai,CARTER,6,N,Independent,IND,688
+92,Whitsunday,Informal,Informal,0,N,Informal,Informal,1114
+92,Whitsunday,Paul,HILDER,1,N,Legalise Cannabis Qld (Party),LCQP,1417
+92,Whitsunday,Amanda,CAMM,2,Y,Liberal National Party of Queensland,LNP,9592
+92,Whitsunday,Greg,ARMSTRONG,3,N,Clive Palmer's United Australia Party,Clive Palmer's UAP,255
+92,Whitsunday,Emma,BARRETT,4,N,Queensland Greens,The Greens,1134
+92,Whitsunday,Angie,KELLY,5,N,Australian Labor Party (State of Queensland),Australian Labor Party,9523
+92,Whitsunday,Deb,LAWSON,6,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,2742
+92,Whitsunday,Jason,COSTIGAN,7,N,North Queensland First,NQF,2735
+92,Whitsunday,Ciaron,PATERSON,8,N,Katter's Australian Party (KAP),KAP,1803
+93,Woodridge,Informal,Informal,0,N,Informal,Informal,1634
+93,Woodridge,Cameron,DICK,1,Y,Australian Labor Party (State of Queensland),Australian Labor Party,18935
+93,Woodridge,Russell,BAUER,2,N,Liberal National Party of Queensland,LNP,4249
+93,Woodridge,Valerie,BENNETT,3,N,Queensland Greens,The Greens,2084
+93,Woodridge,Lann,VALENTINE,4,N,Pauline Hanson's One Nation Queensland Division,Pauline Hanson's One Nation,3006
