@@ -42,8 +42,8 @@ def createPrefFlow(electionType: str, electionYear: str):
             # collect PreferenceCount, PreferencePercent, TransferCount, TransferPercent, Winner, distributing
             prefenceCount = {}
             prefencePercent = {}
-            transferCount = {}
-            transferPercent = {}
+            TransferCount = {}
+            TransferPercent = {}
             winner = {}
             distributing = {}
             for row in rows:
@@ -52,9 +52,9 @@ def createPrefFlow(electionType: str, electionYear: str):
                 elif row["CalculationType"] == "Preference Percent":
                     prefencePercent[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])] = row["CalculationValue"]
                 elif row["CalculationType"] == "Transfer Count":
-                    transferCount[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])] = row["CalculationValue"]
+                    TransferCount[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])] = row["CalculationValue"]
                 elif row["CalculationType"] == "Transfer Percent":
-                    transferPercent[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])] = row["CalculationValue"]
+                    TransferPercent[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])] = row["CalculationValue"]
                 if row["Elected"] == "Y":
                     winner[row["DivisionNm"]] = row["PartyAb"]
                 if row["CalculationType"] == "Transfer Percent" and row["CalculationValue"] == "-100":
@@ -85,8 +85,8 @@ def createPrefFlow(electionType: str, electionYear: str):
                 info = [row["DivisionNm"], row["CountNumber"], row["BallotPosition"], row["Surname"], row["GivenNm"], row["PartyAb"], row["PartyNm"], row["Elected"],
                          prefenceCount[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])],
                            prefencePercent[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])],
-                             transferCount[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])],
-                               transferPercent[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])],
+                             TransferCount[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])],
+                               TransferPercent[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])],
                                  winner[row["DivisionNm"]]] 
                 info += current[3:]
                 data[(row["DivisionNm"], row["CountNumber"], row["BallotPosition"])] = info
@@ -188,7 +188,7 @@ def createPrefFlow(electionType: str, electionYear: str):
                                         ballotPosition, Surname, GivenNm, partyCode, party, Elected = candidates[ballotOrderNumber]
 
                                         PreferenceCount = candidate[0].text
-                                        PreferencePercent = candidate[1].text
+                                        PreferencePercent = str(float(candidate[1].text)*100)
 
                                         # add to data dictionary
                                         data[(DivisionNmShort, str(CountNumber), ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, Surname, GivenNm, partyCode, party, Elected, 
@@ -232,30 +232,29 @@ def createPrefFlow(electionType: str, electionYear: str):
 
                                         for possible_candiate in distribution:
                                             if possible_candiate.get("ballotOrderNumber") == candidate:
-                                                transferCount = possible_candiate[0].text
-                                                transferPercent = possible_candiate[1].text
+                                                TransferCount = possible_candiate[0].text
+                                                TransferPercent = possible_candiate[1].text
 
                                                 PreferenceCount = str(int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]) + int(TransferCount))
                                                 PreferencePercent = str(float(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][9]) + float(TransferPercent))
 
                                         data[(DivisionNmShort, CountNumber, ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, Surname, GivenNm, partyCode, party, Elected,
-                                                                                                    PreferenceCount, PreferencePercent, transferCount, transferPercent, Winner, 
+                                                                                                    PreferenceCount, PreferencePercent, TransferCount, TransferPercent, Winner, 
                                                                                                     DistributingBallotPosition, DistributingSurname, DistributingGivenNm, DistributingPartyAb, DistributingPartyNm]
 
                                     # write for exhausted
                                     TransferCount = exhaustedCount
                                     TransferPercent = exhaustedPercent
                                     
-                                    PreferenceCount = int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]) + int(TransferCount)
-                                    PreferencePercent = float(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][9]) + float(TransferPercent)
+                                    PreferenceCount = str(int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]) + int(TransferCount))
+                                    PreferencePercent = str(float(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][9]) + float(TransferPercent))
                                     
                                     ballotPosition = str(int(ballotPosition)+1)
                                     data[(DivisionNmShort, CountNumber, ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, "Exhausted", "Exhausted", "Exhausted", "Exhausted", "N",
-                                                                                                0, 0, 0, 0, Winner, DistributingBallotPosition, DistributingSurname, DistributingGivenNm, DistributingPartyAb, DistributingPartyNm]
+                                                                                                PreferenceCount, PreferencePercent, TransferCount, TransferPercent, Winner, DistributingBallotPosition, DistributingSurname, DistributingGivenNm, DistributingPartyAb, DistributingPartyNm]
                                 
                                 
 
-        # StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
         HEADER = ["DivisionNm", "CountNumber", "BallotPosition", "Surname", "GivenNm", "PartyAb", "PartyNm", "Elected", 
                   "PreferenceCount", "PreferencePercent", "TransferCount", "TransferPercent", "Winner", "DistributingBallotPosition", "DistributingSurname", "DistributingGivenNm", "DistributingPartyAb", "DistributingPartyNm"]
 
