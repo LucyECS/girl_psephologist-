@@ -122,15 +122,16 @@ def createPrefFlow(electionType: str, electionYear: str):
 
         data = {}
 
+        # DIVISIONS
         for child in districts:
             DivisionID = child.get("number")
             DivisionNm = child.get("districtName")
-            print(DivisionNm)
             if electionType == "Council":
                 DivisionNmShort = (" ").join(DivisionNm.split(" ")[2:]).upper()
             elif electionType == "State":
                 DivisionNmShort = DivisionNm.upper()
 
+            # CANDIDATES INFORMATION
             candidates = {}
             for grandchild in child:
 
@@ -155,6 +156,8 @@ def createPrefFlow(electionType: str, electionYear: str):
                             partyCode = "UAP"
                         if partyCode == "Pauline Hanson's One Nation":
                             partyCode = "ONP"
+                        if partyCode == "The Greens":
+                            partyCode = "GRN"
 
                         # get if elected
                         if ballotPosition == winnerBallotPosition:
@@ -167,94 +170,104 @@ def createPrefFlow(electionType: str, electionYear: str):
                         candidates[ballotPosition] = [ballotPosition, Surname, GivenNm, partyCode, party, Elected]
 
                 
-
-
-
+                # GET NUMBER OF FORMAL VOTES
+                if grandchild.get("countName") == "Official First Preference Count":
+                    for greatgrandchild in grandchild:
+                        if greatgrandchild.tag == "totalFormalVotes":
+                            totalFormalVotes = int(greatgrandchild[0].text)
+                            remaining_totalFormalVotes = totalFormalVotes
                         
 
-                # count round Official Distribution of Preference Count
+                # PREFERENCE FLOW
                 if grandchild.get("countName") == "Official Distribution of Preferences Count":
-
                     for greatgrandchild in grandchild:
                         if greatgrandchild.tag == "preferenceDistributionSummary":
                             for distribution in greatgrandchild:
-
+                                
+                                # PRIMARY VOTES
                                 if distribution.tag == "primaryVotes":
                                     CountNumber = 0
+
+                                    # PRIMARY VOTES CANDIDATES
                                     for candidate in distribution:
                                         ballotOrderNumber = candidate.get("ballotOrderNumber")
 
                                         # candidate info
                                         ballotPosition, Surname, GivenNm, partyCode, party, Elected = candidates[ballotOrderNumber]
 
-                                        PreferenceCount = candidate[0].text
-                                        PreferencePercent = str(float(candidate[1].text)*100)
+                                        PreferenceCount = int(candidate[0].text)
+                                        PreferencePercent = round(PreferenceCount/totalFormalVotes*100, 2)
 
                                         # add to data dictionary
                                         data[(DivisionNmShort, str(CountNumber), ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, Surname, GivenNm, partyCode, party, Elected, 
                                                                                                 PreferenceCount, PreferencePercent, 0, 0, Winner, 
                                                                                                 "First Pref", "First Pref", "First Pref", "First Pref", "First Pref"]
                                 
-                                    # add exhausted
+                                    # PRIMARY VOTES EXHAUSTED
                                     ballotPosition = str(int(ballotPosition)+1)
                                     data[(DivisionNmShort, str(CountNumber), ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, "Exhausted", "Exhausted", "Exhausted", "Exhausted", "N", 
                                                                                             0, 0, 0, 0, Winner, "First Pref", "First Pref", "First Pref", "First Pref", "First Pref"]
                                 
                                 
-                                # get the distribution of preferences
+                                # DISTRIBUTION OF PREFERENCES
                                 elif distribution.tag == "preferenceDistribution":
                                     CountNumber = distribution.get("distribution")
 
                                     DistributingBallotPosition, DistributingSurname, DistributingGivenNm, DistributingPartyAb, DistributingPartyNm, DistributingExcluded = candidates[distribution.get("excludedBallotOrder")]
                                     
+                                    numberDistributingVotes = data[(DivisionNmShort, str(int(CountNumber)-1), DistributingBallotPosition)][8]
+
                                     if electionType == "Council":
-                                        exhaustedCount = distribution.find("exhausted")[0].text
-                                        exhaustedPercent = distribution.find("exhausted")[1].text
+                                        exhaustedCount = int(distribution.find("exhausted")[0].text)
+                                        exhaustedPercent = round(exhaustedCount/remaining_totalFormalVotes*100, 2)
 
                                     elif electionType == "State":
-                                        exhaustedCount = "0"
-                                        exhaustedPercent = "0"
+                                        exhaustedCount = 0
+                                        exhaustedPercent = 0.00
+
+                                    remaining_totalFormalVotes = remaining_totalFormalVotes - exhaustedCount
                                     
                                     
-                                    # write for each candidate
+                                    # DISTRIBUTION OF PREFERENCES CANDIDATES
                                     for candidate in candidates:
 
                                         # candidate info
                                         ballotPosition, Surname, GivenNm, partyCode, party, Elected = candidates[candidate]
+                                        # reset counts
                                         PreferenceCount, PreferencePercent, TransferCount, TransferPercent = 0,0,0,0
 
                                         # counts for distributing candidate
                                         if candidate == DistributingBallotPosition:
-                                            TransferCount = str(-int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]))
-                                            TransferPercent = str(-float(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][9]))
-                                            PreferenceCount = "0"
-                                            PreferencePercent = "0"
+                                            TransferCount = -int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8])
+                                            TransferPercent = -100.00
+                                            PreferenceCount = 0
+                                            PreferencePercent = 0
 
                                         for possible_candiate in distribution:
                                             if possible_candiate.get("ballotOrderNumber") == candidate:
-                                                TransferCount = possible_candiate[0].text
-                                                TransferPercent = possible_candiate[1].text
+                                                TransferCount = int(possible_candiate[0].text)
+                                                TransferPercent = round(TransferCount/numberDistributingVotes*100, 2)
 
-                                                PreferenceCount = str(int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]) + int(TransferCount))
-                                                PreferencePercent = str(float(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][9]) + float(TransferPercent))
+                                                PreferenceCount = int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]) + int(TransferCount)
+                                                PreferencePercent = round(PreferenceCount/remaining_totalFormalVotes*100, 2)
 
                                         data[(DivisionNmShort, CountNumber, ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, Surname, GivenNm, partyCode, party, Elected,
                                                                                                     PreferenceCount, PreferencePercent, TransferCount, TransferPercent, Winner, 
                                                                                                     DistributingBallotPosition, DistributingSurname, DistributingGivenNm, DistributingPartyAb, DistributingPartyNm]
 
-                                    # write for exhausted
-                                    TransferCount = exhaustedCount
-                                    TransferPercent = exhaustedPercent
-                                    
-                                    PreferenceCount = str(int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]) + int(TransferCount))
-                                    PreferencePercent = str(float(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][9]) + float(TransferPercent))
-                                    
+                                    # DISTRIBUTION OF PREFERENCES EXHAUSTED
                                     ballotPosition = str(int(ballotPosition)+1)
+                                    TransferCount = exhaustedCount
+                                    TransferPercent = round(TransferCount/numberDistributingVotes*100, 2)
+                                    
+                                    PreferenceCount = int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]) + int(TransferCount)
+                                    PreferencePercent = round(PreferenceCount/totalFormalVotes*100, 2)
+                                
                                     data[(DivisionNmShort, CountNumber, ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, "Exhausted", "Exhausted", "Exhausted", "Exhausted", "N",
                                                                                                 PreferenceCount, PreferencePercent, TransferCount, TransferPercent, Winner, DistributingBallotPosition, DistributingSurname, DistributingGivenNm, DistributingPartyAb, DistributingPartyNm]
                                 
                                 
-
+        # WRITE FILE
         HEADER = ["DivisionNm", "CountNumber", "BallotPosition", "Surname", "GivenNm", "PartyAb", "PartyNm", "Elected", 
                   "PreferenceCount", "PreferencePercent", "TransferCount", "TransferPercent", "Winner", "DistributingBallotPosition", "DistributingSurname", "DistributingGivenNm", "DistributingPartyAb", "DistributingPartyNm"]
 
@@ -270,6 +283,6 @@ def createPrefFlow(electionType: str, electionYear: str):
                 
 
 if __name__ == "__main__":
-    # createPrefFlow("Federal", "2022")
+    createPrefFlow("Federal", "2022")
     createPrefFlow("Council", "2020")
-    # createPrefFlow("State", "2020")
+    createPrefFlow("State", "2020")
