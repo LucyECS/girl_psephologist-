@@ -1,7 +1,7 @@
-from CreateWinner import createWinner
-from CreateFirstPref import createFirstPref
-from CreateHoverData import createHoverData
-from CreatePrefFlow import createPrefFlow
+from create_winner import createWinner
+from create_first_pref import createFirstPref
+from create_hover_text import createHoverText
+from create_pref_flow import createPrefFlow
 
 
 if __name__ == "__main__":
@@ -13,11 +13,11 @@ if __name__ == "__main__":
     createFirstPref("State", "2020")
     createFirstPref("Federal", "2022")
 
+    createPrefFlow("Council", "2020")
     createPrefFlow("Federal", "2022")
     createPrefFlow("State", "2020")
-    createPrefFlow("Council", "2020")
 
+    createHoverText("Council", "2020")
+    createHoverText("State", "2020")
+    createHoverText("Federal", "2022")
 
-    createHoverData("Council", "2020")
-    createHoverData("State", "2020")
-    createHoverData("Federal", "2022")
