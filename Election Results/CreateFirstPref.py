@@ -56,7 +56,7 @@ def createFirstPref(electionType: str, electionYear: str):
                             GivenNm = "Informal"
                             Surname = "Informal"
                             PartyNm = "Informal"
-                            PartyAb = "Informal"
+                            PartyAb = "INF"
                             Elected = "N"
                             BallotPosition = "0"
                             totalVotes = greatgrandchild[0].text
@@ -76,7 +76,7 @@ def createFirstPref(electionType: str, electionYear: str):
                                 totalVotes = greatgreatgrandchild[0].text
 
                                 # fix party name and abbreviation
-                                if PartyNm == None:
+                                if PartyNm == None or PartyAb == None:
                                     PartyNm = "Independent"
                                     PartyAb = "IND"
                                 elif PartyNm == "Queensland Greens":
@@ -87,6 +87,10 @@ def createFirstPref(electionType: str, electionYear: str):
                                     PartyAb = "ONP"
                                 elif PartyNm == "Clive Palmer's United Australia Party":
                                     PartyAb = "UAP"
+                                elif PartyNm == "Motorists Party":
+                                    PartyAb = "MP"
+                                elif PartyNm == "Animal Justice Party (Queensland)":
+                                    PartyAb = "AJP"
 
 
                                 data[(DivisionNm, BallotPosition)] = [DivisionID, DivisionNmShort, GivenNm, Surname, BallotPosition, Elected, PartyAb, PartyNm, totalVotes]
@@ -133,6 +137,9 @@ def createFirstPref(electionType: str, electionYear: str):
                 PartyNm = row["PartyNm"]
                 PartyAb = row["PartyAb"]
                 TotalVotes = row["TotalVotes"]
+                if PartyNm == "" or PartyAb == "":
+                    PartyNm = "Independent"
+                    PartyAb == "IND"
                 data[(DivisionNm, Surname)] = [DivisionID, DivisionNm, GivenNm, Surname, BallotPosition, Elected, PartyNm, PartyAb, TotalVotes]
 
         # DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyAb,PartyNm,TotalVotes

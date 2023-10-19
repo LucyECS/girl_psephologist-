@@ -78,7 +78,7 @@ def createPrefFlow(electionType: str, electionYear: str):
                 # create the exhaustive count
                 if previous[1] != current[1]:
                     ballotPosition = str(int(previous[2])+1)
-                    data[(previous[0], previous[1], ballotPosition)] = [previous[0], previous[1], ballotPosition, "Exhausted", "Exhausted", "Exhuasted", "Exhausted", "N", 0, 0, 0, 0, winner[previous[0]]] + previous[3:]
+                    data[(previous[0], previous[1], ballotPosition)] = [previous[0], previous[1], ballotPosition, "Exhausted", "Exhausted", "EXH", "Exhausted", "N", 0, 0, 0, 0, winner[previous[0]]] + previous[3:]
                 
                 
                 # create the row_informantion
@@ -109,7 +109,7 @@ def createPrefFlow(electionType: str, electionYear: str):
         if electionType == "State":
             if electionYear == "2020":
                 fromFile = "Election Results\State2020\State2020publicResults.xml"
-                toFile = "Election Results\State2020\created\State2020FPrefFlow.csv"
+                toFile = "Election Results\State2020\created\State2020PrefFlow.csv"
 
         # Read the XML file
         tree = ET.parse(fromFile)
@@ -158,6 +158,14 @@ def createPrefFlow(electionType: str, electionYear: str):
                             partyCode = "ONP"
                         if partyCode == "The Greens":
                             partyCode = "GRN"
+                        if partyCode == "" or partyCode == None:
+                            partyCode = "IND"
+                            party = "Independent"
+                        if party == "Motorists Party":
+                            partyCode = "MP"
+                        if partyCode == "Animal Justice Party":
+                            partyCode = "AJP"
+
 
                         # get if elected
                         if ballotPosition == winnerBallotPosition:
@@ -199,13 +207,13 @@ def createPrefFlow(electionType: str, electionYear: str):
                                         PreferencePercent = round(PreferenceCount/totalFormalVotes*100, 2)
 
                                         # add to data dictionary
-                                        data[(DivisionNmShort, str(CountNumber), ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, Surname, GivenNm, partyCode, party, Elected, 
+                                        data[(DivisionNmShort, str(CountNumber), ballotPosition)] = [DivisionNmShort, CountNumber, ballotPosition, Surname, GivenNm, partyCode, party, Elected, 
                                                                                                 PreferenceCount, PreferencePercent, 0, 0, Winner, 
                                                                                                 "First Pref", "First Pref", "First Pref", "First Pref", "First Pref"]
                                 
                                     # PRIMARY VOTES EXHAUSTED
                                     ballotPosition = str(int(ballotPosition)+1)
-                                    data[(DivisionNmShort, str(CountNumber), ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, "Exhausted", "Exhausted", "Exhausted", "Exhausted", "N", 
+                                    data[(DivisionNmShort, str(CountNumber), ballotPosition)] = [DivisionNmShort, CountNumber, ballotPosition, "Exhausted", "Exhausted", "EXH", "Exhausted", "N", 
                                                                                             0, 0, 0, 0, Winner, "First Pref", "First Pref", "First Pref", "First Pref", "First Pref"]
                                 
                                 
@@ -229,7 +237,8 @@ def createPrefFlow(electionType: str, electionYear: str):
                                     
                                     
                                     # DISTRIBUTION OF PREFERENCES CANDIDATES
-                                    for candidate in candidates:
+                                    for candidate in range(1,len(candidates)+1):
+                                        candidate = str(candidate)
 
                                         # candidate info
                                         ballotPosition, Surname, GivenNm, partyCode, party, Elected = candidates[candidate]
@@ -251,7 +260,7 @@ def createPrefFlow(electionType: str, electionYear: str):
                                                 PreferenceCount = int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]) + int(TransferCount)
                                                 PreferencePercent = round(PreferenceCount/remaining_totalFormalVotes*100, 2)
 
-                                        data[(DivisionNmShort, CountNumber, ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, Surname, GivenNm, partyCode, party, Elected,
+                                        data[(DivisionNmShort, CountNumber, ballotPosition)] = [DivisionNmShort, CountNumber, ballotPosition, Surname, GivenNm, partyCode, party, Elected,
                                                                                                     PreferenceCount, PreferencePercent, TransferCount, TransferPercent, Winner, 
                                                                                                     DistributingBallotPosition, DistributingSurname, DistributingGivenNm, DistributingPartyAb, DistributingPartyNm]
 
@@ -263,7 +272,7 @@ def createPrefFlow(electionType: str, electionYear: str):
                                     PreferenceCount = int(data[(DivisionNmShort, str(int(CountNumber)-1), ballotPosition)][8]) + int(TransferCount)
                                     PreferencePercent = round(PreferenceCount/totalFormalVotes*100, 2)
                                 
-                                    data[(DivisionNmShort, CountNumber, ballotPosition)] = [DivisionNm, CountNumber, ballotPosition, "Exhausted", "Exhausted", "Exhausted", "Exhausted", "N",
+                                    data[(DivisionNmShort, CountNumber, ballotPosition)] = [DivisionNmShort, CountNumber, ballotPosition, "Exhausted", "Exhausted", "EXH", "Exhausted", "N",
                                                                                                 PreferenceCount, PreferencePercent, TransferCount, TransferPercent, Winner, DistributingBallotPosition, DistributingSurname, DistributingGivenNm, DistributingPartyAb, DistributingPartyNm]
                                 
                                 

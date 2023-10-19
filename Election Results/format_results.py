@@ -13,11 +13,11 @@ if __name__ == "__main__":
     createFirstPref("State", "2020")
     createFirstPref("Federal", "2022")
 
-    createHoverData("Council", "2020")
-    createHoverData("State", "2020")
-    createHoverData("Federal", "2022")
-
     createPrefFlow("Federal", "2022")
     createPrefFlow("State", "2020")
     createPrefFlow("Council", "2020")
 
+
+    createHoverData("Council", "2020")
+    createHoverData("State", "2020")
+    createHoverData("Federal", "2022")

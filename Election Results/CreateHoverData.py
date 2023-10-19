@@ -4,17 +4,20 @@ def createHoverData(electionType: str, electionYear: str):
 
     if electionType == "Council":
         if electionYear == "2020":
-            fromFile = "Election Results\Council2020\created\Council2020FirstPref.csv"
+            fromFileFirstPref = "Election Results\Council2020\created\Council2020FirstPref.csv"
+            fromFilePrefFlow = "Election Results\Council2020\created\Council2020PrefFlow.csv"
             toFile = "Election Results\Council2020\created\Council2020HoverText.csv"
 
     elif electionType == "State":
         if electionYear == "2020":
-            fromFile = "Election Results\State2020\created\State2020FirstPref.csv"
+            fromFileFirstPref = "Election Results\State2020\created\State2020FirstPref.csv"
+            fromFilePrefFlow = "Election Results\State2020\created\State2020PrefFlow.csv"
             toFile = "Election Results\State2020\created\State2020HoverText.csv"
 
     elif electionType == "Federal":
         if electionYear == "2022":
-            fromFile = "Election Results\Federal2022\created\Federal2022FirstPref.csv"
+            fromFileFirstPref = "Election Results\Federal2022\created\Federal2022FirstPref.csv"
+            fromFilePrefFlow = "Election Results\Federal2022\created\Federal2022PrefFlow.csv"
             toFile = "Election Results\Federal2022\created\Federal2022HoverText.csv"
 
     header = ["DivisionNm", "HoverText"]
@@ -40,8 +43,8 @@ def createHoverData(electionType: str, electionYear: str):
 
     HoverText = {}
 
-    # Read through Federal2022FirstPrefsByPollingPlace.csv
-    with open(fromFile) as results:
+    # READ FROM FIRST PREF CSV
+    with open(fromFileFirstPref) as results:
         # object to DictReader method 
         reader_obj = csv.DictReader(results)
 
@@ -92,7 +95,66 @@ def createHoverData(electionType: str, electionYear: str):
                         hovertext = hovertext + row["PartyAb"] + ": \t" + str(row["TotalVotes"]) + " (" + str(round(int(row["TotalVotes"])*100/(totalvotes), 2)) + "%" + ")" + "<br>"
             HoverText[division] = hovertext
 
-    # Write to Federal2022HoverText.csv
+    # READ FROM PREF FLOW CSV
+    with open(fromFilePrefFlow) as results:
+        # object to DictReader method 
+        reader_obj = csv.DictReader(results)
+
+        # CREATE ROWS
+        rows = []
+        for row in reader_obj:
+            rows.append(row)
+
+        # GET UNIQUE DIVISION NAMES
+        DivisionNames = []
+        for row in rows:
+            if row["DivisionNm"] not in DivisionNames:
+                DivisionNames.append(row["DivisionNm"])
+        
+        # GET DIVISION INFO (count number, ballot position, three candidate count number)
+        DivsionInfo = {}
+        for division in DivisionNames:
+            ThreeCandidateCountNumber = None
+            for row in rows:
+                if row["DivisionNm"] == division:
+                    if row["DistributingPartyAb"] in ["ALP", "LNP", "GRN"]:
+                        if ThreeCandidateCountNumber == None:
+                            ThreeCandidateCountNumber = str(int(row["CountNumber"])-1)
+                    if ThreeCandidateCountNumber == None:
+                        ThreeCandidateCountNumber = "0"
+                    DivsionInfo[division] =[row["CountNumber"], row["BallotPosition"], ThreeCandidateCountNumber]
+
+        for division in DivisionNames:
+            hovertext = HoverText[division]
+
+            hovertext = hovertext + "---------------------------------" + "<br>"
+            hovertext = hovertext + "Three Party Prefered Numbers" + "<br>"
+            
+            totalCountNumber, totalBallotPosition, threeCandidateCountNumber = DivsionInfo[division]
+
+            for row in rows:
+                if row["DivisionNm"] == division:
+                    # Give the 3PP votes
+                    if row["CountNumber"] == threeCandidateCountNumber:
+                        if row["PreferenceCount"] != "0":  # Removes candidates who have been eliminated
+                            hovertext = hovertext + row["PartyAb"] + ": \t" + row["PreferenceCount"] + "(" + row["PreferencePercent"] + "%)" + "<br>"
+                    
+                    # Give the 3PP flows
+                    if int(row["CountNumber"]) > int(threeCandidateCountNumber):
+                        if row["PreferenceCount"] != "0": # Removes candidates who have been eliminated
+                            pass
+            HoverText[division] = hovertext
+
+    # # print the hovertext of TENNYSON
+    # text = HoverText["TENNYSON"]
+    # # replace <br> with \n
+    # text = text.replace("<br>", "\n")
+    # print(text)
+            
+
+
+
+    # WRITE TO HOVER TEXT CSV
     with open(toFile, "w", newline="") as hovertext:
         writer = csv.writer(hovertext)
         writer.writerow(header)
@@ -101,5 +163,5 @@ def createHoverData(electionType: str, electionYear: str):
 
 if __name__ == "__main__":
     createHoverData("Council", "2020")
-    createHoverData("State", "2020")
-    createHoverData("Federal", "2022")
+    # createHoverData("State", "2020")
+    # createHoverData("Federal", "2022")

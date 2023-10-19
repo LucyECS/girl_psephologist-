@@ -1,264 +1,268 @@
 DivisionNm,CountNumber,BallotPosition,Surname,GivenNm,PartyAb,PartyNm,Elected,PreferenceCount,PreferencePercent,TransferCount,TransferPercent,Winner,DistributingBallotPosition,DistributingSurname,DistributingGivenNm,DistributingPartyAb,DistributingPartyNm
-Brisbane City Bracken Ridge,0,1,LANDERS,Sandy,LNP,Liberal National Party of Queensland,Y,11798,50.04,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Bracken Ridge,0,2,PALMER,Cath,ALP,Australian Labor Party (State of Queensland),N,8850,37.54,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Bracken Ridge,0,3,FRY,Kathryn,GRN,Queensland Greens,N,2929,12.42,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Bracken Ridge,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Bracken Ridge,1,1,LANDERS,Sandy,LNP,Liberal National Party of Queensland,Y,12127,54.15,329,11.23,LNP,3,FRY,Kathryn,GRN,Queensland Greens
-Brisbane City Bracken Ridge,1,2,PALMER,Cath,ALP,Australian Labor Party (State of Queensland),N,10267,45.85,1417,48.38,LNP,3,FRY,Kathryn,GRN,Queensland Greens
-Brisbane City Bracken Ridge,1,3,FRY,Kathryn,GRN,Queensland Greens,N,0,0,-2929,-100.0,LNP,3,FRY,Kathryn,GRN,Queensland Greens
-Brisbane City Bracken Ridge,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1183,5.02,1183,40.39,LNP,3,FRY,Kathryn,GRN,Queensland Greens
-Brisbane City Calamvale,0,1,OWEN,Angela,LNP,Liberal National Party of Queensland,Y,11887,48.33,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Calamvale,0,2,MIRA,Josie,GRN,Queensland Greens,N,2393,9.73,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Calamvale,0,3,MARTIN,James,ALP,Australian Labor Party (State of Queensland),N,10316,41.94,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Calamvale,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Calamvale,1,1,OWEN,Angela,LNP,Liberal National Party of Queensland,Y,12156,52.24,269,11.24,LNP,2,MIRA,Josie,GRN,Queensland Greens
-Brisbane City Calamvale,1,2,MIRA,Josie,GRN,Queensland Greens,N,0,0,-2393,-100.0,LNP,2,MIRA,Josie,GRN,Queensland Greens
-Brisbane City Calamvale,1,3,MARTIN,James,ALP,Australian Labor Party (State of Queensland),N,11113,47.76,797,33.31,LNP,2,MIRA,Josie,GRN,Queensland Greens
-Brisbane City Calamvale,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1327,5.4,1327,55.45,LNP,2,MIRA,Josie,GRN,Queensland Greens
-Brisbane City Central,0,1,MASSEY,Trina,GRN,Queensland Greens,N,5568,27.5,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Central,0,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland),N,4879,24.1,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Central,0,3,HOWARD,Vicki,LNP,Liberal National Party of Queensland,Y,9800,48.4,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Central,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Central,1,1,MASSEY,Trina,GRN,Queensland Greens,N,7573,42.23,2005,41.09,LNP,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Central,1,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland),N,0,0,-4879,-100.0,LNP,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Central,1,3,HOWARD,Vicki,LNP,Liberal National Party of Queensland,Y,10359,57.77,559,11.46,LNP,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Central,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,2315,11.43,2315,47.45,LNP,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Chandler,0,1,MOSS,Steph,GRN,Queensland Greens,N,2604,10.72,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Chandler,0,2,O'NEILL,Penny,ALP,Australian Labor Party (State of Queensland),N,6167,25.39,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Chandler,0,3,MURPHY,Ryan,LNP,Liberal National Party of Queensland,Y,15516,63.89,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Chandler,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Chandler,1,1,MOSS,Steph,GRN,Queensland Greens,N,0,0,-2604,-100.0,LNP,1,MOSS,Steph,GRN,Queensland Greens
-Brisbane City Chandler,1,2,O'NEILL,Penny,ALP,Australian Labor Party (State of Queensland),N,7307,31.67,1140,43.78,LNP,1,MOSS,Steph,GRN,Queensland Greens
-Brisbane City Chandler,1,3,MURPHY,Ryan,LNP,Liberal National Party of Queensland,Y,15764,68.33,248,9.52,LNP,1,MOSS,Steph,GRN,Queensland Greens
-Brisbane City Chandler,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1216,5.01,1216,46.7,LNP,1,MOSS,Steph,GRN,Queensland Greens
-Brisbane City Coorparoo,0,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland),N,6484,27.51,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Coorparoo,0,2,CUNNINGHAM,Fiona,LNP,Liberal National Party of Queensland,Y,10575,44.87,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Coorparoo,0,3,DILLON,Sally,GRN,Queensland Greens,N,6509,27.62,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Coorparoo,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Coorparoo,1,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland),N,0,0,-6484,-100.0,LNP,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Coorparoo,1,2,CUNNINGHAM,Fiona,LNP,Liberal National Party of Queensland,Y,11338,55.67,763,11.77,LNP,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Coorparoo,1,3,DILLON,Sally,GRN,Queensland Greens,N,9030,44.33,2521,38.88,LNP,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Coorparoo,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,3200,13.58,3200,49.35,LNP,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Deagon,0,1,CASSIDY,Jared,ALP,Australian Labor Party (State of Queensland),Y,13127,51.34,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Deagon,0,2,WASHINGTON,Kimberley,LNP,Liberal National Party of Queensland,N,8919,34.88,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Deagon,0,3,MOLONEY,Kathy,,Motorists Party,N,586,2.29,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Deagon,0,4,WALSH,Anthony,GRN,Queensland Greens,N,2935,11.48,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Deagon,0,5,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Deagon,1,1,CASSIDY,Jared,ALP,Australian Labor Party (State of Queensland),Y,13204,52.34,77,13.14,ALP,3,MOLONEY,Kathy,,Motorists Party
-Brisbane City Deagon,1,2,WASHINGTON,Kimberley,LNP,Liberal National Party of Queensland,N,9001,35.68,82,13.99,ALP,3,MOLONEY,Kathy,,Motorists Party
-Brisbane City Deagon,1,3,MOLONEY,Kathy,,Motorists Party,N,0,0,-586,-100.0,ALP,3,MOLONEY,Kathy,,Motorists Party
-Brisbane City Deagon,1,4,WALSH,Anthony,GRN,Queensland Greens,N,3021,11.98,86,14.68,ALP,3,MOLONEY,Kathy,,Motorists Party
-Brisbane City Deagon,1,5,Exhausted,Exhausted,Exhausted,Exhausted,N,341,1.33,341,58.19,ALP,3,MOLONEY,Kathy,,Motorists Party
-Brisbane City Deagon,2,1,CASSIDY,Jared,ALP,Australian Labor Party (State of Queensland),Y,14818,61.48,1614,53.43,ALP,4,WALSH,Anthony,GRN,Queensland Greens
-Brisbane City Deagon,2,2,WASHINGTON,Kimberley,LNP,Liberal National Party of Queensland,N,9284,38.52,283,9.37,ALP,4,WALSH,Anthony,GRN,Queensland Greens
-Brisbane City Deagon,2,3,MOLONEY,Kathy,,Motorists Party,N,0,0,0,0,ALP,4,WALSH,Anthony,GRN,Queensland Greens
-Brisbane City Deagon,2,4,WALSH,Anthony,GRN,Queensland Greens,N,0,0,-3021,-100.0,ALP,4,WALSH,Anthony,GRN,Queensland Greens
-Brisbane City Deagon,2,5,Exhausted,Exhausted,Exhausted,Exhausted,N,1465,5.73,1124,37.21,ALP,4,WALSH,Anthony,GRN,Queensland Greens
-Brisbane City Enoggera,0,1,BUSH,Jonty,ALP,Australian Labor Party (State of Queensland),N,8169,34.43,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Enoggera,0,2,WINES,Andrew,LNP,Liberal National Party of Queensland,Y,10703,45.11,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Enoggera,0,3,WHITEMAN,Craig,,,N,645,2.72,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Enoggera,0,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens,N,3821,16.11,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Enoggera,0,5,PERISSINOTTO,Kristin,,,N,387,1.63,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Enoggera,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Enoggera,1,1,BUSH,Jonty,ALP,Australian Labor Party (State of Queensland),N,8229,34.98,60,15.5,LNP,5,PERISSINOTTO,Kristin,,
-Brisbane City Enoggera,1,2,WINES,Andrew,LNP,Liberal National Party of Queensland,Y,10719,45.56,16,4.13,LNP,5,PERISSINOTTO,Kristin,,
-Brisbane City Enoggera,1,3,WHITEMAN,Craig,,,N,698,2.97,53,13.7,LNP,5,PERISSINOTTO,Kristin,,
-Brisbane City Enoggera,1,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens,N,3879,16.49,58,14.99,LNP,5,PERISSINOTTO,Kristin,,
-Brisbane City Enoggera,1,5,PERISSINOTTO,Kristin,,,N,0,0,-387,-100.0,LNP,5,PERISSINOTTO,Kristin,,
-Brisbane City Enoggera,1,6,Exhausted,Exhausted,Exhausted,Exhausted,N,200,0.84,200,51.68,LNP,5,PERISSINOTTO,Kristin,,
-Brisbane City Enoggera,2,1,BUSH,Jonty,ALP,Australian Labor Party (State of Queensland),N,8331,36.04,102,14.61,LNP,3,WHITEMAN,Craig,,
-Brisbane City Enoggera,2,2,WINES,Andrew,LNP,Liberal National Party of Queensland,Y,10827,46.84,108,15.47,LNP,3,WHITEMAN,Craig,,
-Brisbane City Enoggera,2,3,WHITEMAN,Craig,,,N,0,0,-698,-100.0,LNP,3,WHITEMAN,Craig,,
-Brisbane City Enoggera,2,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens,N,3959,17.13,80,11.46,LNP,3,WHITEMAN,Craig,,
-Brisbane City Enoggera,2,5,PERISSINOTTO,Kristin,,,N,0,0,0,0,LNP,3,WHITEMAN,Craig,,
-Brisbane City Enoggera,2,6,Exhausted,Exhausted,Exhausted,Exhausted,N,608,2.56,408,58.45,LNP,3,WHITEMAN,Craig,,
-Brisbane City Enoggera,3,1,BUSH,Jonty,ALP,Australian Labor Party (State of Queensland),N,10325,48.17,1994,50.37,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
-Brisbane City Enoggera,3,2,WINES,Andrew,LNP,Liberal National Party of Queensland,Y,11110,51.83,283,7.15,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
-Brisbane City Enoggera,3,3,WHITEMAN,Craig,,,N,0,0,0,0,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
-Brisbane City Enoggera,3,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens,N,0,0,-3959,-100.0,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
-Brisbane City Enoggera,3,5,PERISSINOTTO,Kristin,,,N,0,0,0,0,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
-Brisbane City Enoggera,3,6,Exhausted,Exhausted,Exhausted,Exhausted,N,2290,9.65,1682,42.49,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
-Brisbane City Forest Lake,0,1,MULKEARNS,Jenny,GRN,Queensland Greens,N,3920,16.34,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Forest Lake,0,2,HOOPER,Roger,LNP,Liberal National Party of Queensland,N,7399,30.85,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Forest Lake,0,3,STRUNK,Charles,ALP,Australian Labor Party (State of Queensland),Y,12667,52.81,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Forest Lake,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Forest Lake,1,1,MULKEARNS,Jenny,GRN,Queensland Greens,N,0,0,-3920,-100.0,ALP,1,MULKEARNS,Jenny,GRN,Queensland Greens
-Brisbane City Forest Lake,1,2,HOOPER,Roger,LNP,Liberal National Party of Queensland,N,8072,36.62,673,17.17,ALP,1,MULKEARNS,Jenny,GRN,Queensland Greens
-Brisbane City Forest Lake,1,3,STRUNK,Charles,ALP,Australian Labor Party (State of Queensland),Y,13971,63.38,1304,33.27,ALP,1,MULKEARNS,Jenny,GRN,Queensland Greens
-Brisbane City Forest Lake,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1943,8.1,1943,49.57,ALP,1,MULKEARNS,Jenny,GRN,Queensland Greens
-Brisbane City Hamilton,0,1,BERTRAM,Miranda,GRN,Queensland Greens,N,3632,16.42,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Hamilton,0,2,MCLACHLAN,David,LNP,Liberal National Party of Queensland,Y,14101,63.74,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Hamilton,0,3,MALZARD,Leah,ALP,Australian Labor Party (State of Queensland),N,4389,19.84,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Hamilton,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Hamilton,1,1,BERTRAM,Miranda,GRN,Queensland Greens,N,0,0,-3632,-100.0,LNP,1,BERTRAM,Miranda,GRN,Queensland Greens
-Brisbane City Hamilton,1,2,MCLACHLAN,David,LNP,Liberal National Party of Queensland,Y,14471,70.46,370,10.19,LNP,1,BERTRAM,Miranda,GRN,Queensland Greens
-Brisbane City Hamilton,1,3,MALZARD,Leah,ALP,Australian Labor Party (State of Queensland),N,6066,29.54,1677,46.17,LNP,1,BERTRAM,Miranda,GRN,Queensland Greens
-Brisbane City Hamilton,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1585,7.16,1585,43.64,LNP,1,BERTRAM,Miranda,GRN,Queensland Greens
-Brisbane City Holland Park,0,1,AUGUSTON,Karleigh,ALP,Australian Labor Party (State of Queensland),N,7323,30.7,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Holland Park,0,2,GAMBLE,Jenny,GRN,Queensland Greens,N,4975,20.86,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Holland Park,0,3,ADAMS,Krista,LNP,Liberal National Party of Queensland,Y,11553,48.44,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Holland Park,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Holland Park,1,1,AUGUSTON,Karleigh,ALP,Australian Labor Party (State of Queensland),N,9924,45.28,2601,52.28,LNP,2,GAMBLE,Jenny,GRN,Queensland Greens
-Brisbane City Holland Park,1,2,GAMBLE,Jenny,GRN,Queensland Greens,N,0,0,-4975,-100.0,LNP,2,GAMBLE,Jenny,GRN,Queensland Greens
-Brisbane City Holland Park,1,3,ADAMS,Krista,LNP,Liberal National Party of Queensland,Y,11992,54.72,439,8.82,LNP,2,GAMBLE,Jenny,GRN,Queensland Greens
-Brisbane City Holland Park,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1935,8.11,1935,38.89,LNP,2,GAMBLE,Jenny,GRN,Queensland Greens
-Brisbane City Jamboree,0,1,HUTTON,Sarah,LNP,Liberal National Party of Queensland,Y,13455,54.94,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Jamboree,0,2,MCKIE,Thomas,GRN,Queensland Greens,N,3039,12.41,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Jamboree,0,3,HOPPE,Rachel,ALP,Australian Labor Party (State of Queensland),N,7996,32.65,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Jamboree,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Jamboree,1,1,HUTTON,Sarah,LNP,Liberal National Party of Queensland,Y,13764,59.31,309,10.17,LNP,2,MCKIE,Thomas,GRN,Queensland Greens
-Brisbane City Jamboree,1,2,MCKIE,Thomas,GRN,Queensland Greens,N,0,0,-3039,-100.0,LNP,2,MCKIE,Thomas,GRN,Queensland Greens
-Brisbane City Jamboree,1,3,HOPPE,Rachel,ALP,Australian Labor Party (State of Queensland),N,9442,40.69,1446,47.58,LNP,2,MCKIE,Thomas,GRN,Queensland Greens
-Brisbane City Jamboree,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1284,5.24,1284,42.25,LNP,2,MCKIE,Thomas,GRN,Queensland Greens
-Brisbane City McDowall,0,1,CULVERHOUSE,Liam,ALP,Australian Labor Party (State of Queensland),N,7380,29.73,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City McDowall,0,2,DAVIS,Tracy,LNP,Liberal National Party of Queensland,Y,14693,59.18,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City McDowall,0,3,SANDERSON,Joshua,GRN,Queensland Greens,N,2754,11.09,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City McDowall,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City McDowall,1,1,CULVERHOUSE,Liam,ALP,Australian Labor Party (State of Queensland),N,8611,36.46,1231,44.7,LNP,3,SANDERSON,Joshua,GRN,Queensland Greens
-Brisbane City McDowall,1,2,DAVIS,Tracy,LNP,Liberal National Party of Queensland,Y,15006,63.54,313,11.37,LNP,3,SANDERSON,Joshua,GRN,Queensland Greens
-Brisbane City McDowall,1,3,SANDERSON,Joshua,GRN,Queensland Greens,N,0,0,-2754,-100.0,LNP,3,SANDERSON,Joshua,GRN,Queensland Greens
-Brisbane City McDowall,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1210,4.87,1210,43.94,LNP,3,SANDERSON,Joshua,GRN,Queensland Greens
-Brisbane City MacGregor,0,1,WOMERSLEY,Sean,GRN,Queensland Greens,N,2666,11.86,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City MacGregor,0,2,MCTIERNAN,Trent,ALP,Australian Labor Party (State of Queensland),N,6460,28.75,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City MacGregor,0,3,HUANG,Steven,LNP,Liberal National Party of Queensland,Y,13345,59.39,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City MacGregor,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City MacGregor,1,3,HUANG,Steven,LNP,Liberal National Party of Queensland,Y,13588,64.12,243,9.11,LNP,1,WOMERSLEY,Sean,GRN,Queensland Greens
-Brisbane City MacGregor,1,2,Exhausted,Exhausted,Exhausted,Exhausted,N,7740,34.44,1280,48.01,LNP,1,WOMERSLEY,Sean,GRN,Queensland Greens
-Brisbane City MacGregor,1,1,WOMERSLEY,Sean,GRN,Queensland Greens,N,0,0,-2666,-100.0,LNP,1,WOMERSLEY,Sean,GRN,Queensland Greens
-Brisbane City Marchant,0,1,LYNCH,Susan,ALP,Australian Labor Party (State of Queensland),N,7842,32.62,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Marchant,0,2,MEYER,John,GRN,Queensland Greens,N,4331,18.01,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Marchant,0,3,HAMMOND,Fiona,LNP,Liberal National Party of Queensland,Y,11870,49.37,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Marchant,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Marchant,1,1,LYNCH,Susan,ALP,Australian Labor Party (State of Queensland),N,10083,45.02,2241,51.74,LNP,2,MEYER,John,GRN,Queensland Greens
-Brisbane City Marchant,1,2,MEYER,John,GRN,Queensland Greens,N,0,0,-4331,-100.0,LNP,2,MEYER,John,GRN,Queensland Greens
-Brisbane City Marchant,1,3,HAMMOND,Fiona,LNP,Liberal National Party of Queensland,Y,12315,54.98,445,10.27,LNP,2,MEYER,John,GRN,Queensland Greens
-Brisbane City Marchant,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1645,6.84,1645,37.98,LNP,2,MEYER,John,GRN,Queensland Greens
-Brisbane City Moorooka,0,1,GRIFFITHS,Steve,ALP,Australian Labor Party (State of Queensland),Y,10416,49.94,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Moorooka,0,2,GILLESPIE,Brett,,,N,1000,4.79,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Moorooka,0,3,GARTON,Claire,GRN,Queensland Greens,N,4209,20.18,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Moorooka,0,4,CRAZE,Warren,LNP,Liberal National Party of Queensland,N,5234,25.09,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Moorooka,0,5,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Moorooka,1,1,GRIFFITHS,Steve,ALP,Australian Labor Party (State of Queensland),Y,10569,52.18,153,15.3,ALP,2,GILLESPIE,Brett,,
-Brisbane City Moorooka,1,2,GILLESPIE,Brett,,,N,0,0,-1000,-100.0,ALP,2,GILLESPIE,Brett,,
-Brisbane City Moorooka,1,3,GARTON,Claire,GRN,Queensland Greens,N,4330,21.38,121,12.1,ALP,2,GILLESPIE,Brett,,
-Brisbane City Moorooka,1,4,CRAZE,Warren,LNP,Liberal National Party of Queensland,N,5354,26.44,120,12.0,ALP,2,GILLESPIE,Brett,,
-Brisbane City Moorooka,1,5,Exhausted,Exhausted,Exhausted,Exhausted,N,606,2.91,606,60.6,ALP,2,GILLESPIE,Brett,,
-Brisbane City Moorooka,2,1,GRIFFITHS,Steve,ALP,Australian Labor Party (State of Queensland),Y,12837,69.55,2268,52.38,ALP,3,GARTON,Claire,GRN,Queensland Greens
-Brisbane City Moorooka,2,2,GILLESPIE,Brett,,,N,0,0,0,0,ALP,3,GARTON,Claire,GRN,Queensland Greens
-Brisbane City Moorooka,2,3,GARTON,Claire,GRN,Queensland Greens,N,0,0,-4330,-100.0,ALP,3,GARTON,Claire,GRN,Queensland Greens
-Brisbane City Moorooka,2,4,CRAZE,Warren,LNP,Liberal National Party of Queensland,N,5621,30.45,267,6.17,ALP,3,GARTON,Claire,GRN,Queensland Greens
-Brisbane City Moorooka,2,5,Exhausted,Exhausted,Exhausted,Exhausted,N,2401,11.51,1795,41.45,ALP,3,GARTON,Claire,GRN,Queensland Greens
-Brisbane City Morningside,0,1,MOORE,Toby,LNP,Liberal National Party of Queensland,N,8242,36.94,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Morningside,0,2,KUELSEN,Rolf,GRN,Queensland Greens,N,3390,15.2,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Morningside,0,3,COOK,Kara,ALP,Australian Labor Party (State of Queensland),Y,10677,47.86,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Morningside,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Morningside,1,1,MOORE,Toby,LNP,Liberal National Party of Queensland,N,8482,40.34,240,7.08,ALP,2,KUELSEN,Rolf,GRN,Queensland Greens
-Brisbane City Morningside,1,2,KUELSEN,Rolf,GRN,Queensland Greens,N,0,0,-3390,-100.0,ALP,2,KUELSEN,Rolf,GRN,Queensland Greens
-Brisbane City Morningside,1,3,COOK,Kara,ALP,Australian Labor Party (State of Queensland),Y,12543,59.66,1866,55.04,ALP,2,KUELSEN,Rolf,GRN,Queensland Greens
-Brisbane City Morningside,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1284,5.76,1284,37.88,ALP,2,KUELSEN,Rolf,GRN,Queensland Greens
-Brisbane City Northgate,0,1,NEIL,Reg,ALP,Australian Labor Party (State of Queensland),N,8810,36.36,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Northgate,0,2,ALLAN,Adam,LNP,Liberal National Party of Queensland,Y,11315,46.7,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Northgate,0,3,DAVIES,Jim,GRN,Queensland Greens,N,4106,16.95,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Northgate,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Northgate,1,1,NEIL,Reg,ALP,Australian Labor Party (State of Queensland),N,10911,48.15,2101,51.17,LNP,3,DAVIES,Jim,GRN,Queensland Greens
-Brisbane City Northgate,1,2,ALLAN,Adam,LNP,Liberal National Party of Queensland,Y,11750,51.85,435,10.59,LNP,3,DAVIES,Jim,GRN,Queensland Greens
-Brisbane City Northgate,1,3,DAVIES,Jim,GRN,Queensland Greens,N,0,0,-4106,-100.0,LNP,3,DAVIES,Jim,GRN,Queensland Greens
-Brisbane City Northgate,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1570,6.48,1570,38.24,LNP,3,DAVIES,Jim,GRN,Queensland Greens
-Brisbane City Paddington,0,1,BURNS,Donna,GRN,Queensland Greens,N,8984,38.41,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Paddington,0,2,MATIC,Peter,LNP,Liberal National Party of Queensland,Y,10629,45.45,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Paddington,0,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland),N,3775,16.14,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Paddington,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Paddington,1,1,BURNS,Donna,GRN,Queensland Greens,N,10753,49.29,1769,46.86,LNP,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Paddington,1,2,MATIC,Peter,LNP,Liberal National Party of Queensland,Y,11064,50.71,435,11.52,LNP,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Paddington,1,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland),N,0,0,-3775,-100.0,LNP,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Paddington,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1571,6.72,1571,41.62,LNP,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Pullenvale,0,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland),N,3643,14.21,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Pullenvale,0,2,ADERMANN,Greg,LNP,Liberal National Party of Queensland,Y,10686,41.68,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Pullenvale,0,3,RICHARDS,Kate,,,N,5060,19.73,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Pullenvale,0,4,DRUCKMANN,Charles,GRN,Queensland Greens,N,6252,24.38,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Pullenvale,0,5,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Pullenvale,1,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland),N,0,0,-3643,-100.0,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Pullenvale,1,2,ADERMANN,Greg,LNP,Liberal National Party of Queensland,Y,10983,46.45,297,8.15,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Pullenvale,1,3,RICHARDS,Kate,,,N,5396,22.82,336,9.22,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Pullenvale,1,4,DRUCKMANN,Charles,GRN,Queensland Greens,N,7267,30.73,1015,27.86,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Pullenvale,1,5,Exhausted,Exhausted,Exhausted,Exhausted,N,1995,7.78,1995,54.76,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Pullenvale,2,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland),N,0,0,0,0,LNP,3,RICHARDS,Kate,,
-Brisbane City Pullenvale,2,2,ADERMANN,Greg,LNP,Liberal National Party of Queensland,Y,12086,59.93,1103,20.44,LNP,3,RICHARDS,Kate,,
-Brisbane City Pullenvale,2,3,RICHARDS,Kate,,,N,0,0,-5396,-100.0,LNP,3,RICHARDS,Kate,,
-Brisbane City Pullenvale,2,4,DRUCKMANN,Charles,GRN,Queensland Greens,N,8080,40.07,813,15.07,LNP,3,RICHARDS,Kate,,
-Brisbane City Pullenvale,2,5,Exhausted,Exhausted,Exhausted,Exhausted,N,5475,21.35,3480,64.49,LNP,3,RICHARDS,Kate,,
-Brisbane City Runcorn,0,1,PRESCOTT,John,ALP,Australian Labor Party (State of Queensland),N,8491,35.49,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Runcorn,0,2,MARX,Kim,LNP,Liberal National Party of Queensland,Y,12949,54.13,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Runcorn,0,3,GORDON,Nicola,GRN,Queensland Greens,N,2482,10.38,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Runcorn,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Runcorn,1,1,PRESCOTT,John,ALP,Australian Labor Party (State of Queensland),N,9501,41.73,1010,40.69,LNP,3,GORDON,Nicola,GRN,Queensland Greens
-Brisbane City Runcorn,1,2,MARX,Kim,LNP,Liberal National Party of Queensland,Y,13269,58.27,320,12.89,LNP,3,GORDON,Nicola,GRN,Queensland Greens
-Brisbane City Runcorn,1,3,GORDON,Nicola,GRN,Queensland Greens,N,0,0,-2482,-100.0,LNP,3,GORDON,Nicola,GRN,Queensland Greens
-Brisbane City Runcorn,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,1152,4.82,1152,46.41,LNP,3,GORDON,Nicola,GRN,Queensland Greens
-Brisbane City Tennyson,0,1,LANE,Maurice,LNP,Liberal National Party of Queensland,N,4394,19.39,0,0,,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Tennyson,0,2,O'BRIEN,Patsy,GRN,Queensland Greens,N,3058,13.49,0,0,,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Tennyson,0,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland),N,3212,14.17,0,0,,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Tennyson,0,4,JOHNSTON,Nicole,,,Y,11571,51.06,0,0,,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Tennyson,0,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland),N,428,1.89,0,0,,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Tennyson,0,6,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Tennyson,1,1,LANE,Maurice,LNP,Liberal National Party of Queensland,N,4421,19.71,27,6.31,,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland)
-Brisbane City Tennyson,1,2,O'BRIEN,Patsy,GRN,Queensland Greens,N,3146,14.02,88,20.56,,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland)
-Brisbane City Tennyson,1,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland),N,3241,14.45,29,6.78,,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland)
-Brisbane City Tennyson,1,4,JOHNSTON,Nicole,,,Y,11624,51.82,53,12.38,,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland)
-Brisbane City Tennyson,1,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland),N,0,0,-428,-100.0,,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland)
-Brisbane City Tennyson,1,6,Exhausted,Exhausted,Exhausted,Exhausted,N,231,1.02,231,53.97,,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland)
-Brisbane City Tennyson,2,1,LANE,Maurice,LNP,Liberal National Party of Queensland,N,4538,21.26,117,3.72,,2,O'BRIEN,Patsy,GRN,Queensland Greens
-Brisbane City Tennyson,2,2,O'BRIEN,Patsy,GRN,Queensland Greens,N,0,0,-3146,-100.0,,2,O'BRIEN,Patsy,GRN,Queensland Greens
-Brisbane City Tennyson,2,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland),N,4366,20.45,1125,35.76,,2,O'BRIEN,Patsy,GRN,Queensland Greens
-Brisbane City Tennyson,2,4,JOHNSTON,Nicole,,,Y,12443,58.29,819,26.03,,2,O'BRIEN,Patsy,GRN,Queensland Greens
-Brisbane City Tennyson,2,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland),N,0,0,0,0,,2,O'BRIEN,Patsy,GRN,Queensland Greens
-Brisbane City Tennyson,2,6,Exhausted,Exhausted,Exhausted,Exhausted,N,1316,5.81,1085,34.49,,2,O'BRIEN,Patsy,GRN,Queensland Greens
-Brisbane City Tennyson,3,1,LANE,Maurice,LNP,Liberal National Party of Queensland,N,5155,26.56,617,14.13,,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Tennyson,3,2,O'BRIEN,Patsy,GRN,Queensland Greens,N,0,0,0,0,,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Tennyson,3,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland),N,0,0,-4366,-100.0,,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Tennyson,3,4,JOHNSTON,Nicole,,,Y,14253,73.44,1810,41.46,,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Tennyson,3,5,PROUT,Darryl,Animal Justice Party,Animal Justice Party (Queensland),N,0,0,0,0,,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Tennyson,3,6,Exhausted,Exhausted,Exhausted,Exhausted,N,3255,14.36,1939,44.41,,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
-Brisbane City The Gabba,0,1,JONES,Nathaniel,LNP,Liberal National Party of Queensland,N,6060,29.45,0,0,GRN,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City The Gabba,0,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland),N,5136,24.96,0,0,GRN,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City The Gabba,0,3,SRI,Jonathan,GRN,Queensland Greens,Y,9383,45.6,0,0,GRN,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City The Gabba,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,GRN,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City The Gabba,1,1,JONES,Nathaniel,LNP,Liberal National Party of Queensland,N,6899,37.66,839,16.34,GRN,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland)
-Brisbane City The Gabba,1,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland),N,0,0,-5136,-100.0,GRN,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland)
-Brisbane City The Gabba,1,3,SRI,Jonathan,GRN,Queensland Greens,Y,11418,62.34,2035,39.62,GRN,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland)
-Brisbane City The Gabba,1,4,Exhausted,Exhausted,Exhausted,Exhausted,N,2262,10.99,2262,44.04,GRN,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland)
-Brisbane City The Gap,0,1,TOOMEY,Steven,LNP,Liberal National Party of Queensland,Y,12872,50.57,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City The Gap,0,2,HASSALL,Allen,,,N,443,1.74,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City The Gap,0,3,BEVIS,Daniel,ALP,Australian Labor Party (State of Queensland),N,7822,30.73,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City The Gap,0,4,HALEY,Rebecca,GRN,Queensland Greens,N,4317,16.96,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City The Gap,0,5,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City The Gap,1,3,BEVIS,Daniel,ALP,Australian Labor Party (State of Queensland),N,7876,31.27,54,12.19,LNP,2,HASSALL,Allen,,
-Brisbane City The Gap,1,4,HALEY,Rebecca,GRN,Queensland Greens,N,4371,17.35,54,12.19,LNP,2,HASSALL,Allen,,
-Brisbane City The Gap,1,2,Exhausted,Exhausted,Exhausted,Exhausted,N,708,2.78,265,59.82,LNP,2,HASSALL,Allen,,
-Brisbane City The Gap,1,1,TOOMEY,Steven,LNP,Liberal National Party of Queensland,Y,12942,51.38,70,15.8,LNP,2,HASSALL,Allen,,
-Brisbane City The Gap,2,3,BEVIS,Daniel,ALP,Australian Labor Party (State of Queensland),N,10039,42.95,2163,49.49,LNP,4,HALEY,Rebecca,GRN,Queensland Greens
-Brisbane City The Gap,2,4,HALEY,Rebecca,GRN,Queensland Greens,N,0,0,-4371,-100.0,LNP,4,HALEY,Rebecca,GRN,Queensland Greens
-Brisbane City The Gap,2,2,Exhausted,Exhausted,Exhausted,Exhausted,N,2523,9.91,1815,41.52,LNP,4,HALEY,Rebecca,GRN,Queensland Greens
-Brisbane City The Gap,2,1,TOOMEY,Steven,LNP,Liberal National Party of Queensland,Y,13335,57.05,393,8.99,LNP,4,HALEY,Rebecca,GRN,Queensland Greens
-Brisbane City Walter Taylor,0,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland),N,3582,15.33,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Walter Taylor,0,2,SARGENT,Michaela,GRN,Queensland Greens,N,8147,34.86,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Walter Taylor,0,3,MACKAY,James,LNP,Liberal National Party of Queensland,Y,10957,46.88,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Walter Taylor,0,4,ANTONIOLLI,Matt,,,N,684,2.93,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Walter Taylor,0,5,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Walter Taylor,1,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland),N,3649,15.84,67,9.8,LNP,4,ANTONIOLLI,Matt,,
-Brisbane City Walter Taylor,1,2,SARGENT,Michaela,GRN,Queensland Greens,N,8301,36.04,154,22.51,LNP,4,ANTONIOLLI,Matt,,
-Brisbane City Walter Taylor,1,3,MACKAY,James,LNP,Liberal National Party of Queensland,Y,11083,48.12,126,18.42,LNP,4,ANTONIOLLI,Matt,,
-Brisbane City Walter Taylor,1,4,ANTONIOLLI,Matt,,,N,0,0,-684,-100.0,LNP,4,ANTONIOLLI,Matt,,
-Brisbane City Walter Taylor,1,5,Exhausted,Exhausted,Exhausted,Exhausted,N,337,1.44,337,49.27,LNP,4,ANTONIOLLI,Matt,,
-Brisbane City Walter Taylor,2,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland),N,0,0,-3649,-100.0,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Walter Taylor,2,2,SARGENT,Michaela,GRN,Queensland Greens,N,9766,46.06,1465,40.15,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Walter Taylor,2,3,MACKAY,James,LNP,Liberal National Party of Queensland,Y,11439,53.94,356,9.76,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Walter Taylor,2,4,ANTONIOLLI,Matt,,,N,0,0,0,0,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Walter Taylor,2,5,Exhausted,Exhausted,Exhausted,Exhausted,N,2165,9.26,1828,50.1,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
-Brisbane City Wynnum-Manly,0,1,PICCARDI,Megan,LNP,Liberal National Party of Queensland,N,8292,35.92,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Wynnum-Manly,0,2,AUSTIN,Ken,GRN,Queensland Greens,N,2355,10.2,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Wynnum-Manly,0,3,CUMMING,Peter,ALP,Australian Labor Party (State of Queensland),Y,12436,53.88,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Wynnum-Manly,0,4,Exhausted,Exhausted,Exhausted,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
-Brisbane City Wynnum-Manly,1,2,Exhausted,Exhausted,Exhausted,Exhausted,N,3316,14.37,961,40.81,ALP,2,AUSTIN,Ken,GRN,Queensland Greens
-Brisbane City Wynnum-Manly,1,3,CUMMING,Peter,ALP,Australian Labor Party (State of Queensland),Y,13581,61.39,1145,48.62,ALP,2,AUSTIN,Ken,GRN,Queensland Greens
-Brisbane City Wynnum-Manly,1,1,PICCARDI,Megan,LNP,Liberal National Party of Queensland,N,8541,38.61,249,10.57,ALP,2,AUSTIN,Ken,GRN,Queensland Greens
+BRACKEN RIDGE,0,1,LANDERS,Sandy,LNP,Liberal National Party of Queensland,Y,11798,50.04,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+BRACKEN RIDGE,0,2,PALMER,Cath,ALP,Australian Labor Party (State of Queensland),N,8850,37.54,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+BRACKEN RIDGE,0,3,FRY,Kathryn,GRN,Queensland Greens,N,2929,12.42,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+BRACKEN RIDGE,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+BRACKEN RIDGE,1,1,LANDERS,Sandy,LNP,Liberal National Party of Queensland,Y,12127,54.15,329,11.23,LNP,3,FRY,Kathryn,GRN,Queensland Greens
+BRACKEN RIDGE,1,2,PALMER,Cath,ALP,Australian Labor Party (State of Queensland),N,10267,45.85,1417,48.38,LNP,3,FRY,Kathryn,GRN,Queensland Greens
+BRACKEN RIDGE,1,3,FRY,Kathryn,GRN,Queensland Greens,N,0,0,-2929,-100.0,LNP,3,FRY,Kathryn,GRN,Queensland Greens
+BRACKEN RIDGE,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1183,5.02,1183,40.39,LNP,3,FRY,Kathryn,GRN,Queensland Greens
+CALAMVALE,0,1,OWEN,Angela,LNP,Liberal National Party of Queensland,Y,11887,48.33,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CALAMVALE,0,2,MIRA,Josie,GRN,Queensland Greens,N,2393,9.73,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CALAMVALE,0,3,MARTIN,James,ALP,Australian Labor Party (State of Queensland),N,10316,41.94,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CALAMVALE,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CALAMVALE,1,1,OWEN,Angela,LNP,Liberal National Party of Queensland,Y,12156,52.24,269,11.24,LNP,2,MIRA,Josie,GRN,Queensland Greens
+CALAMVALE,1,2,MIRA,Josie,GRN,Queensland Greens,N,0,0,-2393,-100.0,LNP,2,MIRA,Josie,GRN,Queensland Greens
+CALAMVALE,1,3,MARTIN,James,ALP,Australian Labor Party (State of Queensland),N,11113,47.76,797,33.31,LNP,2,MIRA,Josie,GRN,Queensland Greens
+CALAMVALE,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1327,5.4,1327,55.45,LNP,2,MIRA,Josie,GRN,Queensland Greens
+CENTRAL,0,1,MASSEY,Trina,GRN,Queensland Greens,N,5568,27.5,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CENTRAL,0,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland),N,4879,24.1,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CENTRAL,0,3,HOWARD,Vicki,LNP,Liberal National Party of Queensland,Y,9800,48.4,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CENTRAL,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CENTRAL,1,1,MASSEY,Trina,GRN,Queensland Greens,N,7573,42.23,2005,41.09,LNP,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland)
+CENTRAL,1,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland),N,0,0,-4879,-100.0,LNP,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland)
+CENTRAL,1,3,HOWARD,Vicki,LNP,Liberal National Party of Queensland,Y,10359,57.77,559,11.46,LNP,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland)
+CENTRAL,1,4,Exhausted,Exhausted,EXH,Exhausted,N,2315,11.43,2315,47.45,LNP,2,JABOUR,Judi,ALP,Australian Labor Party (State of Queensland)
+CHANDLER,0,1,MOSS,Steph,GRN,Queensland Greens,N,2604,10.72,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CHANDLER,0,2,O'NEILL,Penny,ALP,Australian Labor Party (State of Queensland),N,6167,25.39,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CHANDLER,0,3,MURPHY,Ryan,LNP,Liberal National Party of Queensland,Y,15516,63.89,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CHANDLER,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+CHANDLER,1,1,MOSS,Steph,GRN,Queensland Greens,N,0,0,-2604,-100.0,LNP,1,MOSS,Steph,GRN,Queensland Greens
+CHANDLER,1,2,O'NEILL,Penny,ALP,Australian Labor Party (State of Queensland),N,7307,31.67,1140,43.78,LNP,1,MOSS,Steph,GRN,Queensland Greens
+CHANDLER,1,3,MURPHY,Ryan,LNP,Liberal National Party of Queensland,Y,15764,68.33,248,9.52,LNP,1,MOSS,Steph,GRN,Queensland Greens
+CHANDLER,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1216,5.01,1216,46.7,LNP,1,MOSS,Steph,GRN,Queensland Greens
+COORPAROO,0,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland),N,6484,27.51,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+COORPAROO,0,2,CUNNINGHAM,Fiona,LNP,Liberal National Party of Queensland,Y,10575,44.87,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+COORPAROO,0,3,DILLON,Sally,GRN,Queensland Greens,N,6509,27.62,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+COORPAROO,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+COORPAROO,1,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland),N,0,0,-6484,-100.0,LNP,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland)
+COORPAROO,1,2,CUNNINGHAM,Fiona,LNP,Liberal National Party of Queensland,Y,11338,55.67,763,11.77,LNP,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland)
+COORPAROO,1,3,DILLON,Sally,GRN,Queensland Greens,N,9030,44.33,2521,38.88,LNP,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland)
+COORPAROO,1,4,Exhausted,Exhausted,EXH,Exhausted,N,3200,13.58,3200,49.35,LNP,1,CAMPBELL,Matt,ALP,Australian Labor Party (State of Queensland)
+DEAGON,0,1,CASSIDY,Jared,ALP,Australian Labor Party (State of Queensland),Y,13127,51.34,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+DEAGON,0,2,WASHINGTON,Kimberley,LNP,Liberal National Party of Queensland,N,8919,34.88,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+DEAGON,0,3,MOLONEY,Kathy,IND,Independent,N,586,2.29,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+DEAGON,0,4,WALSH,Anthony,GRN,Queensland Greens,N,2935,11.48,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+DEAGON,0,5,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+DEAGON,1,1,CASSIDY,Jared,ALP,Australian Labor Party (State of Queensland),Y,13204,52.34,77,13.14,ALP,3,MOLONEY,Kathy,IND,Independent
+DEAGON,1,2,WASHINGTON,Kimberley,LNP,Liberal National Party of Queensland,N,9001,35.68,82,13.99,ALP,3,MOLONEY,Kathy,IND,Independent
+DEAGON,1,3,MOLONEY,Kathy,IND,Independent,N,0,0,-586,-100.0,ALP,3,MOLONEY,Kathy,IND,Independent
+DEAGON,1,4,WALSH,Anthony,GRN,Queensland Greens,N,3021,11.98,86,14.68,ALP,3,MOLONEY,Kathy,IND,Independent
+DEAGON,1,5,Exhausted,Exhausted,EXH,Exhausted,N,341,1.33,341,58.19,ALP,3,MOLONEY,Kathy,IND,Independent
+DEAGON,2,1,CASSIDY,Jared,ALP,Australian Labor Party (State of Queensland),Y,14818,61.48,1614,53.43,ALP,4,WALSH,Anthony,GRN,Queensland Greens
+DEAGON,2,2,WASHINGTON,Kimberley,LNP,Liberal National Party of Queensland,N,9284,38.52,283,9.37,ALP,4,WALSH,Anthony,GRN,Queensland Greens
+DEAGON,2,3,MOLONEY,Kathy,IND,Independent,N,0,0,0,0,ALP,4,WALSH,Anthony,GRN,Queensland Greens
+DEAGON,2,4,WALSH,Anthony,GRN,Queensland Greens,N,0,0,-3021,-100.0,ALP,4,WALSH,Anthony,GRN,Queensland Greens
+DEAGON,2,5,Exhausted,Exhausted,EXH,Exhausted,N,1465,5.73,1124,37.21,ALP,4,WALSH,Anthony,GRN,Queensland Greens
+ENOGGERA,0,1,BUSH,Jonty,ALP,Australian Labor Party (State of Queensland),N,8169,34.43,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+ENOGGERA,0,2,WINES,Andrew,LNP,Liberal National Party of Queensland,Y,10703,45.11,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+ENOGGERA,0,3,WHITEMAN,Craig,IND,Independent,N,645,2.72,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+ENOGGERA,0,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens,N,3821,16.11,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+ENOGGERA,0,5,PERISSINOTTO,Kristin,IND,Independent,N,387,1.63,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+ENOGGERA,0,6,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+ENOGGERA,1,1,BUSH,Jonty,ALP,Australian Labor Party (State of Queensland),N,8229,34.98,60,15.5,LNP,5,PERISSINOTTO,Kristin,IND,Independent
+ENOGGERA,1,2,WINES,Andrew,LNP,Liberal National Party of Queensland,Y,10719,45.56,16,4.13,LNP,5,PERISSINOTTO,Kristin,IND,Independent
+ENOGGERA,1,3,WHITEMAN,Craig,IND,Independent,N,698,2.97,53,13.7,LNP,5,PERISSINOTTO,Kristin,IND,Independent
+ENOGGERA,1,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens,N,3879,16.49,58,14.99,LNP,5,PERISSINOTTO,Kristin,IND,Independent
+ENOGGERA,1,5,PERISSINOTTO,Kristin,IND,Independent,N,0,0,-387,-100.0,LNP,5,PERISSINOTTO,Kristin,IND,Independent
+ENOGGERA,1,6,Exhausted,Exhausted,EXH,Exhausted,N,200,0.84,200,51.68,LNP,5,PERISSINOTTO,Kristin,IND,Independent
+ENOGGERA,2,1,BUSH,Jonty,ALP,Australian Labor Party (State of Queensland),N,8331,36.04,102,14.61,LNP,3,WHITEMAN,Craig,IND,Independent
+ENOGGERA,2,2,WINES,Andrew,LNP,Liberal National Party of Queensland,Y,10827,46.84,108,15.47,LNP,3,WHITEMAN,Craig,IND,Independent
+ENOGGERA,2,3,WHITEMAN,Craig,IND,Independent,N,0,0,-698,-100.0,LNP,3,WHITEMAN,Craig,IND,Independent
+ENOGGERA,2,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens,N,3959,17.13,80,11.46,LNP,3,WHITEMAN,Craig,IND,Independent
+ENOGGERA,2,5,PERISSINOTTO,Kristin,IND,Independent,N,0,0,0,0,LNP,3,WHITEMAN,Craig,IND,Independent
+ENOGGERA,2,6,Exhausted,Exhausted,EXH,Exhausted,N,608,2.56,408,58.45,LNP,3,WHITEMAN,Craig,IND,Independent
+ENOGGERA,3,1,BUSH,Jonty,ALP,Australian Labor Party (State of Queensland),N,10325,48.17,1994,50.37,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
+ENOGGERA,3,2,WINES,Andrew,LNP,Liberal National Party of Queensland,Y,11110,51.83,283,7.15,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
+ENOGGERA,3,3,WHITEMAN,Craig,IND,Independent,N,0,0,0,0,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
+ENOGGERA,3,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens,N,0,0,-3959,-100.0,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
+ENOGGERA,3,5,PERISSINOTTO,Kristin,IND,Independent,N,0,0,0,0,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
+ENOGGERA,3,6,Exhausted,Exhausted,EXH,Exhausted,N,2290,9.65,1682,42.49,LNP,4,ACKERMAN,Ell-Leigh,GRN,Queensland Greens
+FOREST LAKE,0,1,MULKEARNS,Jenny,GRN,Queensland Greens,N,3920,16.34,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+FOREST LAKE,0,2,HOOPER,Roger,LNP,Liberal National Party of Queensland,N,7399,30.85,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+FOREST LAKE,0,3,STRUNK,Charles,ALP,Australian Labor Party (State of Queensland),Y,12667,52.81,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+FOREST LAKE,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+FOREST LAKE,1,1,MULKEARNS,Jenny,GRN,Queensland Greens,N,0,0,-3920,-100.0,ALP,1,MULKEARNS,Jenny,GRN,Queensland Greens
+FOREST LAKE,1,2,HOOPER,Roger,LNP,Liberal National Party of Queensland,N,8072,36.62,673,17.17,ALP,1,MULKEARNS,Jenny,GRN,Queensland Greens
+FOREST LAKE,1,3,STRUNK,Charles,ALP,Australian Labor Party (State of Queensland),Y,13971,63.38,1304,33.27,ALP,1,MULKEARNS,Jenny,GRN,Queensland Greens
+FOREST LAKE,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1943,8.1,1943,49.57,ALP,1,MULKEARNS,Jenny,GRN,Queensland Greens
+HAMILTON,0,1,BERTRAM,Miranda,GRN,Queensland Greens,N,3632,16.42,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+HAMILTON,0,2,MCLACHLAN,David,LNP,Liberal National Party of Queensland,Y,14101,63.74,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+HAMILTON,0,3,MALZARD,Leah,ALP,Australian Labor Party (State of Queensland),N,4389,19.84,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+HAMILTON,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+HAMILTON,1,1,BERTRAM,Miranda,GRN,Queensland Greens,N,0,0,-3632,-100.0,LNP,1,BERTRAM,Miranda,GRN,Queensland Greens
+HAMILTON,1,2,MCLACHLAN,David,LNP,Liberal National Party of Queensland,Y,14471,70.46,370,10.19,LNP,1,BERTRAM,Miranda,GRN,Queensland Greens
+HAMILTON,1,3,MALZARD,Leah,ALP,Australian Labor Party (State of Queensland),N,6066,29.54,1677,46.17,LNP,1,BERTRAM,Miranda,GRN,Queensland Greens
+HAMILTON,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1585,7.16,1585,43.64,LNP,1,BERTRAM,Miranda,GRN,Queensland Greens
+HOLLAND PARK,0,1,AUGUSTON,Karleigh,ALP,Australian Labor Party (State of Queensland),N,7323,30.7,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+HOLLAND PARK,0,2,GAMBLE,Jenny,GRN,Queensland Greens,N,4975,20.86,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+HOLLAND PARK,0,3,ADAMS,Krista,LNP,Liberal National Party of Queensland,Y,11553,48.44,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+HOLLAND PARK,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+HOLLAND PARK,1,1,AUGUSTON,Karleigh,ALP,Australian Labor Party (State of Queensland),N,9924,45.28,2601,52.28,LNP,2,GAMBLE,Jenny,GRN,Queensland Greens
+HOLLAND PARK,1,2,GAMBLE,Jenny,GRN,Queensland Greens,N,0,0,-4975,-100.0,LNP,2,GAMBLE,Jenny,GRN,Queensland Greens
+HOLLAND PARK,1,3,ADAMS,Krista,LNP,Liberal National Party of Queensland,Y,11992,54.72,439,8.82,LNP,2,GAMBLE,Jenny,GRN,Queensland Greens
+HOLLAND PARK,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1935,8.11,1935,38.89,LNP,2,GAMBLE,Jenny,GRN,Queensland Greens
+JAMBOREE,0,1,HUTTON,Sarah,LNP,Liberal National Party of Queensland,Y,13455,54.94,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+JAMBOREE,0,2,MCKIE,Thomas,GRN,Queensland Greens,N,3039,12.41,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+JAMBOREE,0,3,HOPPE,Rachel,ALP,Australian Labor Party (State of Queensland),N,7996,32.65,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+JAMBOREE,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+JAMBOREE,1,1,HUTTON,Sarah,LNP,Liberal National Party of Queensland,Y,13764,59.31,309,10.17,LNP,2,MCKIE,Thomas,GRN,Queensland Greens
+JAMBOREE,1,2,MCKIE,Thomas,GRN,Queensland Greens,N,0,0,-3039,-100.0,LNP,2,MCKIE,Thomas,GRN,Queensland Greens
+JAMBOREE,1,3,HOPPE,Rachel,ALP,Australian Labor Party (State of Queensland),N,9442,40.69,1446,47.58,LNP,2,MCKIE,Thomas,GRN,Queensland Greens
+JAMBOREE,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1284,5.24,1284,42.25,LNP,2,MCKIE,Thomas,GRN,Queensland Greens
+MCDOWALL,0,1,CULVERHOUSE,Liam,ALP,Australian Labor Party (State of Queensland),N,7380,29.73,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MCDOWALL,0,2,DAVIS,Tracy,LNP,Liberal National Party of Queensland,Y,14693,59.18,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MCDOWALL,0,3,SANDERSON,Joshua,GRN,Queensland Greens,N,2754,11.09,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MCDOWALL,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MCDOWALL,1,1,CULVERHOUSE,Liam,ALP,Australian Labor Party (State of Queensland),N,8611,36.46,1231,44.7,LNP,3,SANDERSON,Joshua,GRN,Queensland Greens
+MCDOWALL,1,2,DAVIS,Tracy,LNP,Liberal National Party of Queensland,Y,15006,63.54,313,11.37,LNP,3,SANDERSON,Joshua,GRN,Queensland Greens
+MCDOWALL,1,3,SANDERSON,Joshua,GRN,Queensland Greens,N,0,0,-2754,-100.0,LNP,3,SANDERSON,Joshua,GRN,Queensland Greens
+MCDOWALL,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1210,4.87,1210,43.94,LNP,3,SANDERSON,Joshua,GRN,Queensland Greens
+MACGREGOR,0,1,WOMERSLEY,Sean,GRN,Queensland Greens,N,2666,11.86,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MACGREGOR,0,2,MCTIERNAN,Trent,ALP,Australian Labor Party (State of Queensland),N,6460,28.75,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MACGREGOR,0,3,HUANG,Steven,LNP,Liberal National Party of Queensland,Y,13345,59.39,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MACGREGOR,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MACGREGOR,1,1,WOMERSLEY,Sean,GRN,Queensland Greens,N,0,0,-2666,-100.0,LNP,1,WOMERSLEY,Sean,GRN,Queensland Greens
+MACGREGOR,1,2,MCTIERNAN,Trent,ALP,Australian Labor Party (State of Queensland),N,7603,35.88,1143,42.87,LNP,1,WOMERSLEY,Sean,GRN,Queensland Greens
+MACGREGOR,1,3,HUANG,Steven,LNP,Liberal National Party of Queensland,Y,13588,64.12,243,9.11,LNP,1,WOMERSLEY,Sean,GRN,Queensland Greens
+MACGREGOR,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1280,5.7,1280,48.01,LNP,1,WOMERSLEY,Sean,GRN,Queensland Greens
+MARCHANT,0,1,LYNCH,Susan,ALP,Australian Labor Party (State of Queensland),N,7842,32.62,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MARCHANT,0,2,MEYER,John,GRN,Queensland Greens,N,4331,18.01,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MARCHANT,0,3,HAMMOND,Fiona,LNP,Liberal National Party of Queensland,Y,11870,49.37,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MARCHANT,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+MARCHANT,1,1,LYNCH,Susan,ALP,Australian Labor Party (State of Queensland),N,10083,45.02,2241,51.74,LNP,2,MEYER,John,GRN,Queensland Greens
+MARCHANT,1,2,MEYER,John,GRN,Queensland Greens,N,0,0,-4331,-100.0,LNP,2,MEYER,John,GRN,Queensland Greens
+MARCHANT,1,3,HAMMOND,Fiona,LNP,Liberal National Party of Queensland,Y,12315,54.98,445,10.27,LNP,2,MEYER,John,GRN,Queensland Greens
+MARCHANT,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1645,6.84,1645,37.98,LNP,2,MEYER,John,GRN,Queensland Greens
+MOOROOKA,0,1,GRIFFITHS,Steve,ALP,Australian Labor Party (State of Queensland),Y,10416,49.94,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+MOOROOKA,0,2,GILLESPIE,Brett,IND,Independent,N,1000,4.79,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+MOOROOKA,0,3,GARTON,Claire,GRN,Queensland Greens,N,4209,20.18,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+MOOROOKA,0,4,CRAZE,Warren,LNP,Liberal National Party of Queensland,N,5234,25.09,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+MOOROOKA,0,5,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+MOOROOKA,1,1,GRIFFITHS,Steve,ALP,Australian Labor Party (State of Queensland),Y,10569,52.18,153,15.3,ALP,2,GILLESPIE,Brett,IND,Independent
+MOOROOKA,1,2,GILLESPIE,Brett,IND,Independent,N,0,0,-1000,-100.0,ALP,2,GILLESPIE,Brett,IND,Independent
+MOOROOKA,1,3,GARTON,Claire,GRN,Queensland Greens,N,4330,21.38,121,12.1,ALP,2,GILLESPIE,Brett,IND,Independent
+MOOROOKA,1,4,CRAZE,Warren,LNP,Liberal National Party of Queensland,N,5354,26.44,120,12.0,ALP,2,GILLESPIE,Brett,IND,Independent
+MOOROOKA,1,5,Exhausted,Exhausted,EXH,Exhausted,N,606,2.91,606,60.6,ALP,2,GILLESPIE,Brett,IND,Independent
+MOOROOKA,2,1,GRIFFITHS,Steve,ALP,Australian Labor Party (State of Queensland),Y,12837,69.55,2268,52.38,ALP,3,GARTON,Claire,GRN,Queensland Greens
+MOOROOKA,2,2,GILLESPIE,Brett,IND,Independent,N,0,0,0,0,ALP,3,GARTON,Claire,GRN,Queensland Greens
+MOOROOKA,2,3,GARTON,Claire,GRN,Queensland Greens,N,0,0,-4330,-100.0,ALP,3,GARTON,Claire,GRN,Queensland Greens
+MOOROOKA,2,4,CRAZE,Warren,LNP,Liberal National Party of Queensland,N,5621,30.45,267,6.17,ALP,3,GARTON,Claire,GRN,Queensland Greens
+MOOROOKA,2,5,Exhausted,Exhausted,EXH,Exhausted,N,2401,11.51,1795,41.45,ALP,3,GARTON,Claire,GRN,Queensland Greens
+MORNINGSIDE,0,1,MOORE,Toby,LNP,Liberal National Party of Queensland,N,8242,36.94,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+MORNINGSIDE,0,2,KUELSEN,Rolf,GRN,Queensland Greens,N,3390,15.2,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+MORNINGSIDE,0,3,COOK,Kara,ALP,Australian Labor Party (State of Queensland),Y,10677,47.86,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+MORNINGSIDE,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+MORNINGSIDE,1,1,MOORE,Toby,LNP,Liberal National Party of Queensland,N,8482,40.34,240,7.08,ALP,2,KUELSEN,Rolf,GRN,Queensland Greens
+MORNINGSIDE,1,2,KUELSEN,Rolf,GRN,Queensland Greens,N,0,0,-3390,-100.0,ALP,2,KUELSEN,Rolf,GRN,Queensland Greens
+MORNINGSIDE,1,3,COOK,Kara,ALP,Australian Labor Party (State of Queensland),Y,12543,59.66,1866,55.04,ALP,2,KUELSEN,Rolf,GRN,Queensland Greens
+MORNINGSIDE,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1284,5.76,1284,37.88,ALP,2,KUELSEN,Rolf,GRN,Queensland Greens
+NORTHGATE,0,1,NEIL,Reg,ALP,Australian Labor Party (State of Queensland),N,8810,36.36,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+NORTHGATE,0,2,ALLAN,Adam,LNP,Liberal National Party of Queensland,Y,11315,46.7,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+NORTHGATE,0,3,DAVIES,Jim,GRN,Queensland Greens,N,4106,16.95,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+NORTHGATE,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+NORTHGATE,1,1,NEIL,Reg,ALP,Australian Labor Party (State of Queensland),N,10911,48.15,2101,51.17,LNP,3,DAVIES,Jim,GRN,Queensland Greens
+NORTHGATE,1,2,ALLAN,Adam,LNP,Liberal National Party of Queensland,Y,11750,51.85,435,10.59,LNP,3,DAVIES,Jim,GRN,Queensland Greens
+NORTHGATE,1,3,DAVIES,Jim,GRN,Queensland Greens,N,0,0,-4106,-100.0,LNP,3,DAVIES,Jim,GRN,Queensland Greens
+NORTHGATE,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1570,6.48,1570,38.24,LNP,3,DAVIES,Jim,GRN,Queensland Greens
+PADDINGTON,0,1,BURNS,Donna,GRN,Queensland Greens,N,8984,38.41,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+PADDINGTON,0,2,MATIC,Peter,LNP,Liberal National Party of Queensland,Y,10629,45.45,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+PADDINGTON,0,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland),N,3775,16.14,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+PADDINGTON,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+PADDINGTON,1,1,BURNS,Donna,GRN,Queensland Greens,N,10753,49.29,1769,46.86,LNP,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland)
+PADDINGTON,1,2,MATIC,Peter,LNP,Liberal National Party of Queensland,Y,11064,50.71,435,11.52,LNP,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland)
+PADDINGTON,1,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland),N,0,0,-3775,-100.0,LNP,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland)
+PADDINGTON,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1571,6.72,1571,41.62,LNP,3,EELKEMA,Jeff,ALP,Australian Labor Party (State of Queensland)
+PULLENVALE,0,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland),N,3643,14.21,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+PULLENVALE,0,2,ADERMANN,Greg,LNP,Liberal National Party of Queensland,Y,10686,41.68,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+PULLENVALE,0,3,RICHARDS,Kate,IND,Independent,N,5060,19.73,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+PULLENVALE,0,4,DRUCKMANN,Charles,GRN,Queensland Greens,N,6252,24.38,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+PULLENVALE,0,5,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+PULLENVALE,1,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland),N,0,0,-3643,-100.0,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
+PULLENVALE,1,2,ADERMANN,Greg,LNP,Liberal National Party of Queensland,Y,10983,46.45,297,8.15,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
+PULLENVALE,1,3,RICHARDS,Kate,IND,Independent,N,5396,22.82,336,9.22,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
+PULLENVALE,1,4,DRUCKMANN,Charles,GRN,Queensland Greens,N,7267,30.73,1015,27.86,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
+PULLENVALE,1,5,Exhausted,Exhausted,EXH,Exhausted,N,1995,7.78,1995,54.76,LNP,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland)
+PULLENVALE,2,1,MARK,Jordan,ALP,Australian Labor Party (State of Queensland),N,0,0,0,0,LNP,3,RICHARDS,Kate,IND,Independent
+PULLENVALE,2,2,ADERMANN,Greg,LNP,Liberal National Party of Queensland,Y,12086,59.93,1103,20.44,LNP,3,RICHARDS,Kate,IND,Independent
+PULLENVALE,2,3,RICHARDS,Kate,IND,Independent,N,0,0,-5396,-100.0,LNP,3,RICHARDS,Kate,IND,Independent
+PULLENVALE,2,4,DRUCKMANN,Charles,GRN,Queensland Greens,N,8080,40.07,813,15.07,LNP,3,RICHARDS,Kate,IND,Independent
+PULLENVALE,2,5,Exhausted,Exhausted,EXH,Exhausted,N,5475,21.35,3480,64.49,LNP,3,RICHARDS,Kate,IND,Independent
+RUNCORN,0,1,PRESCOTT,John,ALP,Australian Labor Party (State of Queensland),N,8491,35.49,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+RUNCORN,0,2,MARX,Kim,LNP,Liberal National Party of Queensland,Y,12949,54.13,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+RUNCORN,0,3,GORDON,Nicola,GRN,Queensland Greens,N,2482,10.38,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+RUNCORN,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+RUNCORN,1,1,PRESCOTT,John,ALP,Australian Labor Party (State of Queensland),N,9501,41.73,1010,40.69,LNP,3,GORDON,Nicola,GRN,Queensland Greens
+RUNCORN,1,2,MARX,Kim,LNP,Liberal National Party of Queensland,Y,13269,58.27,320,12.89,LNP,3,GORDON,Nicola,GRN,Queensland Greens
+RUNCORN,1,3,GORDON,Nicola,GRN,Queensland Greens,N,0,0,-2482,-100.0,LNP,3,GORDON,Nicola,GRN,Queensland Greens
+RUNCORN,1,4,Exhausted,Exhausted,EXH,Exhausted,N,1152,4.82,1152,46.41,LNP,3,GORDON,Nicola,GRN,Queensland Greens
+TENNYSON,0,1,LANE,Maurice,LNP,Liberal National Party of Queensland,N,4394,19.39,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+TENNYSON,0,2,O'BRIEN,Patsy,GRN,Queensland Greens,N,3058,13.49,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+TENNYSON,0,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland),N,3212,14.17,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+TENNYSON,0,4,JOHNSTON,Nicole,IND,Independent,Y,11571,51.06,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+TENNYSON,0,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland),N,428,1.89,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+TENNYSON,0,6,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,IND,First Pref,First Pref,First Pref,First Pref,First Pref
+TENNYSON,1,1,LANE,Maurice,LNP,Liberal National Party of Queensland,N,4421,19.71,27,6.31,IND,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland)
+TENNYSON,1,2,O'BRIEN,Patsy,GRN,Queensland Greens,N,3146,14.02,88,20.56,IND,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland)
+TENNYSON,1,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland),N,3241,14.45,29,6.78,IND,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland)
+TENNYSON,1,4,JOHNSTON,Nicole,IND,Independent,Y,11624,51.82,53,12.38,IND,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland)
+TENNYSON,1,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland),N,0,0,-428,-100.0,IND,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland)
+TENNYSON,1,6,Exhausted,Exhausted,EXH,Exhausted,N,231,1.02,231,53.97,IND,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland)
+TENNYSON,2,1,LANE,Maurice,LNP,Liberal National Party of Queensland,N,4538,21.26,117,3.72,IND,2,O'BRIEN,Patsy,GRN,Queensland Greens
+TENNYSON,2,2,O'BRIEN,Patsy,GRN,Queensland Greens,N,0,0,-3146,-100.0,IND,2,O'BRIEN,Patsy,GRN,Queensland Greens
+TENNYSON,2,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland),N,4366,20.45,1125,35.76,IND,2,O'BRIEN,Patsy,GRN,Queensland Greens
+TENNYSON,2,4,JOHNSTON,Nicole,IND,Independent,Y,12443,58.29,819,26.03,IND,2,O'BRIEN,Patsy,GRN,Queensland Greens
+TENNYSON,2,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland),N,0,0,0,0,IND,2,O'BRIEN,Patsy,GRN,Queensland Greens
+TENNYSON,2,6,Exhausted,Exhausted,EXH,Exhausted,N,1316,5.81,1085,34.49,IND,2,O'BRIEN,Patsy,GRN,Queensland Greens
+TENNYSON,3,1,LANE,Maurice,LNP,Liberal National Party of Queensland,N,5155,26.56,617,14.13,IND,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
+TENNYSON,3,2,O'BRIEN,Patsy,GRN,Queensland Greens,N,0,0,0,0,IND,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
+TENNYSON,3,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland),N,0,0,-4366,-100.0,IND,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
+TENNYSON,3,4,JOHNSTON,Nicole,IND,Independent,Y,14253,73.44,1810,41.46,IND,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
+TENNYSON,3,5,PROUT,Darryl,AJP,Animal Justice Party (Queensland),N,0,0,0,0,IND,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
+TENNYSON,3,6,Exhausted,Exhausted,EXH,Exhausted,N,3255,14.36,1939,44.41,IND,3,SCHNEIDER,Jackie,ALP,Australian Labor Party (State of Queensland)
+THE GABBA,0,1,JONES,Nathaniel,LNP,Liberal National Party of Queensland,N,6060,29.45,0,0,GRN,First Pref,First Pref,First Pref,First Pref,First Pref
+THE GABBA,0,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland),N,5136,24.96,0,0,GRN,First Pref,First Pref,First Pref,First Pref,First Pref
+THE GABBA,0,3,SRI,Jonathan,GRN,Queensland Greens,Y,9383,45.6,0,0,GRN,First Pref,First Pref,First Pref,First Pref,First Pref
+THE GABBA,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,GRN,First Pref,First Pref,First Pref,First Pref,First Pref
+THE GABBA,1,1,JONES,Nathaniel,LNP,Liberal National Party of Queensland,N,6899,37.66,839,16.34,GRN,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland)
+THE GABBA,1,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland),N,0,0,-5136,-100.0,GRN,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland)
+THE GABBA,1,3,SRI,Jonathan,GRN,Queensland Greens,Y,11418,62.34,2035,39.62,GRN,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland)
+THE GABBA,1,4,Exhausted,Exhausted,EXH,Exhausted,N,2262,10.99,2262,44.04,GRN,2,GALLAGHER,Rachel,ALP,Australian Labor Party (State of Queensland)
+THE GAP,0,1,TOOMEY,Steven,LNP,Liberal National Party of Queensland,Y,12872,50.57,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+THE GAP,0,2,HASSALL,Allen,IND,Independent,N,443,1.74,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+THE GAP,0,3,BEVIS,Daniel,ALP,Australian Labor Party (State of Queensland),N,7822,30.73,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+THE GAP,0,4,HALEY,Rebecca,GRN,Queensland Greens,N,4317,16.96,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+THE GAP,0,5,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+THE GAP,1,1,TOOMEY,Steven,LNP,Liberal National Party of Queensland,Y,12942,51.38,70,15.8,LNP,2,HASSALL,Allen,IND,Independent
+THE GAP,1,2,HASSALL,Allen,IND,Independent,N,0,0,-443,-100.0,LNP,2,HASSALL,Allen,IND,Independent
+THE GAP,1,3,BEVIS,Daniel,ALP,Australian Labor Party (State of Queensland),N,7876,31.27,54,12.19,LNP,2,HASSALL,Allen,IND,Independent
+THE GAP,1,4,HALEY,Rebecca,GRN,Queensland Greens,N,4371,17.35,54,12.19,LNP,2,HASSALL,Allen,IND,Independent
+THE GAP,1,5,Exhausted,Exhausted,EXH,Exhausted,N,265,1.04,265,59.82,LNP,2,HASSALL,Allen,IND,Independent
+THE GAP,2,1,TOOMEY,Steven,LNP,Liberal National Party of Queensland,Y,13335,57.05,393,8.99,LNP,4,HALEY,Rebecca,GRN,Queensland Greens
+THE GAP,2,2,HASSALL,Allen,IND,Independent,N,0,0,0,0,LNP,4,HALEY,Rebecca,GRN,Queensland Greens
+THE GAP,2,3,BEVIS,Daniel,ALP,Australian Labor Party (State of Queensland),N,10039,42.95,2163,49.49,LNP,4,HALEY,Rebecca,GRN,Queensland Greens
+THE GAP,2,4,HALEY,Rebecca,GRN,Queensland Greens,N,0,0,-4371,-100.0,LNP,4,HALEY,Rebecca,GRN,Queensland Greens
+THE GAP,2,5,Exhausted,Exhausted,EXH,Exhausted,N,2080,8.17,1815,41.52,LNP,4,HALEY,Rebecca,GRN,Queensland Greens
+WALTER TAYLOR,0,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland),N,3582,15.33,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+WALTER TAYLOR,0,2,SARGENT,Michaela,GRN,Queensland Greens,N,8147,34.86,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+WALTER TAYLOR,0,3,MACKAY,James,LNP,Liberal National Party of Queensland,Y,10957,46.88,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+WALTER TAYLOR,0,4,ANTONIOLLI,Matt,IND,Independent,N,684,2.93,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+WALTER TAYLOR,0,5,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,LNP,First Pref,First Pref,First Pref,First Pref,First Pref
+WALTER TAYLOR,1,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland),N,3649,15.84,67,9.8,LNP,4,ANTONIOLLI,Matt,IND,Independent
+WALTER TAYLOR,1,2,SARGENT,Michaela,GRN,Queensland Greens,N,8301,36.04,154,22.51,LNP,4,ANTONIOLLI,Matt,IND,Independent
+WALTER TAYLOR,1,3,MACKAY,James,LNP,Liberal National Party of Queensland,Y,11083,48.12,126,18.42,LNP,4,ANTONIOLLI,Matt,IND,Independent
+WALTER TAYLOR,1,4,ANTONIOLLI,Matt,IND,Independent,N,0,0,-684,-100.0,LNP,4,ANTONIOLLI,Matt,IND,Independent
+WALTER TAYLOR,1,5,Exhausted,Exhausted,EXH,Exhausted,N,337,1.44,337,49.27,LNP,4,ANTONIOLLI,Matt,IND,Independent
+WALTER TAYLOR,2,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland),N,0,0,-3649,-100.0,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
+WALTER TAYLOR,2,2,SARGENT,Michaela,GRN,Queensland Greens,N,9766,46.06,1465,40.15,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
+WALTER TAYLOR,2,3,MACKAY,James,LNP,Liberal National Party of Queensland,Y,11439,53.94,356,9.76,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
+WALTER TAYLOR,2,4,ANTONIOLLI,Matt,IND,Independent,N,0,0,0,0,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
+WALTER TAYLOR,2,5,Exhausted,Exhausted,EXH,Exhausted,N,2165,9.26,1828,50.1,LNP,1,RAGHWAN,Karthika,ALP,Australian Labor Party (State of Queensland)
+WYNNUM-MANLY,0,1,PICCARDI,Megan,LNP,Liberal National Party of Queensland,N,8292,35.92,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+WYNNUM-MANLY,0,2,AUSTIN,Ken,GRN,Queensland Greens,N,2355,10.2,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+WYNNUM-MANLY,0,3,CUMMING,Peter,ALP,Australian Labor Party (State of Queensland),Y,12436,53.88,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+WYNNUM-MANLY,0,4,Exhausted,Exhausted,EXH,Exhausted,N,0,0,0,0,ALP,First Pref,First Pref,First Pref,First Pref,First Pref
+WYNNUM-MANLY,1,1,PICCARDI,Megan,LNP,Liberal National Party of Queensland,N,8541,38.61,249,10.57,ALP,2,AUSTIN,Ken,GRN,Queensland Greens
+WYNNUM-MANLY,1,2,AUSTIN,Ken,GRN,Queensland Greens,N,0,0,-2355,-100.0,ALP,2,AUSTIN,Ken,GRN,Queensland Greens
+WYNNUM-MANLY,1,3,CUMMING,Peter,ALP,Australian Labor Party (State of Queensland),Y,13581,61.39,1145,48.62,ALP,2,AUSTIN,Ken,GRN,Queensland Greens
+WYNNUM-MANLY,1,4,Exhausted,Exhausted,EXH,Exhausted,N,961,4.16,961,40.81,ALP,2,AUSTIN,Ken,GRN,Queensland Greens

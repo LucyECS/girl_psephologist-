@@ -5,35 +5,35 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 318,Bean,Jamie,CHRISTIE,4,N,Independent,IND,8023
 318,Bean,Kathryn Jane,SAVERY,5,N,The Greens,GRN,14559
 318,Bean,Jane,HIATT,6,N,Liberal,LP,29241
-318,Bean,Informal,Informal,999,N,Informal,,2915
+318,Bean,Informal,Informal,999,N,Independent,,2915
 101,Canberra,Catherine,SMITH,1,N,United Australia Party,UAPP,1687
 101,Canberra,James,MILES,2,N,Pauline Hanson's One Nation,ON,1531
 101,Canberra,Tim,BOHM,3,N,Independent,IND,4772
 101,Canberra,Slade,MINSON,4,N,Liberal,LP,20102
 101,Canberra,Tim,HOLLO,5,N,The Greens,GRN,22795
 101,Canberra,Alicia,PAYNE,6,Y,Australian Labor Party,ALP,41435
-101,Canberra,Informal,Informal,999,N,Informal,,1668
+101,Canberra,Informal,Informal,999,N,Independent,,1668
 102,Fenner,Andrew,LEIGH,1,Y,Australian Labor Party,ALP,44100
 102,Fenner,Nathan,KUSTER,2,N,Liberal,LP,25416
 102,Fenner,Timothy Peter,ELTON,3,N,United Australia Party,UAPP,2346
 102,Fenner,Lucia,GRANT,4,N,Pauline Hanson's One Nation,ON,2419
 102,Fenner,Natasa,SOJIC,5,N,The Greens,GRN,15294
 102,Fenner,Guy,JAKEMAN,6,N,Liberal Democrats,LDP,1706
-102,Fenner,Informal,Informal,999,N,Informal,,2533
+102,Fenner,Informal,Informal,999,N,Independent,,2533
 103,Banks,David,COLEMAN,1,Y,Liberal,LP,41622
 103,Banks,Elouise Ivy,COCKER,2,N,Liberal Democrats,LDP,1264
 103,Banks,Marika,MOMIRCEVSKI,3,N,United Australia Party,UAPP,5048
 103,Banks,Natalie,HANNA,4,N,The Greens,GRN,8063
-103,Banks,Steve,KHOUW,5,N,,NAFD,961
+103,Banks,Steve,KHOUW,5,N,Independent,NAFD,961
 103,Banks,Malcolm Phillip,HEFFERNAN,6,N,Pauline Hanson's One Nation,ON,2628
 103,Banks,Zhi,SOON,7,N,Labor,ALP,32459
-103,Banks,Informal,Informal,999,N,Informal,,6550
+103,Banks,Informal,Informal,999,N,Independent,,6550
 104,Barton,Linda,BURNEY,1,Y,Labor,ALP,46206
 104,Barton,Dimitri,HONOS,2,N,United Australia Party,UAPP,5611
 104,Barton,Taylor,VANDIJK,3,N,The Greens,GRN,11441
 104,Barton,John,GOODY,4,N,Liberal,LP,23992
 104,Barton,Phillip,POLLARD,5,N,Pauline Hanson's One Nation,ON,4373
-104,Barton,Informal,Informal,999,N,Informal,,7405
+104,Barton,Informal,Informal,999,N,Independent,,7405
 105,Bennelong,John,AUGUST,1,N,"FUSION: Science, Pirate, Secular, Climate Emergency",SOPA,2125
 105,Bennelong,Tony,ADAMS,2,N,The Greens,GRN,11395
 105,Bennelong,Dougal,CAMERON,3,N,Liberal Democrats,LDP,1539
@@ -42,7 +42,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 105,Bennelong,Victor,WATERSON,6,N,Pauline Hanson's One Nation,ON,1664
 105,Bennelong,Jerome,LAXALE,7,Y,Labor,ALP,37596
 105,Bennelong,Kyinzom,DHONGDUE,8,N,Democratic Alliance,DPDA,1208
-105,Bennelong,Informal,Informal,999,N,Informal,,6130
+105,Bennelong,Informal,Informal,999,N,Independent,,6130
 106,Berowra,Nicholas,SAMIOS,1,N,Liberal Democrats,LDP,2307
 106,Berowra,Tania,SALITRA,2,N,The Greens,GRN,14536
 106,Berowra,Rhiannon,BOSMA,3,N,Pauline Hanson's One Nation,ON,2972
@@ -53,27 +53,27 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 106,Berowra,Roger,WOODWARD,8,N,Independent,IND,904
 106,Berowra,Christopher,MARTINIC,9,N,United Australia Party,UAPP,2315
 106,Berowra,Benjamin,CASWELL,10,N,Independent,IND,1802
-106,Berowra,Informal,Informal,999,N,Informal,,6083
+106,Berowra,Informal,Informal,999,N,Independent,,6083
 107,Blaxland,Adam,STEPANOFF,1,N,Pauline Hanson's One Nation,ON,4421
 107,Blaxland,Oz,GUNEY,2,N,Liberal,LP,22059
 107,Blaxland,Linda,EISLER,3,N,The Greens,GRN,5187
 107,Blaxland,Jason,CLARE,4,Y,Labor,ALP,44905
 107,Blaxland,Elvis,SINOSIC,5,N,United Australia Party,UAPP,5105
-107,Blaxland,Informal,Informal,999,N,Informal,,9884
+107,Blaxland,Informal,Informal,999,N,Independent,,9884
 108,Bradfield,Nicolette,BOELE,1,N,Independent,IND,20198
 108,Bradfield,David Gordon,BRIGDEN,2,N,Labor,ALP,16902
 108,Bradfield,Martin,COUSINS,3,N,The Greens,GRN,8960
 108,Bradfield,Janine,KITSON,4,N,Independent,IND,3018
 108,Bradfield,Paul,FLETCHER,6,Y,Liberal,LP,43562
 108,Bradfield,Michael,LOWE,7,N,Pauline Hanson's One Nation,ON,1568
-108,Bradfield,Informal,Informal,999,N,Informal,,3616
+108,Bradfield,Informal,Informal,999,N,Independent,,3616
 109,Calare,Kate,HOOK,1,N,Independent,IND,21891
 109,Calare,Stacey,WHITTAKER,2,N,Pauline Hanson's One Nation,ON,9057
 109,Calare,Kay,NANKERVIS,3,N,The Greens,GRN,4891
 109,Calare,Sarah,ELLIOTT,4,N,Labor,ALP,16252
 109,Calare,Andrew,GEE,5,Y,The Nationals,NP,51161
 109,Calare,Adam John,JANNIS,6,N,United Australia Party,UAPP,4067
-109,Calare,Informal,Informal,999,N,Informal,,4455
+109,Calare,Informal,Informal,999,N,Independent,,4455
 111,Chifley,Amit,BATISH,1,N,Pauline Hanson's One Nation,ON,6034
 111,Chifley,Zvetanka,RASKOV,2,N,United Australia Party,UAPP,5149
 111,Chifley,Ammar,KHAN,3,N,Independent,IND,1839
@@ -81,13 +81,13 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 111,Chifley,Sujan,SELVENTHIRAN,5,N,The Greens,GRN,5622
 111,Chifley,Jugandeep,SINGH,6,N,Liberal,LP,24046
 111,Chifley,Ed,HUSIC,7,Y,Labor,ALP,51236
-111,Chifley,Informal,Informal,999,N,Informal,,9471
+111,Chifley,Informal,Informal,999,N,Independent,,9471
 112,Cook,Gaye,CAMERON,1,N,Pauline Hanson's One Nation,ON,4985
 112,Cook,Catherine,DYSON,2,N,The Greens,GRN,9685
 112,Cook,Scott,MORRISON,3,Y,Liberal,LP,54322
 112,Cook,Jacqueline,GUINANE,4,N,United Australia Party,UAPP,4381
 112,Cook,Simon,EARLE,5,N,Labor,ALP,24444
-112,Cook,Informal,Informal,999,N,Informal,,4498
+112,Cook,Informal,Informal,999,N,Independent,,4498
 113,Cowper,Faye,ASPIOTIS,1,N,Pauline Hanson's One Nation,ON,9047
 113,Cowper,Keith,McMULLEN,2,N,Labor,ALP,15566
 113,Cowper,Pat,CONAGHAN,3,Y,The Nationals,NP,43909
@@ -95,7 +95,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 113,Cowper,Simon,CHASELING,5,N,Liberal Democrats,LDP,4316
 113,Cowper,Joshua Stephen,FAIRHALL,6,N,United Australia Party,UAPP,2674
 113,Cowper,Timothy,NOTT,7,N,The Greens,GRN,6518
-113,Cowper,Informal,Informal,999,N,Informal,,5770
+113,Cowper,Informal,Informal,999,N,Independent,,5770
 114,Cunningham,Marcus,UREN,1,N,Liberal,LP,25418
 114,Cunningham,Ben,BRITTON,2,N,United Australia Party,UAPP,4936
 114,Cunningham,Alison,BYRNES,3,Y,Labor,ALP,40783
@@ -103,7 +103,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 114,Cunningham,Dylan,GREEN,5,N,The Greens,GRN,22011
 114,Cunningham,Michael,GLOVER,6,N,Liberal Democrats,LDP,2207
 114,Cunningham,Thomas,GROGAN,7,N,Pauline Hanson's One Nation,ON,5218
-114,Cunningham,Informal,Informal,999,N,Informal,,5514
+114,Cunningham,Informal,Informal,999,N,Independent,,5514
 115,Dobell,Geoff,BARNES,1,N,"FUSION: Science, Pirate, Secular, Climate Emergency",SOPA,2202
 115,Dobell,Dean James,MACKIN,2,N,United Australia Party,UAPP,3818
 115,Dobell,Michael,FENELEY,3,N,Liberal,LP,34276
@@ -111,7 +111,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 115,Dobell,Martin,STEVENSON,5,N,Pauline Hanson's One Nation,ON,7583
 115,Dobell,Eliot,METHERELL,6,N,Liberal Democrats,LDP,1543
 115,Dobell,Emma,McBRIDE,7,Y,Labor,ALP,43595
-115,Dobell,Informal,Informal,999,N,Informal,,4930
+115,Dobell,Informal,Informal,999,N,Independent,,4930
 117,Eden-Monaro,James,HOLGATE,1,N,Sustainable Australia Party - Stop Overdevelopment / Corruption,SPP,2260
 117,Eden-Monaro,Maxwell,HOLMES,2,N,Liberal Democrats,LDP,2625
 117,Eden-Monaro,Kristy,McBAIN,3,Y,Labor,ALP,43215
@@ -122,7 +122,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 117,Eden-Monaro,Toni,McLENNAN,8,N,Informed Medical Options Party,IMO,909
 117,Eden-Monaro,Andrew,THALER,9,N,Independent,IND,2044
 117,Eden-Monaro,Boyd,SHANNON,10,N,Pauline Hanson's One Nation,ON,4351
-117,Eden-Monaro,Informal,Informal,999,N,Informal,,7083
+117,Eden-Monaro,Informal,Informal,999,N,Independent,,7083
 118,Farrer,Eli,DAVERN,1,N,The Greens,GRN,9163
 118,Farrer,Sussan,LEY,2,Y,Liberal,LP,52566
 118,Farrer,Amanda,DUNCAN-STRELEC,3,N,Independent,IND,3189
@@ -131,7 +131,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 118,Farrer,Richard,FRANCIS,6,N,Pauline Hanson's One Nation,ON,6363
 118,Farrer,Julie,RAMOS,7,N,United Australia Party,UAPP,3270
 118,Farrer,Darren Michael,CAMERON,8,N,Labor,ALP,19097
-118,Farrer,Informal,Informal,999,N,Informal,,8256
+118,Farrer,Informal,Informal,999,N,Independent,,8256
 119,Fowler,Kristina,KENEALLY,1,N,Labor,ALP,30973
 119,Fowler,Lela Lepa,PANICH,2,N,United Australia Party,UAPP,5512
 119,Fowler,Peter Ronald,RUNGE,3,N,Liberal Democrats,LDP,2094
@@ -139,7 +139,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 119,Fowler,Courtney,NGUYEN,5,N,Liberal,LP,14740
 119,Fowler,Tony,MARGOS,6,N,Pauline Hanson's One Nation,ON,3047
 119,Fowler,Avery,HOWARD,7,N,The Greens,GRN,4191
-119,Fowler,Informal,Informal,999,N,Informal,,10098
+119,Fowler,Informal,Informal,999,N,Independent,,10098
 120,Gilmore,Andrew,CONSTANCE,1,N,Liberal,LP,46941
 120,Gilmore,Nina,DIGIGLIO,2,N,Independent,IND,4721
 120,Gilmore,Carmel,McCALLUM,3,N,The Greens,GRN,11417
@@ -147,7 +147,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 120,Gilmore,Jerremy,EID,5,N,Pauline Hanson's One Nation,ON,4453
 120,Gilmore,Adrian,FADINI,6,N,Liberal Democrats,LDP,890
 120,Gilmore,Fiona,PHILLIPS,7,Y,Labor,ALP,40175
-120,Gilmore,Informal,Informal,999,N,Informal,,5170
+120,Gilmore,Informal,Informal,999,N,Independent,,5170
 121,Grayndler,David Bruce,SMITH,1,N,United Australia Party,UAPP,2101
 121,Grayndler,Anthony,ALBANESE,2,Y,Labor,ALP,50723
 121,Grayndler,Ben,ZHANG,3,N,Liberal,LP,15111
@@ -156,7 +156,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 121,Grayndler,Paul,HENSELIN,6,N,Pauline Hanson's One Nation,ON,1449
 121,Grayndler,Michael Armando,DELLO-IACOVO,7,N,Animal Justice Party,AJP,1148
 121,Grayndler,Rachael,JACOBS,8,N,The Greens,GRN,20846
-121,Grayndler,Informal,Informal,999,N,Informal,,4483
+121,Grayndler,Informal,Informal,999,N,Independent,,4483
 122,Greenway,Mark Andrew,REX,1,N,United Australia Party,UAPP,4359
 122,Greenway,Michelle,ROWLAND,2,Y,Labor,ALP,48551
 122,Greenway,Adam,KACHWALLA,3,N,Liberal Democrats,LDP,3014
@@ -165,14 +165,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 122,Greenway,Rick,TURNER,6,N,Pauline Hanson's One Nation,ON,2710
 122,Greenway,Pradeep,PATHI,7,N,Liberal,LP,29932
 122,Greenway,Damien,ATKINS,8,N,The Greens,GRN,7086
-122,Greenway,Informal,Informal,999,N,Informal,,8999
+122,Greenway,Informal,Informal,999,N,Independent,,8999
 124,Hughes,Jenny,WARE,1,Y,Liberal,LP,42148
 124,Hughes,Pete,THOMPSON,2,N,The Greens,GRN,6118
 124,Hughes,Georgia,STEELE,3,N,Independent,IND,13891
 124,Hughes,Craig,KELLY,4,N,United Australia Party,UAPP,7186
 124,Hughes,Linda,SEYMOUR,6,N,Independent,IND,3138
 124,Hughes,Riley,CAMPBELL,7,N,Labor,ALP,21828
-124,Hughes,Informal,Informal,999,N,Informal,,4387
+124,Hughes,Informal,Informal,999,N,Independent,,4387
 125,Hume,Greg,BAINES,1,N,Labor,ALP,20864
 125,Hume,Garry Trevor,DOLLIN,2,N,United Australia Party,UAPP,4780
 125,Hume,Rebecca,THOMPSON,3,N,Pauline Hanson's One Nation,ON,7700
@@ -182,7 +182,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 125,Hume,Angus,TAYLOR,7,Y,Liberal,LP,45177
 125,Hume,Joaquim Eduardo,DE LIMA,8,N,Liberal Democrats,LDP,770
 125,Hume,Penny,ACKERY,9,N,Independent,IND,16045
-125,Hume,Informal,Informal,999,N,Informal,,8040
+125,Hume,Informal,Informal,999,N,Independent,,8040
 126,Hunter,Janet,MURRAY,1,N,The Greens,GRN,9562
 126,Hunter,Dan,REPACHOLI,2,Y,Labor,ALP,41514
 126,Hunter,Victoria,DAVIES,3,N,Animal Justice Party,AJP,2469
@@ -192,13 +192,13 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 126,Hunter,James,THOMSON,7,N,The Nationals,NP,29540
 126,Hunter,Dale,McNAMARA,8,N,Pauline Hanson's One Nation,ON,10759
 126,Hunter,Scott Fulvio,LARUFFA,9,N,Independent,IND,1929
-126,Hunter,Informal,Informal,999,N,Informal,,8901
+126,Hunter,Informal,Informal,999,N,Independent,,8901
 127,Kingsford Smith,Stuart,DAVIS,1,N,The Greens,GRN,16401
 127,Kingsford Smith,Darrin,MARR,2,N,Pauline Hanson's One Nation,ON,3051
 127,Kingsford Smith,Anthony,TAWAF,3,N,United Australia Party,UAPP,3388
 127,Kingsford Smith,Grace,TAN,4,N,Liberal,LP,27929
 127,Kingsford Smith,Matt,THISTLETHWAITE,5,Y,Labor,ALP,46697
-127,Kingsford Smith,Informal,Informal,999,N,Informal,,4572
+127,Kingsford Smith,Informal,Informal,999,N,Independent,,4572
 128,Lindsay,Trevor,ROSS,1,N,Labor,ALP,33206
 128,Lindsay,Pieter,MORSSINK,2,N,The Greens,GRN,8404
 128,Lindsay,Max,JAGO,3,N,Pauline Hanson's One Nation,ON,6203
@@ -206,7 +206,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 128,Lindsay,Melissa,McINTOSH,5,Y,Liberal,LP,48939
 128,Lindsay,Gareth,McCLURE,6,N,Liberal Democrats,LDP,1627
 128,Lindsay,Rebekah,RAY,7,N,Informed Medical Options Party,IMO,2075
-128,Lindsay,Informal,Informal,999,N,Informal,,7754
+128,Lindsay,Informal,Informal,999,N,Independent,,7754
 130,Lyne,Joanne,PEARCE,1,N,Independent,IND,3820
 130,Lyne,Joel,PUTLAND,2,N,United Australia Party,UAPP,4421
 130,Lyne,David,GILLESPIE,3,Y,The Nationals,NP,46661
@@ -215,14 +215,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 130,Lyne,Mark,HORNSHAW,6,N,Liberal Democrats,LDP,6824
 130,Lyne,Josephine,CASHMAN,7,N,Pauline Hanson's One Nation,ON,8502
 130,Lyne,Karl,ATTENBOROUGH,8,N,The Greens,GRN,8422
-130,Lyne,Informal,Informal,999,N,Informal,,7563
+130,Lyne,Informal,Informal,999,N,Independent,,7563
 131,Macarthur,Jayden,RIVERA,1,N,The Greens,GRN,8584
 131,Macarthur,Binod,PAUDEL,2,N,Liberal,LP,33867
 131,Macarthur,Mike,FREELANDER,3,Y,Labor,ALP,51001
 131,Macarthur,Rosa Antonia,SICARI,4,N,United Australia Party,UAPP,6602
 131,Macarthur,Scott,KORMAN,5,N,Liberal Democrats,LDP,2197
 131,Macarthur,Adam,ZAHRA,6,N,Pauline Hanson's One Nation,ON,8876
-131,Macarthur,Informal,Informal,999,N,Informal,,8646
+131,Macarthur,Informal,Informal,999,N,Independent,,8646
 132,Mackellar,Barry,STEELE,1,N,TNL,TNL,575
 132,Mackellar,Darren,DICKSON,2,N,Pauline Hanson's One Nation,ON,2624
 132,Mackellar,Sophie,SCAMPS,3,Y,Independent,IND,37724
@@ -230,7 +230,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 132,Mackellar,Jason,FALINSKI,5,N,Liberal,LP,40993
 132,Mackellar,Christopher Thomas,BALL,6,N,United Australia Party,UAPP,2881
 132,Mackellar,Ethan,HRNJAK,7,N,The Greens,GRN,6032
-132,Mackellar,Informal,Informal,999,N,Informal,,3884
+132,Mackellar,Informal,Informal,999,N,Independent,,3884
 133,Macquarie,Tony,PETTITT,1,N,Pauline Hanson's One Nation,ON,4955
 133,Macquarie,Susan,TEMPLEMAN,2,Y,Labor,ALP,41025
 133,Macquarie,Nicole,EVANS,3,N,United Australia Party,UAPP,2774
@@ -239,21 +239,21 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 133,Macquarie,Tony,HICKEY,6,N,The Greens,GRN,9115
 133,Macquarie,Michelle,PALMER,7,N,Informed Medical Options Party,IMO,1318
 133,Macquarie,Sarah,RICHARDS,8,N,Liberal,LP,32980
-133,Macquarie,Informal,Informal,999,N,Informal,,5095
+133,Macquarie,Informal,Informal,999,N,Independent,,5095
 315,McMahon,Chris,BOWEN,1,Y,Labor,ALP,40657
 315,McMahon,Marie,SALIBA,2,N,United Australia Party,UAPP,7723
 315,McMahon,Scott,FORD,3,N,Pauline Hanson's One Nation,ON,4612
 315,McMahon,Vivek,SINGHA,4,N,Liberal,LP,24006
 315,McMahon,Astrid,O'NEILL,5,N,The Greens,GRN,4922
 315,McMahon,Cameron,SHAMSABAD,6,N,Liberal Democrats,LDP,2822
-315,McMahon,Informal,Informal,999,N,Informal,,10057
+315,McMahon,Informal,Informal,999,N,Independent,,10057
 134,Mitchell,Clinton,MEAD,1,N,Liberal Democrats,LDP,3708
 134,Mitchell,Linda,DANIEL,2,N,United Australia Party,UAPP,3916
 134,Mitchell,Matt,COX,3,N,The Greens,GRN,12796
 134,Mitchell,Immanuel,SELVARAJ,4,N,Labor,ALP,27597
 134,Mitchell,Donald,McKENZIE,5,N,Pauline Hanson's One Nation,ON,3258
 134,Mitchell,Alex,HAWKE,6,Y,Liberal,LP,56918
-134,Mitchell,Informal,Informal,999,N,Informal,,4811
+134,Mitchell,Informal,Informal,999,N,Independent,,4811
 135,New England,Pavlo,SAMIOS,1,N,Liberal Democrats,LDP,3174
 135,New England,Cindy Anne,DUNCAN,2,N,United Australia Party,UAPP,2545
 135,New England,Natasha,LEDGER,3,N,Independent,IND,2708
@@ -262,7 +262,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 135,New England,Richard,THOMAS,6,N,Pauline Hanson's One Nation,ON,4570
 135,New England,Carol,SPARKS,7,N,The Greens,GRN,7524
 135,New England,Laura,HUGHES,8,N,Labor,ALP,18056
-135,New England,Informal,Informal,999,N,Informal,,6494
+135,New England,Informal,Informal,999,N,Independent,,6494
 136,Newcastle,Garth,PYWELL,1,N,Australian Federation Party,CYA,1102
 136,Newcastle,Charlotte,McCABE,2,N,The Greens,GRN,21195
 136,Newcastle,Amanda,COOK,3,N,United Australia Party,UAPP,2517
@@ -271,7 +271,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 136,Newcastle,Katrina,WARK,6,N,Liberal,LP,25816
 136,Newcastle,Mark James,WATSON,7,N,Pauline Hanson's One Nation,ON,4757
 136,Newcastle,Emily,BROLLO,8,N,Animal Justice Party,AJP,2549
-136,Newcastle,Informal,Informal,999,N,Informal,,6038
+136,Newcastle,Informal,Informal,999,N,Independent,,6038
 137,North Sydney,William,BOURKE,1,N,Sustainable Australia Party - Stop Overdevelopment / Corruption,SPP,1163
 137,North Sydney,Robert,NALBANDIAN,2,N,United Australia Party,UAPP,1730
 137,North Sydney,Heather,ARMSTRONG,3,N,The Greens,GRN,8308
@@ -282,7 +282,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 137,North Sydney,Kylea Jane,TINK,8,Y,Independent,IND,24477
 137,North Sydney,Michael,WALLS,9,N,Pauline Hanson's One Nation,ON,1149
 137,North Sydney,Catherine,RENSHAW,10,N,Labor,ALP,20835
-137,North Sydney,Informal,Informal,999,N,Informal,,5138
+137,North Sydney,Informal,Informal,999,N,Independent,,5138
 138,Page,Thomas,SEARLES,1,N,Liberal Democrats,LDP,3896
 138,Page,Donna,PIKE,2,N,Pauline Hanson's One Nation,ON,5621
 138,Page,Kashmir,MILLER,3,N,The Greens,GRN,8863
@@ -293,7 +293,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 138,Page,Kevin,HOGAN,8,Y,The Nationals,NP,47701
 138,Page,Hanabeth,LUKE,9,N,Independent,IND,13734
 138,Page,Serge,KILLINGBECK,10,N,TNL,TNL,243
-138,Page,Informal,Informal,999,N,Informal,,7839
+138,Page,Informal,Informal,999,N,Independent,,7839
 139,Parkes,Derek,HARDMAN,1,N,Indigenous - Aboriginal Party of Australia,IAP,4466
 139,Parkes,Peter,ROTHWELL,2,N,Liberal Democrats,LDP,5723
 139,Parkes,Deborah,SWINBOURN,3,N,Pauline Hanson's One Nation,ON,6662
@@ -303,7 +303,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 139,Parkes,Jack,AYOUB,7,N,Labor,ALP,18009
 139,Parkes,Trish,FRAIL,8,N,The Greens,GRN,4214
 139,Parkes,Benjamin,FOX,9,N,Informed Medical Options Party,IMO,1512
-139,Parkes,Informal,Informal,999,N,Informal,,7421
+139,Parkes,Informal,Informal,999,N,Independent,,7421
 140,Parramatta,Rohan,LAXMANALAL,1,N,Animal Justice Party,AJP,2397
 140,Parramatta,Maria,KOVACIC,2,N,Liberal,LP,29492
 140,Parramatta,Heather,FREEMAN,3,N,Pauline Hanson's One Nation,ON,2011
@@ -312,7 +312,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 140,Parramatta,Phil,BRADLEY,6,N,The Greens,GRN,7546
 140,Parramatta,Andrew,CHARLTON,7,Y,Labor,ALP,34258
 140,Parramatta,Steve,CHRISTOU,8,N,Independent,IND,2982
-140,Parramatta,Informal,Informal,999,N,Informal,,8259
+140,Parramatta,Informal,Informal,999,N,Independent,,8259
 249,Paterson,Neil,TURNER,1,N,Pauline Hanson's One Nation,ON,9363
 249,Paterson,Brooke,VITNELL,2,N,Liberal,LP,42142
 249,Paterson,Meryl,SWANSON,3,Y,Labor,ALP,46725
@@ -320,7 +320,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 249,Paterson,Louise,IHLEIN,5,N,The Greens,GRN,8677
 249,Paterson,Sonia,BAILEY,6,N,Liberal Democrats,LDP,1621
 249,Paterson,Jason Mark,OLBOURNE,7,N,United Australia Party,UAPP,4474
-249,Paterson,Informal,Informal,999,N,Informal,,6142
+249,Paterson,Informal,Informal,999,N,Independent,,6142
 144,Reid,Sally,SITOU,1,Y,Labor,ALP,40768
 144,Reid,Sahar,KHALILI-NAGHADEH,2,N,"FUSION: Science, Pirate, Secular, Climate Emergency",SOPA,1553
 144,Reid,Edward,WALTERS,3,N,Pauline Hanson's One Nation,ON,1997
@@ -329,7 +329,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 144,Reid,Fiona,MARTIN,6,N,Liberal,LP,37126
 144,Reid,Jamal,DAOUD,7,N,United Australia Party,UAPP,2530
 144,Reid,Charles,JAGO,8,N,The Greens,GRN,9184
-144,Reid,Informal,Informal,999,N,Informal,,6800
+144,Reid,Informal,Informal,999,N,Independent,,6800
 145,Richmond,Terry Patrick,SHARPLES,1,N,Independent,IND,1274
 145,Richmond,Nathan,JONES,2,N,Independent,IND,1974
 145,Richmond,Monica,SHEPHERD,3,N,Informed Medical Options Party,IMO,2271
@@ -340,7 +340,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 145,Richmond,Tracey,BELL-HENSELIN,8,N,Pauline Hanson's One Nation,ON,4073
 145,Richmond,Mandy,NOLAN,9,N,The Greens,GRN,25216
 145,Richmond,Robert James,MARKS,10,N,United Australia Party,UAPP,2922
-145,Richmond,Informal,Informal,999,N,Informal,,7424
+145,Richmond,Informal,Informal,999,N,Independent,,7424
 250,Riverina,Richard,ORCHARD,1,N,Pauline Hanson's One Nation,ON,8042
 250,Riverina,Mark,JEFFRESON,2,N,Labor,ALP,20193
 250,Riverina,Daniel,MARTELOZZO,3,N,United Australia Party,UAPP,2585
@@ -349,7 +349,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 250,Riverina,Darren,CIAVARELLA,6,N,Independent,IND,2701
 250,Riverina,Dean,McCRAE,7,N,Liberal Democrats,LDP,6563
 250,Riverina,Michael,ORGAN,8,N,The Greens,GRN,6349
-250,Riverina,Informal,Informal,999,N,Informal,,7794
+250,Riverina,Informal,Informal,999,N,Independent,,7794
 146,Robertson,Patrick,MURPHY,1,N,Animal Justice Party,AJP,1949
 146,Robertson,Gordon,REID,2,Y,Labor,ALP,36231
 146,Robertson,Paul,BORTHWICK,3,N,Citizens Party,CEC,272
@@ -361,7 +361,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 146,Robertson,Kate,MASON,9,N,Informed Medical Options Party,IMO,1114
 146,Robertson,Alexandra,HAFNER,10,N,Australian Federation Party,CYA,220
 146,Robertson,Shelly,McGRATH,11,N,The Greens,GRN,9642
-146,Robertson,Informal,Informal,999,N,Informal,,6274
+146,Robertson,Informal,Informal,999,N,Independent,,6274
 148,Shortland,Bree Suzanne,ROBERTS,1,N,Animal Justice Party,AJP,2979
 148,Shortland,Basil,PAYNTER,2,N,Independent,IND,2554
 148,Shortland,Barry,REED,3,N,Liberal Democrats,LDP,2984
@@ -370,7 +370,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 148,Shortland,Kenneth John,MAXWELL,6,N,United Australia Party,UAPP,3125
 148,Shortland,Kim,GRIERSON,7,N,The Greens,GRN,9910
 148,Shortland,Quintin,KING,8,N,Pauline Hanson's One Nation,ON,6397
-148,Shortland,Informal,Informal,999,N,Informal,,6467
+148,Shortland,Informal,Informal,999,N,Independent,,6467
 149,Sydney,Andrew,CHUTER,1,N,Socialist Alliance,SAL,1518
 149,Sydney,Tanya,PLIBERSEK,2,Y,Labor,ALP,52410
 149,Sydney,Ben,FERGUSON,3,N,Pauline Hanson's One Nation,ON,1889
@@ -378,7 +378,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 149,Sydney,Wen,ZHOU,5,N,Citizens Party,CEC,1002
 149,Sydney,Ryan,McALISTER,6,N,United Australia Party,UAPP,2298
 149,Sydney,Alexander,ANDRUSKA,7,N,Liberal,LP,20276
-149,Sydney,Informal,Informal,999,N,Informal,,3499
+149,Sydney,Informal,Informal,999,N,Independent,,3499
 151,Warringah,Steven,TRIPP,1,N,Pauline Hanson's One Nation,ON,1980
 151,Warringah,Zali,STEGGALL,2,Y,Independent,IND,41832
 151,Warringah,Andrew Colin,ROBERTSON,3,N,United Australia Party,UAPP,2202
@@ -386,13 +386,13 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 151,Warringah,Katherine,DEVES,5,N,Liberal,LP,31129
 151,Warringah,David,MICKLEBURGH,6,N,Labor,ALP,7806
 151,Warringah,Kate,PATERSON,7,N,Animal Justice Party,AJP,1475
-151,Warringah,Informal,Informal,999,N,Informal,,2829
+151,Warringah,Informal,Informal,999,N,Independent,,2829
 251,Watson,Sazeda,AKTER,1,N,Liberal,LP,22759
 251,Watson,John,KOUKOULIS,2,N,United Australia Party,UAPP,6126
 251,Watson,Tony,BURKE,3,Y,Labor,ALP,44464
 251,Watson,Alan,JORGENSEN,4,N,Pauline Hanson's One Nation,ON,4178
 251,Watson,Bradley,SCHOTT,5,N,The Greens,GRN,8200
-251,Watson,Informal,Informal,999,N,Informal,,9245
+251,Watson,Informal,Informal,999,N,Independent,,9245
 152,Wentworth,Tim,MURRAY,1,N,Labor,ALP,9654
 152,Wentworth,Dean,FISHER,2,N,Pauline Hanson's One Nation,ON,895
 152,Wentworth,Dominic WY,KANAK,3,N,The Greens,GRN,7410
@@ -400,21 +400,21 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 152,Wentworth,Allegra,SPENDER,5,Y,Independent,IND,31810
 152,Wentworth,Daniel,LEWKOVITZ,6,N,Liberal Democrats,LDP,1346
 152,Wentworth,Dave,SHARMA,7,N,Liberal,LP,35995
-152,Wentworth,Informal,Informal,999,N,Informal,,2277
+152,Wentworth,Informal,Informal,999,N,Independent,,2277
 153,Werriwa,Victor,TEY,1,N,Liberal Democrats,LDP,8978
 153,Werriwa,Tony Mark,NIKOLIC,2,N,United Australia Party,UAPP,8813
 153,Werriwa,Anne Maree,STANLEY,3,Y,Labor,ALP,40108
 153,Werriwa,Apurva,SHUKLA,4,N,The Greens,GRN,6772
 153,Werriwa,Sam,KAYAL,5,N,Liberal,LP,30864
 153,Werriwa,Adam Paul,BOOKE,6,N,Pauline Hanson's One Nation,ON,5096
-153,Werriwa,Informal,Informal,999,N,Informal,,10962
+153,Werriwa,Informal,Informal,999,N,Independent,,10962
 150,Whitlam,Stephen,JONES,1,Y,Labor,ALP,49218
 150,Whitlam,Michael,WHEELER,2,N,Liberal Democrats,LDP,4062
 150,Whitlam,Colin,HUGHES,3,N,Pauline Hanson's One Nation,ON,7543
 150,Whitlam,Mike,CAINS,4,N,Liberal,LP,30849
 150,Whitlam,Allan,WODE,5,N,United Australia Party,UAPP,5886
 150,Whitlam,Jamie,DIXON,6,N,The Greens,GRN,11779
-150,Whitlam,Informal,Informal,999,N,Informal,,5637
+150,Whitlam,Informal,Informal,999,N,Independent,,5637
 306,Lingiari,Damien,RYAN,1,N,NT CLP,CLP,15893
 306,Lingiari,Blair,McFARLAND,2,N,The Greens,GRN,5018
 306,Lingiari,Thong Sum,LEE,3,N,Citizens Party,CEC,497
@@ -424,14 +424,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 306,Lingiari,Imelda,ADAMSON AGARS,7,N,Independent,IND,409
 306,Lingiari,Tim,GALLARD,8,N,Pauline Hanson's One Nation,ON,2470
 306,Lingiari,George,KASPAREK,9,N,Liberal Democrats,LDP,1948
-306,Lingiari,Informal,Informal,999,N,Informal,,3647
+306,Lingiari,Informal,Informal,999,N,Independent,,3647
 307,Solomon,Kylie,BONANNI,1,N,Liberal Democrats,LDP,5839
 307,Solomon,Aiya,GOODRICH CARTTLING,2,N,The Greens,GRN,8164
 307,Solomon,Luke,GOSLING,3,Y,A.L.P.,ALP,21775
 307,Solomon,Tina,MACFARLANE,4,N,NT CLP,CLP,13771
 307,Solomon,Emily,LOHSE,5,N,Pauline Hanson's One Nation,ON,2948
 307,Solomon,Tayla Elise,SELFE,6,N,United Australia Party,UAPP,2628
-307,Solomon,Informal,Informal,999,N,Informal,,2011
+307,Solomon,Informal,Informal,999,N,Independent,,2011
 304,Blair,Danielle,MUTTON,1,N,Queensland Greens,GRN,13113
 304,Blair,Michelle,JAQUES,2,N,Liberal Democrats,LDP,3080
 304,Blair,Quinton Stewart,CUNNINGHAM,3,N,United Australia Party,UAPP,6353
@@ -440,20 +440,20 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 304,Blair,Maria,PITMAN,6,N,Australian Values Party,AUVA,2103
 304,Blair,Angela,LOWERY,7,N,Animal Justice Party,AJP,2563
 304,Blair,Sam,BIGGINS,8,N,Liberal National Party of Queensland,LNP,30122
-304,Blair,Informal,Informal,999,N,Informal,,5832
+304,Blair,Informal,Informal,999,N,Independent,,5832
 310,Bonner,Ross,VASTA,1,Y,Liberal National Party of Queensland,LNP,43191
 310,Bonner,Amanda,NEIL,2,N,Pauline Hanson's One Nation,ON,5371
 310,Bonner,Serge,DIKLICH,3,N,United Australia Party,UAPP,3177
 310,Bonner,Tabatha,YOUNG,4,N,Australian Labor Party,ALP,28491
 310,Bonner,Bernard,LAKEY,5,N,Queensland Greens,GRN,16144
-310,Bonner,Informal,Informal,999,N,Informal,,2467
+310,Bonner,Informal,Informal,999,N,Independent,,2467
 155,Bowman,Walter,TODD,1,N,Pauline Hanson's One Nation,ON,7825
 155,Bowman,Mary-Jane,STEVENS,2,N,United Australia Party,UAPP,6601
 155,Bowman,Ian,MAZLIN,3,N,Queensland Greens,GRN,13241
 155,Bowman,Henry,PIKE,4,Y,Liberal National Party of Queensland,LNP,43088
 155,Bowman,Phil,JOHNSON,5,N,TNL,TNL,1243
 155,Bowman,Donisha,DUFF,6,N,Australian Labor Party,ALP,29694
-155,Bowman,Informal,Informal,999,N,Informal,,3045
+155,Bowman,Informal,Informal,999,N,Independent,,3045
 156,Brisbane,Tiana,KENNEDY,1,N,Animal Justice Party,AJP,2135
 156,Brisbane,Justin Marc,KNUDSON,2,N,United Australia Party,UAPP,2102
 156,Brisbane,Stephen,BATES,3,Y,Queensland Greens,GRN,29641
@@ -461,7 +461,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 156,Brisbane,Trevor,EVANS,5,N,Liberal National Party of Queensland,LNP,41032
 156,Brisbane,Trevor,HOLD,6,N,Pauline Hanson's One Nation,ON,2429
 156,Brisbane,Anthony,BULL,7,N,Liberal Democrats,LDP,1807
-156,Brisbane,Informal,Informal,999,N,Informal,,2312
+156,Brisbane,Informal,Informal,999,N,Independent,,2312
 157,Capricornia,Kylee,STANTON,1,N,Pauline Hanson's One Nation,ON,13179
 157,Capricornia,Paula,GANFIELD,2,N,Informed Medical Options Party,IMO,1126
 157,Capricornia,Mick,JONES,3,N,Queensland Greens,GRN,5302
@@ -471,7 +471,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 157,Capricornia,Nathan Luke,HARDING,7,N,United Australia Party,UAPP,3555
 157,Capricornia,Michelle,LANDRY,8,Y,Liberal National Party of Queensland,LNP,35613
 157,Capricornia,Zteven,WHITTY,9,N,The Great Australian Party,GAP,1747
-157,Capricornia,Informal,Informal,999,N,Informal,,5904
+157,Capricornia,Informal,Informal,999,N,Independent,,5904
 158,Dawson,Andrew,WILLCOX,1,Y,Liberal National Party of Queensland,LNP,40109
 158,Dawson,Julie,HALL,2,N,Pauline Hanson's One Nation,ON,12289
 158,Dawson,Shane,HAMILTON,3,N,Australian Labor Party,ALP,22650
@@ -479,7 +479,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 158,Dawson,Christian Nigel,YOUNG,5,N,United Australia Party,UAPP,3713
 158,Dawson,Ciaron,PATERSON,6,N,Katter's Australian Party (KAP),KAP,5189
 158,Dawson,Paula,CREEN,7,N,Queensland Greens,GRN,6675
-158,Dawson,Informal,Informal,999,N,Informal,,4001
+158,Dawson,Informal,Informal,999,N,Independent,,4001
 252,Dickson,Alan,BUCHBACH,1,N,Independent,IND,2222
 252,Dickson,Lloyd,RUSSELL,2,N,Liberal Democrats,LDP,1236
 252,Dickson,Peter,DUTTON,3,Y,Liberal National Party of Queensland,LNP,41657
@@ -488,7 +488,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 252,Dickson,Alina Karen,WARD,6,N,United Australia Party,UAPP,2717
 252,Dickson,Ali,FRANCE,7,N,Australian Labor Party,ALP,31396
 252,Dickson,Vinnie,BATTEN,8,N,Queensland Greens,GRN,12871
-252,Dickson,Informal,Informal,999,N,Informal,,3996
+252,Dickson,Informal,Informal,999,N,Independent,,3996
 159,Fadden,Stewart Gordon,BROOKER,1,N,Independent,IND,4407
 159,Fadden,Letitia,DEL FABBRO,2,N,Australian Labor Party,ALP,23638
 159,Fadden,Nathan Grant,O'BRIEN,3,N,United Australia Party,UAPP,7014
@@ -496,7 +496,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 159,Fadden,Stuart,ROBERT,5,Y,Liberal National Party of Queensland,LNP,47190
 159,Fadden,Sally,SPAIN,6,N,Queensland Greens,GRN,11353
 159,Fadden,Alex,FORBES,7,N,Liberal Democrats,LDP,2992
-159,Fadden,Informal,Informal,999,N,Informal,,4760
+159,Fadden,Informal,Informal,999,N,Independent,,4760
 160,Fairfax,Ted,O'BRIEN,1,Y,Liberal National Party of Queensland,LNP,46551
 160,Fairfax,Wendy,HAZELTON,2,N,Informed Medical Options Party,IMO,1997
 160,Fairfax,Tash,POOLE,3,N,Animal Justice Party,AJP,2182
@@ -507,14 +507,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 160,Fairfax,Sue,FERGUSON,8,N,Australian Labor Party,ALP,22662
 160,Fairfax,Craig,WHITE,9,N,The Great Australian Party,GAP,1319
 160,Fairfax,Nikki,CIVITARESE,10,N,Pauline Hanson's One Nation,ON,6798
-160,Fairfax,Informal,Informal,999,N,Informal,,6066
+160,Fairfax,Informal,Informal,999,N,Independent,,6066
 161,Fisher,Sam,SCHRIEVER,1,N,Pauline Hanson's One Nation,ON,10102
 161,Fisher,Judene,ANDREWS,2,N,Australian Labor Party,ALP,25313
 161,Fisher,Andrew,WALLACE,3,Y,Liberal National Party of Queensland,LNP,48013
 161,Fisher,Vickie,BRECKENRIDGE,4,N,Animal Justice Party,AJP,2730
 161,Fisher,Renay,WELLS,5,N,Queensland Greens,GRN,14981
 161,Fisher,Tony Richard,MOORE,6,N,United Australia Party,UAPP,7355
-161,Fisher,Informal,Informal,999,N,Informal,,3530
+161,Fisher,Informal,Informal,999,N,Independent,,3530
 311,Flynn,Matt,BURNETT,1,N,Australian Labor Party,ALP,30948
 311,Flynn,Paul,BAMBRICK,2,N,Queensland Greens,GRN,4007
 311,Flynn,Carla,SVENDSEN,3,N,The Great Australian Party,GAP,2012
@@ -522,7 +522,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 311,Flynn,Duncan,SCOTT,5,N,Independent,IND,3745
 311,Flynn,Tanya Maree,WIEDEN,6,N,United Australia Party,UAPP,6266
 311,Flynn,Colin,BOYCE,7,Y,Liberal National Party of Queensland,LNP,34046
-311,Flynn,Informal,Informal,999,N,Informal,,3672
+311,Flynn,Informal,Informal,999,N,Independent,,3672
 162,Forde,Roxanne,O'HALLORAN,1,N,United Australia Party,UAPP,7485
 162,Forde,Bert,VAN MANEN,2,Y,Liberal National Party of Queensland,LNP,34920
 162,Forde,Jordan,HALL,3,N,Queensland Greens,GRN,9319
@@ -532,13 +532,13 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 162,Forde,Tobby,SUTHERLAND,7,N,Liberal Democrats,LDP,2668
 162,Forde,Christopher,GREAVES,8,N,Independent,IND,2973
 162,Forde,Linda,McCARTHY,9,N,Animal Justice Party,AJP,2444
-162,Forde,Informal,Informal,999,N,Informal,,6884
+162,Forde,Informal,Informal,999,N,Independent,,6884
 163,Griffith,Shari,WARE,1,N,Pauline Hanson's One Nation,ON,3504
 163,Griffith,Max,CHANDLER-MATHER,2,Y,Queensland Greens,GRN,36771
 163,Griffith,Terri,BUTLER,3,N,Australian Labor Party,ALP,30769
 163,Griffith,Robert Gordon,McMULLAN,4,N,United Australia Party,UAPP,2581
 163,Griffith,Olivia,ROBERTS,5,N,Liberal National Party of Queensland,LNP,32685
-163,Griffith,Informal,Informal,999,N,Informal,,2169
+163,Griffith,Informal,Informal,999,N,Independent,,2169
 164,Groom,Ryan,OTTO,1,N,Australian Federation Party,CYA,1539
 164,Groom,Grant,ABRAHAM,2,N,Pauline Hanson's One Nation,ON,9181
 164,Groom,Mickey,BERRY,3,N,Queensland Greens,GRN,5616
@@ -547,7 +547,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 164,Groom,Suzie,HOLT,6,N,Independent,IND,7932
 164,Groom,Garth,HAMILTON,7,Y,Liberal National Party of Queensland,LNP,41971
 164,Groom,Gen,ALLPASS,8,N,Australian Labor Party,ALP,17985
-164,Groom,Informal,Informal,999,N,Informal,,4758
+164,Groom,Informal,Informal,999,N,Independent,,4758
 165,Herbert,Toni,McMAHON,1,N,Informed Medical Options Party,IMO,1658
 165,Herbert,John,RING,2,N,Australian Labor Party,ALP,19971
 165,Herbert,Scott,HUMPHREYS,3,N,Queensland Greens,GRN,7596
@@ -559,21 +559,21 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 165,Herbert,Clynton,HAWKS,9,N,Katter's Australian Party (KAP),KAP,6472
 165,Herbert,Toni,MCCORMACK,10,N,Animal Justice Party,AJP,1359
 165,Herbert,Diane,PEPE,11,N,Pauline Hanson's One Nation,ON,4874
-165,Herbert,Informal,Informal,999,N,Informal,,5658
+165,Herbert,Informal,Informal,999,N,Independent,,5658
 166,Hinkler,Keith,PITT,1,Y,Liberal National Party of Queensland,LNP,42720
 166,Hinkler,Kristie,NASH,2,N,United Australia Party,UAPP,7417
 166,Hinkler,Zak,MENHENNETT,3,N,Pauline Hanson's One Nation,ON,8837
 166,Hinkler,Jason,SCANES,4,N,Australian Labor Party,ALP,23634
 166,Hinkler,Andrew,McLEAN,5,N,Queensland Greens,GRN,5562
 166,Hinkler,Jack,DEMPSEY,6,N,Independent,IND,13236
-166,Hinkler,Informal,Informal,999,N,Informal,,3431
+166,Hinkler,Informal,Informal,999,N,Independent,,3431
 167,Kennedy,Bob,KATTER,1,Y,Katter's Australian Party (KAP),KAP,39036
 167,Kennedy,Bryce,MACDONALD,2,N,Liberal National Party of Queensland,LNP,26387
 167,Kennedy,Jen,SACKLEY,3,N,Independent,IND,2981
 167,Kennedy,Jennifer,COX,4,N,Queensland Greens,GRN,6013
 167,Kennedy,Jason,BRANDON,5,N,Australian Labor Party,ALP,15033
 167,Kennedy,Peter,CAMPION,6,N,United Australia Party,UAPP,4154
-167,Kennedy,Informal,Informal,999,N,Informal,,3171
+167,Kennedy,Informal,Informal,999,N,Independent,,3171
 168,Leichhardt,Pat,O'SHANE,1,N,Socialist Alliance,SAL,3729
 168,Leichhardt,Silvia,MOGOROVICH,2,N,Informed Medical Options Party,IMO,1641
 168,Leichhardt,Warren,ENTSCH,3,Y,Liberal National Party of Queensland,LNP,33652
@@ -585,7 +585,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 168,Leichhardt,Geena,COURT,9,N,Pauline Hanson's One Nation,ON,6822
 168,Leichhardt,Paul,ROE,10,N,Australian Federation Party,CYA,466
 168,Leichhardt,Elida,FAITH,11,N,Australian Labor Party,ALP,25312
-168,Leichhardt,Informal,Informal,999,N,Informal,,6715
+168,Leichhardt,Informal,Informal,999,N,Independent,,6715
 169,Lilley,Gerardine Louise,HOOGLAND,1,N,United Australia Party,UAPP,3320
 169,Lilley,Melissa,STEVENS,2,N,Queensland Greens,GRN,16916
 169,Lilley,Vivian,LOBO,3,N,Liberal National Party of Queensland,LNP,29530
@@ -593,7 +593,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 169,Lilley,Daniel,FRESHWATER,5,N,Liberal Democrats,LDP,2412
 169,Lilley,Anika,WELLS,6,Y,Australian Labor Party,ALP,41424
 169,Lilley,Michelle,WILDE,7,N,Pauline Hanson's One Nation,ON,4027
-169,Lilley,Informal,Informal,999,N,Informal,,2750
+169,Lilley,Informal,Informal,999,N,Independent,,2750
 302,Longman,Rebecca,FANNING,1,N,Australian Labor Party,ALP,34036
 302,Longman,Stefanie Alexis,SUTHERLAND,2,N,United Australia Party,UAPP,5949
 302,Longman,Nigel David,QUINLAN,3,N,Legalise Cannabis Australia,HMP,6025
@@ -602,7 +602,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 302,Longman,Jens,LIPPONER,6,N,Liberal Democrats,LDP,2011
 302,Longman,Paula,GILBARD,7,N,Animal Justice Party,AJP,2060
 302,Longman,Terry,YOUNG,8,Y,Liberal National Party of Queensland,LNP,41253
-302,Longman,Informal,Informal,999,N,Informal,,5677
+302,Longman,Informal,Informal,999,N,Independent,,5677
 170,Maranoa,David,LITTLEPROUD,1,Y,Liberal National Party of Queensland,LNP,52382
 170,Maranoa,Malcolm J,RICHARDSON,2,N,"Shooters, Fishers and Farmers Party",ASP,3695
 170,Maranoa,Dave,KERRIGAN,3,N,Australian Labor Party,ALP,14236
@@ -610,7 +610,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 170,Maranoa,Ellisa,PARKER,5,N,Queensland Greens,GRN,4533
 170,Maranoa,Mike,KELLY,6,N,Pauline Hanson's One Nation,ON,11070
 170,Maranoa,Brett James,TUNBRIDGE,7,N,Australian Federation Party,CYA,997
-170,Maranoa,Informal,Informal,999,N,Informal,,3234
+170,Maranoa,Informal,Informal,999,N,Independent,,3234
 171,McPherson,Karen,ANDREWS,1,Y,Liberal National Party of Queensland,LNP,42288
 171,McPherson,Kevin,HARGRAVES,2,N,Pauline Hanson's One Nation,ON,7013
 171,McPherson,Gary,PEAD,3,N,Australian Federation Party,CYA,594
@@ -619,7 +619,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 171,McPherson,Joshua Lawrence,BERRIGAN,6,N,United Australia Party,UAPP,6490
 171,McPherson,Glenn,PYNE,7,N,Liberal Democrats,LDP,2063
 171,McPherson,Carl,UNGERER,8,N,Australian Labor Party,ALP,21354
-171,McPherson,Informal,Informal,999,N,Informal,,5565
+171,McPherson,Informal,Informal,999,N,Independent,,5565
 172,Moncrieff,Angie,BELL,1,Y,Liberal National Party of Queensland,LNP,45104
 172,Moncrieff,Leeanne,SCHULTZ,2,N,Pauline Hanson's One Nation,ON,6981
 172,Moncrieff,James,TAYLER,3,N,Australian Federation Party,CYA,645
@@ -629,20 +629,20 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 172,Moncrieff,Diane,DEMETRE,7,N,Liberal Democrats,LDP,4305
 172,Moncrieff,Timothy,CUDMORE,8,N,Informed Medical Options Party,IMO,997
 172,Moncrieff,Diane Olga,HAPP,9,N,United Australia Party,UAPP,5482
-172,Moncrieff,Informal,Informal,999,N,Informal,,6020
+172,Moncrieff,Informal,Informal,999,N,Independent,,6020
 173,Moreton,Peter,POWER,1,N,Australian Federation Party,CYA,1468
 173,Moreton,Neil,SWANN,2,N,Pauline Hanson's One Nation,ON,3364
 173,Moreton,Graham,PERRETT,3,Y,Australian Labor Party,ALP,34633
 173,Moreton,Claire,GARTON,4,N,Queensland Greens,GRN,19250
 173,Moreton,Steven,HUANG,5,N,Liberal National Party of Queensland,LNP,30777
 173,Moreton,Chelsea,FOLLETT,6,N,United Australia Party,UAPP,3064
-173,Moreton,Informal,Informal,999,N,Informal,,2625
+173,Moreton,Informal,Informal,999,N,Independent,,2625
 174,Oxley,Timothy,COOMBES,1,N,United Australia Party,UAPP,5079
 174,Oxley,Asha,WORSTELING,2,N,Queensland Greens,GRN,13595
 174,Oxley,Kyle,MCMILLEN,3,N,Liberal National Party of Queensland,LNP,27385
 174,Oxley,Dylan,KOZLOWSKI,4,N,Pauline Hanson's One Nation,ON,5568
 174,Oxley,Milton,DICK,5,Y,Australian Labor Party,ALP,43785
-174,Oxley,Informal,Informal,999,N,Informal,,3582
+174,Oxley,Informal,Informal,999,N,Independent,,3582
 175,Petrie,Kelly Anne,GUENOUN,1,N,United Australia Party,UAPP,5914
 175,Petrie,Will,SIMON,2,N,Queensland Greens,GRN,12169
 175,Petrie,Anneke,WILSON,3,N,Liberal Democrats,LDP,2189
@@ -650,14 +650,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 175,Petrie,Mick,DENTON,5,N,Australian Labor Party,ALP,31972
 175,Petrie,Luke,HOWARTH,6,Y,Liberal National Party of Queensland,LNP,46325
 175,Petrie,Chris,CICCHITTI,7,N,Animal Justice Party,AJP,2331
-175,Petrie,Informal,Informal,999,N,Informal,,3913
+175,Petrie,Informal,Informal,999,N,Independent,,3913
 176,Rankin,Paul,DARWEN,1,N,Liberal National Party of Queensland,LNP,25478
 176,Rankin,Neil,COTTER,2,N,Queensland Greens,GRN,9394
 176,Rankin,Jeff,CRANK,3,N,United Australia Party,UAPP,5064
 176,Rankin,Glen,COOKSON,4,N,Pauline Hanson's One Nation,ON,7006
 176,Rankin,Suzanne,CLARKE,5,N,Animal Justice Party,AJP,2284
 176,Rankin,Jim,CHALMERS,6,Y,Australian Labor Party,ALP,38596
-176,Rankin,Informal,Informal,999,N,Informal,,3553
+176,Rankin,Informal,Informal,999,N,Independent,,3553
 177,Ryan,Kathryn,POLLARD,1,N,United Australia Party,UAPP,2062
 177,Ryan,Damian,COORY,2,N,Liberal Democrats,LDP,2582
 177,Ryan,Janine,REES,3,N,Australian Progressives,AUP,606
@@ -667,7 +667,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 177,Ryan,Peter,COSSAR,7,N,Australian Labor Party,ALP,22146
 177,Ryan,Julian,SIMMONDS,8,N,Liberal National Party of Queensland,LNP,38239
 177,Ryan,Axel,DANCOISNE,9,N,Australian Federation Party,CYA,353
-177,Ryan,Informal,Informal,999,N,Informal,,3140
+177,Ryan,Informal,Informal,999,N,Independent,,3140
 178,Wide Bay,Kelli,JACOBI,1,N,Independent,IND,4106
 178,Wide Bay,Nathan,BUCKLEY,2,N,Pauline Hanson's One Nation,ON,9765
 178,Wide Bay,Tracy,BENNETT,3,N,United Australia Party,UAPP,4406
@@ -677,21 +677,21 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 178,Wide Bay,Tim,JEROME,7,N,Independent,IND,2737
 178,Wide Bay,Daniel,WILLIAMS,9,N,Australian Values Party,AUVA,1057
 178,Wide Bay,Andrea,NEWLAND,10,N,Informed Medical Options Party,IMO,2097
-178,Wide Bay,Informal,Informal,999,N,Informal,,6569
+178,Wide Bay,Informal,Informal,999,N,Independent,,6569
 316,Wright,Scott,BUCHHOLZ,1,Y,Liberal National Party of Queensland,LNP,45753
 316,Wright,Cassandra Deanne,DUFFILL,2,N,United Australia Party,UAPP,8703
 316,Wright,Keith,HICKS,3,N,Pauline Hanson's One Nation,ON,15095
 316,Wright,Shonna-Lee,BANASIAK,4,N,Australian Federation Party,CYA,1632
 316,Wright,Pam,McCREADIE,5,N,Australian Labor Party,ALP,22643
 316,Wright,Nicole,THOMPSON,6,N,Queensland Greens,GRN,12107
-316,Wright,Informal,Informal,999,N,Informal,,3733
+316,Wright,Informal,Informal,999,N,Independent,,3733
 179,Adelaide,Amy,GRANTHAM,1,N,Liberal,LP,36080
 179,Adelaide,Steve,GEORGANAS,2,Y,Australian Labor Party,ALP,45086
 179,Adelaide,Gayle,ALLWOOD,7,N,Pauline Hanson's One Nation,ON,3376
 179,Adelaide,Matthew,McMILLAN,4,N,"FUSION: Science, Pirate, Secular, Climate Emergency",SOPA,1631
 179,Adelaide,Rebecca,GALDIES,5,N,The Greens,GRN,22666
 179,Adelaide,Faith,GERHARD,6,N,Australian Federation Party,CYA,870
-179,Adelaide,Informal,Informal,999,N,Informal,,4438
+179,Adelaide,Informal,Informal,999,N,Independent,,4438
 180,Barker,Jonathan,PIETZSCH,1,N,National Party,NP,2531
 180,Barker,Carlos,QUAREMBA,2,N,Pauline Hanson's One Nation,ON,6958
 180,Barker,Vince,PANNELL,3,N,Independent,IND,1913
@@ -701,7 +701,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 180,Barker,David,SWIGGS,7,N,United Australia Party,UAPP,4222
 180,Barker,Mark,BRAES,8,N,Australian Labor Party,ALP,22054
 180,Barker,Kym,HANTON,9,N,Australian Federation Party,CYA,760
-180,Barker,Informal,Informal,999,N,Informal,,7909
+180,Barker,Informal,Informal,999,N,Independent,,7909
 182,Boothby,Jeremy,CARTER,1,N,The Greens,GRN,17285
 182,Boothby,Graeme,CLARK,2,N,United Australia Party,UAPP,2520
 182,Boothby,Peter,HARRIS,3,N,Australian Federation Party,CYA,543
@@ -712,7 +712,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 182,Boothby,Jo,DYER,8,N,Independent,IND,7441
 182,Boothby,Louise,MILLER-FROST,9,Y,Australian Labor Party,ALP,36746
 182,Boothby,Bob,COUCH,10,N,Pauline Hanson's One Nation,ON,2320
-182,Boothby,Informal,Informal,999,N,Informal,,5289
+182,Boothby,Informal,Informal,999,N,Independent,,5289
 183,Grey,Kerry Ann,WHITE,6,N,Pauline Hanson's One Nation,ON,6452
 183,Grey,Suzanne,WATERS,2,N,United Australia Party,UAPP,5781
 183,Grey,Peter,MILLER,3,N,Liberal Democrats,LDP,1427
@@ -721,7 +721,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 183,Grey,Tracey,DEMPSEY,7,N,Australian Federation Party,CYA,721
 183,Grey,Richard,CARMODY,8,N,Independent,IND,1332
 183,Grey,Rowan,RAMSEY,9,Y,Liberal,LP,46730
-183,Grey,Informal,Informal,999,N,Informal,,7674
+183,Grey,Informal,Informal,999,N,Independent,,7674
 185,Hindmarsh,Patrick,O'SULLIVAN,1,N,The Greens,GRN,15310
 185,Hindmarsh,Anna,FINIZIO,2,N,Liberal,LP,36072
 185,Hindmarsh,Walter,JOHNSON,3,N,Pauline Hanson's One Nation,ON,4341
@@ -730,7 +730,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 185,Hindmarsh,George,MELISSOURGOS,6,N,United Australia Party,UAPP,3896
 185,Hindmarsh,Jamie,WITT,7,N,The Great Australian Party,GAP,1184
 185,Hindmarsh,Matt,PASTRO,8,N,Animal Justice Party,AJP,2340
-185,Hindmarsh,Informal,Informal,999,N,Informal,,6686
+185,Hindmarsh,Informal,Informal,999,N,Independent,,6686
 186,Kingston,Rob,DE JONGE,1,N,Independent,IND,2963
 186,Kingston,Robert,GODFREY-BROWN,2,N,Pauline Hanson's One Nation,ON,5313
 186,Kingston,Russell,JACKSON,3,N,United Australia Party,UAPP,4321
@@ -738,14 +738,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 186,Kingston,John,PHOTAKIS,5,N,The Greens,GRN,13603
 186,Kingston,Sam,ENRIGHT,6,N,Australian Federation Party,CYA,1079
 186,Kingston,Kathleen,BOURNE,7,N,Liberal,LP,28273
-186,Kingston,Informal,Informal,999,N,Informal,,4336
+186,Kingston,Informal,Informal,999,N,Independent,,4336
 187,Makin,Abram Nicholas,LAZOOTIN,1,N,Australian Federation Party,CYA,1907
 187,Makin,Tony,ZAPPIA,2,Y,Australian Labor Party,ALP,49843
 187,Makin,Kimberley,DROZDOFF,3,N,United Australia Party,UAPP,4638
 187,Makin,Rajan,VAID,4,N,Pauline Hanson's One Nation,ON,5097
 187,Makin,Alan,HOWARD-JONES,5,N,Liberal,LP,33840
 187,Makin,Emma,MUSTACA,6,N,The Greens,GRN,12317
-187,Makin,Informal,Informal,999,N,Informal,,4639
+187,Makin,Informal,Informal,999,N,Independent,,4639
 188,Mayo,Marisa,BELL,1,N,Australian Labor Party,ALP,21051
 188,Mayo,Padma,CHAPLIN,2,N,Animal Justice Party,AJP,1929
 188,Mayo,Jacob,VAN RAALTE,3,N,Liberal Democrats,LDP,1424
@@ -755,14 +755,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 188,Mayo,Samantha,McGRAIL,7,N,United Australia Party,UAPP,4089
 188,Mayo,Tonya,SCOTT,8,N,Pauline Hanson's One Nation,ON,4775
 188,Mayo,Mark,NEUGEBAUER,9,N,Australian Federation Party,CYA,1330
-188,Mayo,Informal,Informal,999,N,Informal,,6176
+188,Mayo,Informal,Informal,999,N,Independent,,6176
 325,Spence,Alvin Eric,WARREN,1,N,United Australia Party,UAPP,7158
 325,Spence,Matt,BURNELL,2,Y,Australian Labor Party,ALP,46596
 325,Spence,David,DEEX,3,N,The Greens,GRN,12052
 325,Spence,Matilda,BAWDEN,4,N,Australian Federation Party,CYA,1736
 325,Spence,Shawn,LOCK,5,N,Liberal,LP,27153
 325,Spence,Linda,CHAMPION,6,N,Pauline Hanson's One Nation,ON,11532
-325,Spence,Informal,Informal,999,N,Informal,,5534
+325,Spence,Informal,Informal,999,N,Independent,,5534
 190,Sturt,Katie,McCUSKER,1,N,The Greens,GRN,18454
 190,Sturt,Sonja,BARAM,2,N,Australian Labor Party,ALP,34528
 190,Sturt,Chris,SCHMIDT,3,N,TNL,TNL,251
@@ -774,7 +774,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 190,Sturt,Thomas,McMAHON,9,N,Liberal Democrats,LDP,1147
 190,Sturt,Inty,ELHAM,10,N,Drew Pavlou Democratic Alliance,DPDA,1007
 190,Sturt,James,STEVENS,11,Y,Liberal,LP,48579
-190,Sturt,Informal,Informal,999,N,Informal,,6541
+190,Sturt,Informal,Informal,999,N,Independent,,6541
 192,Bass,George,RAZAY,1,N,Independent,IND,3450
 192,Bass,Bob,SALT,2,N,Jacqui Lambie Network,JLN,4587
 192,Bass,Cecily,ROSOL,3,N,The Greens,GRN,7614
@@ -784,7 +784,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 192,Bass,Kyle,SQUIBB,7,N,United Australia Party,UAPP,1140
 192,Bass,Melanie,DAVY,8,N,Pauline Hanson's One Nation,ON,3230
 192,Bass,Ross,HART,9,N,Australian Labor Party,ALP,19630
-192,Bass,Informal,Informal,999,N,Informal,,4324
+192,Bass,Informal,Informal,999,N,Independent,,4324
 193,Braddon,Ludo,MINEUR,1,N,Pauline Hanson's One Nation,ON,3065
 193,Braddon,Darren,BRIGGS,2,N,The Greens,GRN,4745
 193,Braddon,Gavin,PEARCE,3,Y,Liberal,LP,31142
@@ -795,7 +795,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 193,Braddon,Keone Patrick,MARTIN,8,N,Animal Justice Party,AJP,566
 193,Braddon,Sophie,LEHMANN,9,N,Jacqui Lambie Network,JLN,6966
 193,Braddon,Duncan,WHITE,10,N,Liberal Democrats,LDP,971
-193,Braddon,Informal,Informal,999,N,Informal,,5858
+193,Braddon,Informal,Informal,999,N,Independent,,5858
 319,Clark,Michelle,CAMERON,1,N,Pauline Hanson's One Nation,ON,1715
 319,Clark,Simon,DAVIS,2,N,Australian Labor Party,ALP,12364
 319,Clark,Ian,RAMSDEN,3,N,Liberal Democrats,LDP,739
@@ -804,7 +804,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 319,Clark,Andrew,WILKIE,6,Y,Independent,IND,30005
 319,Clark,Casey,DAVIES,7,N,Animal Justice Party,AJP,828
 319,Clark,Sandra,GALLOWAY,8,N,United Australia Party,UAPP,941
-319,Clark,Informal,Informal,999,N,Informal,,2924
+319,Clark,Informal,Informal,999,N,Independent,,2924
 195,Franklin,Anna,BATEMAN,1,N,The Local Party,TLOC,3535
 195,Franklin,Julie,COLLINS,2,Y,Australian Labor Party,ALP,26147
 195,Franklin,Duane,PITT,3,N,Liberal Democrats,LDP,1434
@@ -814,7 +814,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 195,Franklin,Kristy Maree,JOHNSON,7,N,Liberal,LP,19048
 195,Franklin,Katrina,LOVE,8,N,Animal Justice Party,AJP,1097
 195,Franklin,Jade,DARKO,9,N,The Greens,GRN,12370
-195,Franklin,Informal,Informal,999,N,Informal,,3696
+195,Franklin,Informal,Informal,999,N,Independent,,3696
 196,Lyons,Susie,BOWER,1,N,Liberal,LP,27296
 196,Lyons,Rhys,GRIFFITHS,2,N,Liberal Democrats,LDP,1188
 196,Lyons,Brian,MITCHELL,3,Y,Australian Labor Party,ALP,21295
@@ -823,7 +823,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 196,Lyons,Troy Robert,PFITZNER,6,N,Jacqui Lambie Network,JLN,7962
 196,Lyons,Emma Jane,GOYNE,7,N,Pauline Hanson's One Nation,ON,3927
 196,Lyons,Liz,JOHNSTONE,8,N,The Greens,GRN,8382
-196,Lyons,Informal,Informal,999,N,Informal,,4932
+196,Lyons,Informal,Informal,999,N,Independent,,4932
 197,Aston,Rebekah Jane,SPELMAN,1,N,United Australia Party,UAPP,5990
 197,Aston,Alan,TUDGE,2,Y,Liberal,LP,42260
 197,Aston,Asher,COOKSON,3,N,The Greens,GRN,11855
@@ -831,7 +831,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 197,Aston,Craig,IBBOTSON,5,N,Pauline Hanson's One Nation,ON,3022
 197,Aston,Liam,ROCHE,6,N,Liberal Democrats,LDP,2111
 197,Aston,Mary,DOYLE,7,N,Australian Labor Party,ALP,31949
-197,Aston,Informal,Informal,999,N,Informal,,3320
+197,Aston,Informal,Informal,999,N,Independent,,3320
 198,Ballarat,John,BARNES,1,N,The Greens,GRN,14076
 198,Ballarat,Ben,GREEN,2,N,Liberal,LP,26142
 198,Ballarat,Alex,GRAHAM,3,N,Independent,IND,2044
@@ -840,7 +840,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 198,Ballarat,Rosalie,TAXIS,6,N,Pauline Hanson's One Nation,ON,3476
 198,Ballarat,Julia,McGRATH,7,N,Liberal Democrats,LDP,3216
 198,Ballarat,Catherine,KING,8,Y,Australian Labor Party,ALP,43171
-198,Ballarat,Informal,Informal,999,N,Informal,,5109
+198,Ballarat,Informal,Informal,999,N,Independent,,5109
 200,Bendigo,James,LAURIE,1,N,Independent,IND,4319
 200,Bendigo,Lisa,CHESTERS,2,Y,Australian Labor Party,ALP,42883
 200,Bendigo,Darin,SCHADE,3,N,Liberal,LP,26576
@@ -848,14 +848,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 200,Bendigo,Matt,BANSEMER,5,N,Liberal Democrats,LDP,2888
 200,Bendigo,Ben,MIHAIL,6,N,Pauline Hanson's One Nation,ON,5508
 200,Bendigo,Elijah,SUARES,7,N,United Australia Party,UAPP,3579
-200,Bendigo,Informal,Informal,999,N,Informal,,3764
+200,Bendigo,Informal,Informal,999,N,Independent,,3764
 201,Bruce,Christine,SKROBO,1,N,Liberal Democrats,LDP,4821
 201,Bruce,Matt,BABET,2,N,United Australia Party,UAPP,8299
 201,Bruce,Hayley,DEANS,3,N,Pauline Hanson's One Nation,ON,4544
 201,Bruce,Julian,HILL,4,Y,Australian Labor Party,ALP,39516
 201,Bruce,James,MOODY,5,N,Liberal,LP,28837
 201,Bruce,Matthew,KIRWAN,6,N,The Greens,GRN,9273
-201,Bruce,Informal,Informal,999,N,Informal,,4321
+201,Bruce,Informal,Informal,999,N,Independent,,4321
 203,Calwell,Mark,PRESTON,1,N,Pauline Hanson's One Nation,ON,5957
 203,Calwell,Tim,STAKER-GUNN,2,N,Liberal,LP,20111
 203,Calwell,Natalie,ABBOUD,3,N,The Greens,GRN,8277
@@ -863,7 +863,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 203,Calwell,Joshua,NAIM,5,N,United Australia Party,UAPP,7578
 203,Calwell,Jerome,SMALL,6,N,Victorian Socialists,VNS,3433
 203,Calwell,Maria,BENGTSSON,7,N,Australian Federation Party,CYA,1512
-203,Calwell,Informal,Informal,999,N,Informal,,5724
+203,Calwell,Informal,Informal,999,N,Independent,,5724
 204,Casey,Jenny,GAME,1,N,The Greens,GRN,12894
 204,Casey,Craig,COLE,2,N,Independent,IND,3455
 204,Casey,Andrew,KLOP,3,N,Animal Justice Party,AJP,1844
@@ -875,7 +875,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 204,Casey,Peter,SULLIVAN,9,N,Derryn Hinch's Justice Party,DHJP,1207
 204,Casey,Anthony Sebastian,BELLVE,10,N,United Australia Party,UAPP,4834
 204,Casey,Claire,FERRES MILES,11,N,Independent,IND,8307
-204,Casey,Informal,Informal,999,N,Informal,,6652
+204,Casey,Informal,Informal,999,N,Independent,,6652
 205,Chisholm,Gladys,LIU,1,N,Liberal,LP,35038
 205,Chisholm,Thomas,STANFIELD,2,N,Derryn Hinch's Justice Party,DHJP,946
 205,Chisholm,Anthea,ANTONIE,3,N,Australian Federation Party,CYA,567
@@ -888,7 +888,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 205,Chisholm,Dominique,MURPHY,10,N,Independent,IND,1590
 205,Chisholm,Wayne,TSENG,11,N,Independent,IND,757
 205,Chisholm,Carina,GARLAND,12,Y,Australian Labor Party,ALP,38692
-205,Chisholm,Informal,Informal,999,N,Informal,,4763
+205,Chisholm,Informal,Informal,999,N,Independent,,4763
 320,Cooper,Rabin,BANGAAR,1,N,Animal Justice Party,AJP,2207
 320,Cooper,Kath,LARKIN,2,N,Victorian Socialists,VNS,3250
 320,Cooper,Celeste,LIDDLE,3,N,The Greens,GRN,25648
@@ -897,7 +897,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 320,Cooper,Adam,LA ROSA,6,N,United Australia Party,UAPP,4170
 320,Cooper,William Tristan,TURNER,7,N,Pauline Hanson's One Nation,ON,2807
 320,Cooper,Ged,KEARNEY,8,Y,Australian Labor Party,ALP,38754
-320,Cooper,Informal,Informal,999,N,Informal,,4169
+320,Cooper,Informal,Informal,999,N,Independent,,4169
 328,Corangamite,Stephen,JUHASZ,1,N,Australian Federation Party,CYA,868
 328,Corangamite,Alex,MARSHALL,2,N,The Greens,GRN,15349
 328,Corangamite,Libby,COKER,3,Y,Australian Labor Party,ALP,38573
@@ -907,7 +907,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 328,Corangamite,Luke,SORENSEN,7,N,Pauline Hanson's One Nation,ON,2548
 328,Corangamite,Daniel William,ABOU-ZEID,8,N,United Australia Party,UAPP,3233
 328,Corangamite,Jean-Marie,D'ARGENT,9,N,Derryn Hinch's Justice Party,DHJP,1421
-328,Corangamite,Informal,Informal,999,N,Informal,,4088
+328,Corangamite,Informal,Informal,999,N,Independent,,4088
 208,Corio,Sue,BULL,1,N,Socialist Alliance,SAL,2444
 208,Corio,Jessica,TAYLOR,2,N,Australian Federation Party,CYA,1080
 208,Corio,Manish,PATEL,3,N,Liberal,LP,23822
@@ -917,7 +917,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 208,Corio,Max,PAYNE,7,N,Liberal Democrats,LDP,3383
 208,Corio,Shane,MURDOCK,8,N,United Australia Party,UAPP,4781
 208,Corio,Richard,MARLES,9,Y,Australian Labor Party,ALP,40846
-208,Corio,Informal,Informal,999,N,Informal,,5341
+208,Corio,Informal,Informal,999,N,Independent,,5341
 209,Deakin,Matt,GREGG,1,N,Australian Labor Party,ALP,32844
 209,Deakin,Rob,HUMPHREYS,2,N,The Greens,GRN,13904
 209,Deakin,Qian,LIU,3,N,Independent,IND,1271
@@ -928,7 +928,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 209,Deakin,Bianca Joy,GIDLEY,8,N,United Australia Party,UAPP,2836
 209,Deakin,Samantha,BASTIN,9,N,Australian Federation Party,CYA,909
 209,Deakin,Natasha,COUGHLAN,10,N,Pauline Hanson's One Nation,ON,2306
-209,Deakin,Informal,Informal,999,N,Informal,,4419
+209,Deakin,Informal,Informal,999,N,Independent,,4419
 210,Dunkley,Darren,BERGWERF,1,N,Independent,IND,3698
 210,Dunkley,Peta,MURPHY,2,Y,Australian Labor Party,ALP,38506
 210,Dunkley,Damian,WILLIS,3,N,Liberal Democrats,LDP,2398
@@ -938,7 +938,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 210,Dunkley,Scott,MIDDLEBROOK,7,N,Pauline Hanson's One Nation,ON,2689
 210,Dunkley,Kathryn,WOODS,8,N,Australian Federation Party,CYA,566
 210,Dunkley,Adrian Kain,IRVINE,9,N,United Australia Party,UAPP,4846
-210,Dunkley,Informal,Informal,999,N,Informal,,4750
+210,Dunkley,Informal,Informal,999,N,Independent,,4750
 211,Flinders,Alex,VAN DER END,1,N,United Australia Party,UAPP,4472
 211,Flinders,Cyndi,MARR,2,N,Pauline Hanson's One Nation,ON,3373
 211,Flinders,Chrysten,ABRAHAM,3,N,Liberal Democrats,LDP,2366
@@ -949,7 +949,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 211,Flinders,Surbhi,SNOWBALL,8,N,Australian Labor Party,ALP,21487
 211,Flinders,Despi,O'CONNOR,9,N,Independent,IND,7163
 211,Flinders,Pamela,ENGELANDER,10,N,Animal Justice Party,AJP,2060
-211,Flinders,Informal,Informal,999,N,Informal,,5687
+211,Flinders,Informal,Informal,999,N,Independent,,5687
 321,Fraser,David,WOOD,1,N,Liberal,LP,22730
 321,Fraser,Daniel,MULINO,2,Y,Australian Labor Party,ALP,38732
 321,Fraser,Anthony,CURSIO,3,N,Liberal Democrats,LDP,2349
@@ -957,7 +957,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 321,Fraser,Keith James Aaron,RAYMOND,5,N,United Australia Party,UAPP,4088
 321,Fraser,Sabine,de PYLE,6,N,Pauline Hanson's One Nation,ON,2695
 321,Fraser,Catherine,ROBERTSON,7,N,Victorian Socialists,VNS,4429
-321,Fraser,Informal,Informal,999,N,Informal,,4258
+321,Fraser,Informal,Informal,999,N,Independent,,4258
 212,Gellibrand,Suzette,RODOREDA,1,N,The Greens,GRN,15241
 212,Gellibrand,Monica,CLARK,2,N,Liberal,LP,24869
 212,Gellibrand,Sharynn,MOORS,3,N,Australian Federation Party,CYA,1135
@@ -966,14 +966,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 212,Gellibrand,Chloe,GLASSON,6,N,Liberal Democrats,LDP,2185
 212,Gellibrand,Rob,BRADDOCK,7,N,Pauline Hanson's One Nation,ON,2802
 212,Gellibrand,Tim,WATTS,8,Y,Australian Labor Party,ALP,39382
-212,Gellibrand,Informal,Informal,999,N,Informal,,4729
+212,Gellibrand,Informal,Informal,999,N,Independent,,4729
 213,Gippsland,Greg,HANSFORD,1,N,Pauline Hanson's One Nation,ON,9443
 213,Gippsland,Darren,CHESTER,2,Y,The Nationals,NP,54635
 213,Gippsland,Gregory Emil,FORSTER,3,N,United Australia Party,UAPP,4593
 213,Gippsland,Marjorie,THORPE,4,N,The Greens,GRN,8545
 213,Gippsland,Jim,McDONALD,5,N,Liberal Democrats,LDP,4286
 213,Gippsland,Jannette,LANGLEY,6,N,Australian Labor Party,ALP,19404
-213,Gippsland,Informal,Informal,999,N,Informal,,3073
+213,Gippsland,Informal,Informal,999,N,Independent,,3073
 214,Goldstein,Alana,GALLI-McROSTIE,1,N,The Greens,GRN,7683
 214,Goldstein,Ellie Jean,SULLIVAN,2,N,Derryn Hinch's Justice Party,DHJP,589
 214,Goldstein,Brandon,HOULT,3,N,Sustainable Australia Party - Stop Overdevelopment / Corruption,SPP,443
@@ -983,7 +983,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 214,Goldstein,Catherine Frances,REYNOLDS,7,N,United Australia Party,UAPP,1840
 214,Goldstein,Tim,WILSON,8,N,Liberal,LP,39607
 214,Goldstein,Martyn,ABBOTT,9,N,Australian Labor Party,ALP,10799
-214,Goldstein,Informal,Informal,999,N,Informal,,3487
+214,Goldstein,Informal,Informal,999,N,Independent,,3487
 309,Gorton,Daniel,CONNOR,1,N,Pauline Hanson's One Nation,ON,6719
 309,Gorton,Praise,MORRIS,2,N,The Greens,GRN,8325
 309,Gorton,Michael,VIRAG,3,N,United Australia Party,UAPP,7082
@@ -993,7 +993,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 309,Gorton,Tony,DOBRAN,7,N,The Great Australian Party,GAP,1312
 309,Gorton,Paul,LASSIG,8,N,Australian Federation Party,CYA,1063
 309,Gorton,John,FLETCHER,9,N,Liberal,LP,25350
-309,Gorton,Informal,Informal,999,N,Informal,,7089
+309,Gorton,Informal,Informal,999,N,Independent,,7089
 326,Hawke,Michael,WILLIAMS,1,N,Australian Federation Party,CYA,1926
 326,Hawke,Michael Edward,LACEY,2,N,The Great Australian Party,GAP,1827
 326,Hawke,Sam,RAE,3,Y,Australian Labor Party,ALP,32020
@@ -1005,7 +1005,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 326,Hawke,Glenn,VESSEY,9,N,Citizens Party,CEC,434
 326,Hawke,Jack,HYNES,10,N,Victorian Socialists,VNS,889
 326,Hawke,Andrew Glenn,CUTHBERTSON,11,N,United Australia Party,UAPP,6131
-326,Hawke,Informal,Informal,999,N,Informal,,7735
+326,Hawke,Informal,Informal,999,N,Independent,,7735
 215,Higgins,Matthew,FORD,1,N,Liberal Democrats,LDP,2648
 215,Higgins,Ingram Magnus,SPENCER,2,N,United Australia Party,UAPP,1917
 215,Higgins,Alicia,WALKER,3,N,Animal Justice Party,AJP,1295
@@ -1014,7 +1014,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 215,Higgins,Michelle,ANANDA-RAJAH,6,Y,Australian Labor Party,ALP,27187
 215,Higgins,Suzie,MENOUDAKIS,7,N,Australian Federation Party,CYA,515
 215,Higgins,Sonya,SEMMENS,8,N,The Greens,GRN,21632
-215,Higgins,Informal,Informal,999,N,Informal,,2774
+215,Higgins,Informal,Informal,999,N,Independent,,2774
 216,Holt,Ravi,RAGUPATHY,1,N,Independent,IND,2673
 216,Holt,Cassandra,FERNANDO,2,Y,Australian Labor Party,ALP,36326
 216,Holt,Gerardine,HANSEN,3,N,United Australia Party,UAPP,8592
@@ -1023,14 +1023,14 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 216,Holt,Matthew,NUNEZ-SILVA,6,N,Liberal Democrats,LDP,2423
 216,Holt,Sujit,MATHEW,7,N,The Greens,GRN,7583
 216,Holt,Ranj,PERERA,8,N,Liberal,LP,26274
-216,Holt,Informal,Informal,999,N,Informal,,6227
+216,Holt,Informal,Informal,999,N,Independent,,6227
 217,Hotham,Edward,SOK,1,N,Liberal Democrats,LDP,6591
 217,Hotham,Clare,O'NEIL,2,Y,Australian Labor Party,ALP,47135
 217,Hotham,Louisa,WILLOUGHBY,3,N,The Greens,GRN,12408
 217,Hotham,Bruce Scott,RIDGWAY,4,N,United Australia Party,UAPP,5869
 217,Hotham,Roger,TULL,5,N,Pauline Hanson's One Nation,ON,2926
 217,Hotham,Savitri,BEVINAKOPPA,6,N,Liberal,LP,25273
-217,Hotham,Informal,Informal,999,N,Informal,,3688
+217,Hotham,Informal,Informal,999,N,Independent,,3688
 218,Indi,Angel,ALEKSOV,1,N,Animal Justice Party,AJP,1749
 218,Indi,Helen,HAINES,2,Y,Independent,IND,41319
 218,Indi,Lachlan,O'CONNELL,3,N,Derryn Hinch's Justice Party,DHJP,1074
@@ -1041,7 +1041,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 218,Indi,Nadia,DAVID,8,N,Australian Labor Party,ALP,8723
 218,Indi,Julian,FIDGE,9,N,Liberal Democrats,LDP,2300
 218,Indi,Ross,LYMAN,10,N,Liberal,LP,30995
-218,Indi,Informal,Informal,999,N,Informal,,5880
+218,Indi,Informal,Informal,999,N,Independent,,5880
 219,Isaacs,Boris,SOKIRANSKY,1,N,Pauline Hanson's One Nation,ON,3130
 219,Isaacs,Mark,DREYFUS,2,Y,Australian Labor Party,ALP,39228
 219,Isaacs,Sarah,O'DONNELL,3,N,Liberal Democrats,LDP,4785
@@ -1049,7 +1049,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 219,Isaacs,Alex,BRESKIN,5,N,The Greens,GRN,12621
 219,Isaacs,Alix,LIVINGSTONE,6,N,Animal Justice Party,AJP,2259
 219,Isaacs,Scott Anson,McCAMISH,7,N,United Australia Party,UAPP,4855
-219,Isaacs,Informal,Informal,999,N,Informal,,3382
+219,Isaacs,Informal,Informal,999,N,Independent,,3382
 220,Jagajaga,Kate,THWAITES,1,Y,Australian Labor Party,ALP,41412
 220,Jagajaga,Brendan,PALMARINI,2,N,Australian Federation Party,CYA,764
 220,Jagajaga,Allison,ZELINKA,3,N,United Australia Party,UAPP,3493
@@ -1058,7 +1058,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 220,Jagajaga,Liz,CHASE,6,N,The Greens,GRN,16855
 220,Jagajaga,John,BOOKER,7,N,Pauline Hanson's One Nation,ON,2274
 220,Jagajaga,Sahil,TOMAR,8,N,Liberal,LP,29535
-220,Jagajaga,Informal,Informal,999,N,Informal,,4003
+220,Jagajaga,Informal,Informal,999,N,Independent,,4003
 221,Kooyong,Monique,RYAN,1,Y,Independent,IND,41303
 221,Kooyong,Scott Andrew,HARDIMAN,2,N,United Australia Party,UAPP,1011
 221,Kooyong,Alexandra,THOM,3,N,Liberal Democrats,LDP,1080
@@ -1070,7 +1070,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 221,Kooyong,Rachael,NEHMER,9,N,Animal Justice Party,AJP,500
 221,Kooyong,Piers,MITCHEM,10,N,The Greens,GRN,6461
 221,Kooyong,David,CONNOLLY,11,N,Australian Values Party,AUVA,152
-221,Kooyong,Informal,Informal,999,N,Informal,,3046
+221,Kooyong,Informal,Informal,999,N,Independent,,3046
 223,La Trobe,Jason,WOOD,1,Y,Liberal,LP,41786
 223,La Trobe,Hadden,ERVIN,2,N,Pauline Hanson's One Nation,ON,4555
 223,La Trobe,Michael,SCHILLING,3,N,The Greens,GRN,9980
@@ -1079,7 +1079,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 223,La Trobe,Rebecca,SKINNER,6,N,Australian Federation Party,CYA,890
 223,La Trobe,Michael,ABELMAN,7,N,Liberal Democrats,LDP,1911
 223,La Trobe,Helen,JEGES,8,N,Animal Justice Party,AJP,2450
-223,La Trobe,Informal,Informal,999,N,Informal,,4483
+223,La Trobe,Informal,Informal,999,N,Independent,,4483
 222,Lalor,Aijaz,MOINUDDIN,1,N,Independent,IND,2535
 222,Lalor,Claudio,URIBE,2,N,Victorian Socialists,VNS,1482
 222,Lalor,Juanita Coral,PATERSON,3,N,United Australia Party,UAPP,6340
@@ -1089,7 +1089,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 222,Lalor,James,INGARFILL,7,N,Pauline Hanson's One Nation,ON,3489
 222,Lalor,Jack,BODDEKE,8,N,The Greens,GRN,9192
 222,Lalor,Ravi,GADDIPATI,9,N,Liberal,LP,22083
-222,Lalor,Informal,Informal,999,N,Informal,,5752
+222,Lalor,Informal,Informal,999,N,Independent,,5752
 322,Macnamara,John B,MYERS,1,N,Independent,IND,1835
 322,Macnamara,Colleen,HARKIN,2,N,Liberal,LP,26976
 322,Macnamara,Josh,BURNS,3,Y,Australian Labor Party,ALP,29552
@@ -1098,7 +1098,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 322,Macnamara,Ben,SCHULTZ,6,N,Animal Justice Party,AJP,1724
 322,Macnamara,Steph,HODGINS-MAY,7,N,The Greens,GRN,27587
 322,Macnamara,Jane Elizabeth,HICKEY,8,N,United Australia Party,UAPP,2062
-322,Macnamara,Informal,Informal,999,N,Informal,,3302
+322,Macnamara,Informal,Informal,999,N,Independent,,3302
 224,Mallee,Anne,WEBSTER,1,Y,The Nationals,NP,50187
 224,Mallee,Sophie,BALDWIN,2,N,Independent,IND,10256
 224,Mallee,Claudia,HAENEL,3,N,Independent,IND,2196
@@ -1107,7 +1107,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 224,Mallee,Sam,McCOLL,6,N,The Greens,GRN,5463
 224,Mallee,Stuart William,KING,7,N,United Australia Party,UAPP,9271
 224,Mallee,Vanessa,ATKINSON,8,N,Pauline Hanson's One Nation,ON,6901
-224,Mallee,Informal,Informal,999,N,Informal,,6113
+224,Mallee,Informal,Informal,999,N,Independent,,6113
 225,Maribyrnong,Mark Michael,HOBART,1,N,The Great Australian Party,GAP,1741
 225,Maribyrnong,Daniel Nair,DADICH,2,N,Victorian Socialists,VNS,1837
 225,Maribyrnong,Bill,SHORTEN,3,Y,Australian Labor Party,ALP,39792
@@ -1117,7 +1117,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 225,Maribyrnong,Rhonda,PRYOR,7,N,The Greens,GRN,15278
 225,Maribyrnong,Alexander Anthony,ANSALONE,8,N,Australian Federation Party,CYA,590
 225,Maribyrnong,Cameron,SMITH,9,N,Liberal Democrats,LDP,3577
-225,Maribyrnong,Informal,Informal,999,N,Informal,,4917
+225,Maribyrnong,Informal,Informal,999,N,Independent,,4917
 226,McEwen,Neil,BARKER,1,N,The Greens,GRN,13524
 226,McEwen,Paul Joseph,McRAE,2,N,United Australia Party,UAPP,5474
 226,McEwen,Christopher,NEIL,3,N,Australian Federation Party,CYA,1721
@@ -1125,7 +1125,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 226,McEwen,John,HERRON,5,N,Liberal Democrats,LDP,2579
 226,McEwen,Richard,WELCH,6,N,Liberal,LP,31796
 226,McEwen,Rob,MITCHELL,7,Y,Australian Labor Party,ALP,35238
-226,McEwen,Informal,Informal,999,N,Informal,,3918
+226,McEwen,Informal,Informal,999,N,Independent,,3918
 228,Melbourne,Justin,BORG,1,N,United Australia Party,UAPP,1709
 228,Melbourne,Keir,PATERSON,2,N,Australian Labor Party,ALP,24155
 228,Melbourne,Adam,BANDT,3,Y,The Greens,GRN,47883
@@ -1135,7 +1135,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 228,Melbourne,Walter,STRAGAN,7,N,Pauline Hanson's One Nation,ON,937
 228,Melbourne,Bruce,POON,8,N,Animal Justice Party,AJP,1316
 228,Melbourne,Colleen,BOLGER,9,N,Victorian Socialists,VNS,3156
-228,Melbourne,Informal,Informal,999,N,Informal,,2993
+228,Melbourne,Informal,Informal,999,N,Independent,,2993
 229,Menzies,Naomi,OAKLEY,1,N,Australian Labor Party,ALP,33635
 229,Menzies,Sanjeev,SABHLOK,2,N,Australian Federation Party,CYA,968
 229,Menzies,Greg,CHEESMAN,3,N,Liberal Democrats,LDP,3646
@@ -1143,7 +1143,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 229,Menzies,Keith,WOLAHAN,5,Y,Liberal,LP,42526
 229,Menzies,Bill,PHEASANT,6,N,The Greens,GRN,14289
 229,Menzies,Nathan,SCAGLIONE,7,N,United Australia Party,UAPP,3643
-229,Menzies,Informal,Informal,999,N,Informal,,3355
+229,Menzies,Informal,Informal,999,N,Independent,,3355
 323,Monash,Mat,MORGAN,1,N,The Greens,GRN,9533
 323,Monash,Russell,BROADBENT,2,Y,Liberal,LP,36546
 323,Monash,Deb,LEONARD,3,N,Independent,IND,10372
@@ -1152,7 +1152,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 323,Monash,Jessica,O'DONNELL,6,N,Australian Labor Party,ALP,24759
 323,Monash,Meg,EDWARDS,7,N,Liberal Democrats,LDP,3548
 323,Monash,Christine Ann,McSHANE,8,N,United Australia Party,UAPP,3991
-323,Monash,Informal,Informal,999,N,Informal,,4752
+323,Monash,Informal,Informal,999,N,Independent,,4752
 324,Nicholls,Tim,LAIRD,1,N,Liberal Democrats,LDP,3366
 324,Nicholls,Sam,BIRRELL,2,Y,The Nationals,NP,24886
 324,Nicholls,Rikkie-Lee,TYRRELL,3,N,Pauline Hanson's One Nation,ON,6219
@@ -1164,7 +1164,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 324,Nicholls,Steve,BROOKS,9,N,Liberal,LP,17187
 324,Nicholls,Eleonor,TABONE,10,N,Australian Federation Party,CYA,367
 324,Nicholls,Rob,PRIESTLY,11,N,Independent,IND,24287
-324,Nicholls,Informal,Informal,999,N,Informal,,8159
+324,Nicholls,Informal,Informal,999,N,Independent,,8159
 232,Scullin,Patchouli,PATERSON,1,N,The Greens,GRN,9953
 232,Scullin,Ursula,van BREE,2,N,Pauline Hanson's One Nation,ON,5907
 232,Scullin,Eric,KOELMEYER,3,N,Liberal Democrats,LDP,3422
@@ -1172,7 +1172,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 232,Scullin,Yassin,ALBARRI,5,N,United Australia Party,UAPP,7444
 232,Scullin,Virosh,PERERA,6,N,Liberal,LP,19780
 232,Scullin,Cameron,ROWE,7,N,Victorian Socialists,VNS,2469
-232,Scullin,Informal,Informal,999,N,Informal,,5494
+232,Scullin,Informal,Informal,999,N,Independent,,5494
 233,Wannon,Graham,GARNER,1,N,Independent,IND,2346
 233,Wannon,Dan,TEHAN,2,Y,Liberal,LP,44948
 233,Wannon,Ronnie,GRAHAM,3,N,Pauline Hanson's One Nation,ON,3275
@@ -1181,7 +1181,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 233,Wannon,Craige,KENSEN,6,N,United Australia Party,UAPP,3308
 233,Wannon,Amanda,MEAD,7,N,Liberal Democrats,LDP,1973
 233,Wannon,Gilbert,WILSON,8,N,Australian Labor Party,ALP,19303
-233,Wannon,Informal,Informal,999,N,Informal,,5603
+233,Wannon,Informal,Informal,999,N,Independent,,5603
 234,Wills,Tom,WRIGHT,1,N,Liberal,LP,15771
 234,Wills,Jill,TINDAL,2,N,Pauline Hanson's One Nation,ON,2554
 234,Wills,Emma,BLACK,3,N,Victorian Socialists,VNS,2714
@@ -1191,7 +1191,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 234,Wills,Peter,KHALIL,7,Y,Australian Labor Party,ALP,35449
 234,Wills,Leah,HORSFALL,8,N,Animal Justice Party,AJP,1680
 234,Wills,Sarah,JEFFORD,9,N,The Greens,GRN,25793
-234,Wills,Informal,Informal,999,N,Informal,,4855
+234,Wills,Informal,Informal,999,N,Independent,,4855
 235,Brand,Madeleine,KING,1,Y,Australian Labor Party,ALP,48031
 235,Brand,Malcolm,HEFFERNAN,2,N,Australian Federation Party,CYA,598
 235,Brand,Peter,HUDSON,3,N,Liberal,LP,21056
@@ -1202,7 +1202,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 235,Brand,Alison,MARSHALL,8,N,Liberal Democrats,LDP,1074
 235,Brand,Andrew,GLEESON,9,N,The Great Australian Party,GAP,1490
 235,Brand,Jake,TAYLOR,10,N,Pauline Hanson's One Nation,ON,5139
-235,Brand,Informal,Informal,999,N,Informal,,6551
+235,Brand,Informal,Informal,999,N,Independent,,6551
 317,Burt,Michele,CASTLE,1,N,Australian Federation Party,CYA,1741
 317,Burt,Travis,CARTER,2,N,Pauline Hanson's One Nation,ON,4436
 317,Burt,Joshua,McCURRY,3,N,United Australia Party,UAPP,2274
@@ -1211,7 +1211,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 317,Burt,David,GOODE,6,N,Liberal,LP,21009
 317,Burt,Warnar,SPYKER,7,N,Australian Christians,AUC,3428
 317,Burt,Matt,KEOGH,8,Y,Australian Labor Party,ALP,47268
-317,Burt,Informal,Informal,999,N,Informal,,5675
+317,Burt,Informal,Informal,999,N,Independent,,5675
 236,Canning,Andrew,HASTIE,1,Y,Liberal,LP,41294
 236,Canning,Amanda,HUNT,2,N,Australian Labor Party,ALP,30897
 236,Canning,Tammi,SIWES,3,N,Pauline Hanson's One Nation,ON,4215
@@ -1223,7 +1223,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 236,Canning,Ashley Elphin,WILLIAMS,9,N,Independent,IND,1708
 236,Canning,Andriette,du PLESSIS,10,N,Australian Christians,AUC,1689
 236,Canning,David,GARDINER,11,N,Liberal Democrats,LDP,749
-236,Canning,Informal,Informal,999,N,Informal,,6558
+236,Canning,Informal,Informal,999,N,Independent,,6558
 237,Cowan,Anne,ALY,1,Y,Australian Labor Party,ALP,46712
 237,Cowan,Isabella,TRIPP,2,N,The Greens (WA),GRN,9829
 237,Cowan,Sylvia,IRADUKUNDA,3,N,Australian Christians,AUC,1859
@@ -1234,7 +1234,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 237,Cowan,Claire Elizabeth,HAND,8,N,United Australia Party,UAPP,2423
 237,Cowan,Vince,CONNELLY,9,N,Liberal,LP,30328
 237,Cowan,Michael,ANAGNO,10,N,Animal Justice Party,AJP,1775
-237,Cowan,Informal,Informal,999,N,Informal,,8039
+237,Cowan,Informal,Informal,999,N,Independent,,8039
 238,Curtin,Ladeisha Louise,VERHOEFF,1,N,United Australia Party,UAPP,1828
 238,Curtin,Bill,BURN,2,N,WESTERN AUSTRALIA PARTY,WAP,1243
 238,Curtin,Judith,CULLITY,3,N,Australian Federation Party,CYA,763
@@ -1243,7 +1243,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 238,Curtin,Kate,CHANEY,6,Y,Independent,IND,30942
 238,Curtin,Yannick,SPENCER,7,N,Australian Labor Party,ALP,14654
 238,Curtin,Cameron,PIDGEON,8,N,The Greens (WA),GRN,10889
-238,Curtin,Informal,Informal,999,N,Informal,,3373
+238,Curtin,Informal,Informal,999,N,Independent,,3373
 312,Durack,Craig,SHORE,1,N,Australian Federation Party,CYA,1453
 312,Durack,Melissa,PRICE,2,Y,Liberal,LP,30736
 312,Durack,Adrian,McRAE,3,N,The Great Australian Party,GAP,2738
@@ -1253,7 +1253,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 312,Durack,Ian,BLAYNEY,7,N,The Nationals,NP,9160
 312,Durack,Bianca,McNEAIR,8,N,The Greens (WA),GRN,8457
 312,Durack,Andrew Charles,MIDDLETON,9,N,United Australia Party,UAPP,2229
-312,Durack,Informal,Informal,999,N,Informal,,6219
+312,Durack,Informal,Informal,999,N,Independent,,6219
 239,Forrest,Helen,ALLAN,1,N,United Australia Party,UAPP,2426
 239,Forrest,Paul,MARKHAM,2,N,Liberal Democrats,LDP,1577
 239,Forrest,Mailee,DUNN,3,N,Australian Federation Party,CYA,1152
@@ -1263,7 +1263,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 239,Forrest,Bronwen,ENGLISH,7,N,Australian Labor Party,ALP,26092
 239,Forrest,Shane,MEZGER,8,N,Pauline Hanson's One Nation,ON,5020
 239,Forrest,Nola,MARINO,9,Y,Liberal,LP,41006
-239,Forrest,Informal,Informal,999,N,Informal,,5234
+239,Forrest,Informal,Informal,999,N,Independent,,5234
 240,Fremantle,Ben,TILBURY,1,N,The Great Australian Party,GAP,2293
 240,Fremantle,Sam,WAINWRIGHT,2,N,Socialist Alliance,SAL,1184
 240,Fremantle,Cathy,GAVRANICH,3,N,Australian Federation Party,CYA,1367
@@ -1274,7 +1274,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 240,Fremantle,Yan,LOH,8,N,Liberal Democrats,LDP,1251
 240,Fremantle,Janetia,KNAPP,9,N,WESTERN AUSTRALIA PARTY,WAP,2248
 240,Fremantle,William,EDGAR,10,N,Pauline Hanson's One Nation,ON,3060
-240,Fremantle,Informal,Informal,999,N,Informal,,6025
+240,Fremantle,Informal,Informal,999,N,Independent,,6025
 305,Hasluck,Jeanene,WILLIAMS,1,N,Independent,IND,3318
 305,Hasluck,Brendan,STURCKE,2,N,The Greens (WA),GRN,10826
 305,Hasluck,Will,SCOTT,3,N,United Australia Party,UAPP,2973
@@ -1284,7 +1284,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 305,Hasluck,Marijanna,SMITH,7,N,Australian Federation Party,CYA,1739
 305,Hasluck,Tania,LAWRENCE,8,Y,Australian Labor Party,ALP,39144
 305,Hasluck,Steven,McCREANOR,9,N,Liberal Democrats,LDP,1280
-305,Hasluck,Informal,Informal,999,N,Informal,,5782
+305,Hasluck,Informal,Informal,999,N,Independent,,5782
 242,Moore,Sue,ANDERSSON,1,N,The Great Australian Party,GAP,1926
 242,Moore,Peter,GUNNESS,2,N,WESTERN AUSTRALIA PARTY,WAP,3095
 242,Moore,Tom,FRENCH,3,N,Australian Labor Party,ALP,34227
@@ -1293,7 +1293,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 242,Moore,Brian,BRIGHTMAN,6,N,Pauline Hanson's One Nation,ON,3541
 242,Moore,Helen,WATKINSON,7,N,United Australia Party,UAPP,2342
 242,Moore,Martin,SUTER,8,N,Australian Federation Party,CYA,792
-242,Moore,Informal,Informal,999,N,Informal,,4545
+242,Moore,Informal,Informal,999,N,Independent,,4545
 243,O'Connor,Stan,KUSTRIN,1,N,Pauline Hanson's One Nation,ON,6833
 243,O'Connor,Shaneane,WELDON,2,N,Australian Labor Party,ALP,25754
 243,O'Connor,Giz,WATSON,3,N,The Greens (WA),GRN,10284
@@ -1303,7 +1303,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 243,O'Connor,Tracy Anne,TIRRONEN,7,N,United Australia Party,UAPP,1722
 243,O'Connor,Brenden,BARBER,8,N,The Great Australian Party,GAP,2337
 243,O'Connor,Rick,WILSON,9,Y,Liberal,LP,43295
-243,O'Connor,Informal,Informal,999,N,Informal,,5906
+243,O'Connor,Informal,Informal,999,N,Independent,,5906
 244,Pearce,Roslyn,STEWART,1,N,The Great Australian Party,GAP,2160
 244,Pearce,Donna,NELSON,2,N,The Greens (WA),GRN,10416
 244,Pearce,David,MARSHALL,3,N,Liberal Democrats,LDP,1548
@@ -1314,7 +1314,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 244,Pearce,Linda,AITKEN,8,N,Liberal,LP,28380
 244,Pearce,Vanessa,MONTGOMERY,9,N,Australian Christians,AUC,2097
 244,Pearce,Nigel,MARCH,10,N,Australian Federation Party,CYA,684
-244,Pearce,Informal,Informal,999,N,Informal,,6306
+244,Pearce,Informal,Informal,999,N,Independent,,6306
 245,Perth,Cameron,BAILEY,1,N,Pauline Hanson's One Nation,ON,2749
 245,Perth,Dean,POWELL,2,N,Australian Christians,AUC,1514
 245,Perth,Sean,CONNOR,3,N,The Great Australian Party,GAP,702
@@ -1326,7 +1326,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 245,Perth,Caroline,PERKS,9,N,The Greens (WA),GRN,22621
 245,Perth,David,DWYER,10,N,Liberal,LP,27294
 245,Perth,Aiden,GYURU,11,N,Australian Federation Party,CYA,710
-245,Perth,Informal,Informal,999,N,Informal,,6028
+245,Perth,Informal,Informal,999,N,Independent,,6028
 247,Swan,Paul,HILTON,1,N,United Australia Party,UAPP,2637
 247,Swan,Matthew,THOMPSON,2,N,Liberal Democrats,LDP,1821
 247,Swan,Timothy,GREEN,3,N,Animal Justice Party,AJP,2214
@@ -1337,7 +1337,7 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 247,Swan,Kristy,McSWEENEY,8,N,Liberal,LP,32096
 247,Swan,Clint,UINK,9,N,The Greens (WA),GRN,14861
 247,Swan,Dena,GOWER,10,N,Australian Christians,AUC,1930
-247,Swan,Informal,Informal,999,N,Informal,,5545
+247,Swan,Informal,Informal,999,N,Independent,,5545
 248,Tangney,Tshung-Hui,CHANG,1,N,Pauline Hanson's One Nation,ON,2288
 248,Tangney,Jay Dean,GILLETT,2,N,WESTERN AUSTRALIA PARTY,WAP,2096
 248,Tangney,Mark,STAER,3,N,Australian Christians,AUC,2481
@@ -1347,4 +1347,4 @@ DivisionID,DivisionNm,GivenNm,Surname,BallotPosition,Elected,PartyNm,PartyAb,Tot
 248,Tangney,Brent,FOWLER,7,N,Australian Federation Party,CYA,1028
 248,Tangney,Jacqueline,HOLROYD,8,N,Liberal Democrats,LDP,1110
 248,Tangney,Adam,ABDUL RAZAK,9,N,The Greens (WA),GRN,12876
-248,Tangney,Informal,Informal,999,N,Informal,,4271
+248,Tangney,Informal,Informal,999,N,Independent,,4271
