@@ -119,6 +119,7 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
         for division in DIVISIONS:
             # INITIALISE HOVERTEXT
             hovertext = HoverText[division]
+            flowtext = ""
 
             # THREE PARTY PREFERED NUMBERS
             hovertext += "="*60 + "<br>"
@@ -135,15 +136,24 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                                 hovertext += "(Total Exhausted Percent: " + row["PreferencePercent"] + "%, Total Exhausted Count: " + '{:,}'.format(int(row["PreferenceCount"]))  + ")" + "<br>"
                     # Give the 3PP flows
                     if int(row["CountNumber"]) > int(ThreePPCount[division]) and row["BallotPosition"] == "1":
+                        hovertext += "-"*60 + "<br>"
+                        hovertext += "New Distribution" + "<br>"
+                        hovertext += "-"*60 + "<br>"
+                        hovertext += flowtext
+                        flowtext = ""
                         hovertext += "="*60 + "<br>"
                         hovertext += "Preference Flows From Distributing: " + row["DistributingPartyAb"] + "<br>"
                         hovertext += "-"*60 + "<br>"
+                        
                     if int(row["CountNumber"]) > int(ThreePPCount[division]): # rows after the three candidate count
                         if row["PreferenceCount"] != "0": # removes candidates who have been eliminated
                             if row["PartyNm"] != "Exhausted":
-                                hovertext += row["PartyAb"] + ":" + gap + row["PreferencePercent"] + "%" + gap +'{:,}'.format(int(row["PreferenceCount"]))  + "<br>"
+                                hovertext += row["DistributingPartyAb"] + " -> " + row["PartyAb"] + ":" + gap + row["TransferPercent"] + "%" + gap +'{:,}'.format(int(row["TransferCount"]))  + "<br>"
+                                flowtext += row["PartyAb"] + ":" + gap + row["PreferencePercent"] + "%" + gap +'{:,}'.format(int(row["PreferenceCount"]))  + "<br>"
                             if row["PartyNm"] == "Exhausted" and electionType == "Council":
-                                hovertext += "(Total Exhausted Percent: " + row["PreferencePercent"] + "%, Total Exhausted Count: " + '{:,}'.format(int(row["PreferenceCount"]))  + ")" + "<br>"
+                                hovertext += row["DistributingPartyAb"] + " -> " + row["PartyAb"] + ":" + gap + row["TransferPercent"] + "%" + gap +'{:,}'.format(int(row["TransferCount"]))  + "<br>"
+                                flowtext += "(Total Exhausted Percent: " + row["PreferencePercent"] + "%, Total Exhausted Count: " + '{:,}'.format(int(row["PreferenceCount"]))  + ")" + "<br>"
+            hovertext += flowtext
             HoverText[division] = hovertext
 
     return HoverText
