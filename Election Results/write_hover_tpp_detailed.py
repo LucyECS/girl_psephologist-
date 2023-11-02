@@ -71,7 +71,7 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                     if row["Elected"] == "Y":
                         winner = row["PartyNm"] + " (" + row["GivenNm"] + ", " + row["Surname"] + ")"
             # Write division information to hovertext
-            hovertext += "Division Information" + "<br>"
+            hovertext += gap*2 + "DIVISION INFORMATION" + "<br>"
             hovertext += "-"*60 + "<br>"
             hovertext += "Division Name: " + division + "<br>"
             hovertext += "Winner: " + winner + "<br>"
@@ -81,7 +81,7 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
             
             # PRIMARY VOTES
             hovertext += "="*60 + "<br>"
-            hovertext += "Primary Votes" + "<br>"
+            hovertext += gap*2 + "PRIMARY VOTES" + "<br>"
             hovertext += "-"*60 + "<br>"
             # Iterate through each row to get primary votes and percentages and write to hovertext
             for row in rows:
@@ -123,7 +123,7 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
 
             # THREE PARTY PREFERED NUMBERS
             hovertext += "="*60 + "<br>"
-            hovertext += "Three Party Prefered Numbers" + "<br>"
+            hovertext += gap + "THREE PARTY PREFERED VOTES" + "<br>"
             hovertext += "-"*60 + "<br>"
             # iterate through each row
             for row in rows:
@@ -134,15 +134,17 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                                 hovertext += row["PartyAb"] + ":" + gap + row["PreferencePercent"] + "%" + gap +'{:,}'.format(int(row["PreferenceCount"]))  + "<br>"
                             if row["PartyNm"] == "Exhausted" and electionType == "Council":
                                 hovertext += "(Total Exhausted Percent: " + row["PreferencePercent"] + "%, Total Exhausted Count: " + '{:,}'.format(int(row["PreferenceCount"]))  + ")" + "<br>"
+
+                    if int(row["CountNumber"]) == int(ThreePPCount[division])+1 and row["BallotPosition"] == "1":
+                        hovertext += "="*60 + "<br>"
+                        hovertext += gap*2 + "PREFERENCE FLOWS" + "<br>"
+
                     # Give the 3PP flows
                     if int(row["CountNumber"]) > int(ThreePPCount[division]) and row["BallotPosition"] == "1":
-                        hovertext += "-"*60 + "<br>"
-                        hovertext += "New Distribution" + "<br>"
-                        hovertext += "-"*60 + "<br>"
                         hovertext += flowtext
                         flowtext = ""
                         hovertext += "="*60 + "<br>"
-                        hovertext += "Preference Flows From Distributing: " + row["DistributingPartyAb"] + "<br>"
+                        hovertext += "PREFERENCE FLOW FROM DISTRIBUTING: " + row["DistributingPartyAb"] + "<br>"
                         hovertext += "-"*60 + "<br>"
                         
                     if int(row["CountNumber"]) > int(ThreePPCount[division]): # rows after the three candidate count
@@ -153,6 +155,7 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                             if row["PartyNm"] == "Exhausted" and electionType == "Council":
                                 hovertext += row["DistributingPartyAb"] + " -> " + row["PartyAb"] + ":" + gap + row["TransferPercent"] + "%" + gap +'{:,}'.format(int(row["TransferCount"]))  + "<br>"
                                 flowtext += "(Total Exhausted Percent: " + row["PreferencePercent"] + "%, Total Exhausted Count: " + '{:,}'.format(int(row["PreferenceCount"]))  + ")" + "<br>"
+            hovertext += "-"*60 + "<br>"
             hovertext += flowtext
             HoverText[division] = hovertext
 
@@ -165,6 +168,6 @@ if __name__ == "__main__":
 
     HoverTPPDetailed = writeHoverTPPDetailed(fromFileFirstPref, fromFilePrefFlow, "Council")
 
-    text = HoverTPPDetailed["TENNYSON"]
+    text = HoverTPPDetailed["PADDINGTON"]
     text = text.replace("<br>", "\n")
     print(text)
