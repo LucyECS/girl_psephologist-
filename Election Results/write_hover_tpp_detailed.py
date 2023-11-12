@@ -105,8 +105,13 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                 DIVISIONS.append(row["DivisionNm"])
         # Make a dictionary of the three party prefered count numbers
         ThreePPCount = {}
+        # Make a dictionary of the margin between the bottom two candidates for each count
+        BottomTwoMargin = {}
         for division in DIVISIONS:
             three_candidate_count_number = "-1"
+            parties = []
+            parties.append((0, ["", 0]))
+            parties.append((1, ["", 1]))
             for row in rows:
                 if row["DivisionNm"] == division:
                     # Getting first distribution where either ALP, LNP or GRN is distributed
@@ -114,6 +119,23 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                         if three_candidate_count_number == "-1":
                             three_candidate_count_number = str(int(row["CountNumber"])-1)
                     # Getting maxCountNumber and maxBallotNumber
+                    if row["BallotPosition"] == "1":
+                        parties.sort(reverse=False)
+                        bottom_party = parties[0][1][0]
+                        bottom_party_votes = parties[0][1][1]
+                        next_bottom_party = parties[1][1][0]
+                        next_bottom_party_votes = parties[1][1][1]
+
+                        BottomTwoMargin[(division, row["CountNumber"])] = {"BottomParty": bottom_party, "BottomPartyVotes": bottom_party_votes, "NextBottomParty": next_bottom_party, "NextBottomPartyVotes": next_bottom_party_votes}
+                        parties = []
+                    if row["PartyNm"] != "Exhausted" and row["PreferenceCount"] != "0":
+                        parties.append((int(row["PreferenceCount"]), [row["PartyAb"], int(row["PreferenceCount"])]))
+            parties.sort(reverse=False)
+            bottom_party = parties[0][1][0]
+            bottom_party_votes = parties[0][1][1]
+            next_bottom_party = parties[1][1][0]
+            next_bottom_party_votes = parties[1][1][1]
+            BottomTwoMargin = {(division, "Last"): {"BottomParty": bottom_party, "BottomPartyVotes": bottom_party_votes, "NextBottomParty": next_bottom_party, "NextBottomPartyVotes": next_bottom_party_votes}} | BottomTwoMargin
             ThreePPCount[division] = three_candidate_count_number
 
         for division in DIVISIONS:
@@ -144,7 +166,9 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                         hovertext += flowtext
                         flowtext = ""
                         hovertext += "="*60 + "<br>"
-                        hovertext += "PREFERENCE FLOW FROM DISTRIBUTING: " + row["DistributingPartyAb"] + "<br>"
+                        margin = BottomTwoMargin[(division, row["CountNumber"])]
+                        hovertext += "PREFERENCE FLOW FROM DISTRIBUTING: " + str(margin["BottomPartyVotes"]) + " " + row["DistributingPartyAb"] + "<br>"
+                        hovertext += "(There was a margin of " + '{:,}'.format(int((margin["NextBottomPartyVotes"] - margin["BottomPartyVotes"])/2)) + " votes between " + margin["BottomParty"] + " and " + margin["NextBottomParty"] + ")" + "<br>"
                         hovertext += "-"*60 + "<br>"
                         
                     if int(row["CountNumber"]) > int(ThreePPCount[division]): # rows after the three candidate count
@@ -157,6 +181,8 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                                 flowtext += "(Total Exhausted Percent: " + row["PreferencePercent"] + "%, Total Exhausted Count: " + '{:,}'.format(int(row["PreferenceCount"]))  + ")" + "<br>"
             hovertext += "-"*60 + "<br>"
             hovertext += flowtext
+            margin = BottomTwoMargin[(division, "Last")]
+            hovertext += "The winner is " + margin["NextBottomParty"] + " with a margin of " + '{:,}'.format(int((margin["NextBottomPartyVotes"] - margin["BottomPartyVotes"])/2)) + " votes over " + margin["BottomParty"] + "<br>"
             HoverText[division] = hovertext
 
     return HoverText
