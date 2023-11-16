@@ -4,10 +4,11 @@ import json
 # Import the colour scales from the ColourScales.py file
 from COLOURSCALES import COLOURSCALE
 from FILENAMES import FILENAME
+from CENTRES import CENTRES
 
 BACKGROUND = "#C1E1C1"
 
-def BasicMap(electionType: str, electionYear: str, hoverTextType: str, show: bool = True) -> px.choropleth_mapbox:
+def BasicMap(electionType: str, electionYear: str, hoverTextType: str, show: bool = True, centre_points: bool = False, show_legend: bool = False) -> px.choropleth_mapbox:
 
     file_names = FILENAME()[(electionType, electionYear)]
     # Read in the data
@@ -31,14 +32,30 @@ def BasicMap(electionType: str, electionYear: str, hoverTextType: str, show: boo
                             zoom=13,
                             center={"lat": -27.4705, "lon": 153.0260},
                             opacity=0.5,
-                            color_discrete_map=COLOURSCALE())
+                            color_discrete_map=COLOURSCALE()
+                                                        )
 
-    fig.update_layout(margin=dict(t=0, l=0, r=0, b=0), plot_bgcolor=BACKGROUND, paper_bgcolor=BACKGROUND)
+    if centre_points:
+        centres = CENTRES()[electionType]
+        for ward in centres:
+            for center in centres[ward]:
+                fig.add_scattermapbox(
+                    lat=[center[1]],
+                    lon=[center[0]],
+                    mode="markers",
+                    marker=dict(size=10, color="black"),
+                    hoverinfo="text",
+                    text=[ward],
+                    showlegend=show_legend
+                )
 
-    # fig.update_layout(
-    #     title=dict(text="Interactive Map of the results of the: " + electionYear + " " + electionType + " Election"),
-    #     title_x=0.5,
-    # )
+
+    fig.update_layout(margin=dict(t=0, l=0, r=0, b=0), plot_bgcolor=BACKGROUND, paper_bgcolor=BACKGROUND, font_family="Roboto", font_color="#000000")
+
+    fig.update_layout(coloraxis_showscale=False)
+
+    fig.update_traces(showlegend=show_legend)
+
     if show:
         fig.show()
     name = "BasicMap" + electionType + electionYear + ".html"
@@ -46,6 +63,6 @@ def BasicMap(electionType: str, electionYear: str, hoverTextType: str, show: boo
     return fig
 
 if __name__ == "__main__":
-    BasicMap("Council", "2020",'HoverTPPDetailed')
-    BasicMap("State", "2020", 'HoverTPPDetailed')
-    BasicMap("Federal", "2022", 'HoverTPPDetailed')
+    BasicMap("Council", "2020",'HoverTPPDetailed', show=True, centre_points=True)
+    # BasicMap("State", "2020", 'HoverTPPDetailed')
+    # BasicMap("Federal", "2022", 'HoverTPPDetailed')
