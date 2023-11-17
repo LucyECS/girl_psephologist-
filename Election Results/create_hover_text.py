@@ -23,18 +23,19 @@ def createHoverText(electionType: str, electionYear: str):
             fromFilePrefFlow = "Election Results\Federal2022\created\Federal2022PrefFlow.csv"
             toFile = "Election Results\Federal2022\created\Federal2022HoverText.csv"
 
-    header = ["DivisionNm", "HoverFirstSimple", "HoverTPPSimple", "HoverTPPDetailed", "HoverPrefDetailed"]
+    header = ["DivisionNm", "HoverFirstSimple", "HoverTPPSimple", "HoverTPPDetailedBr", "HoverTPPDetailedstring", "HoverPrefDetailed"]
 
     HoverFirstSimple = writeHoverFirstSimple(fromFileFirstPref, fromFilePrefFlow, electionType)
     HoverTPPSimple = writeHoverTPPSimple(fromFileFirstPref, fromFilePrefFlow, electionType)
-    HoverTPPDetailed = writeHoverTPPDetailed(fromFileFirstPref, fromFilePrefFlow, electionType)
+    HoverTPPDetailedBR = writeHoverTPPDetailed(fromFileFirstPref, fromFilePrefFlow, electionType, end="<br>")
+    HoverTPPDetailedstring = writeHoverTPPDetailed(fromFileFirstPref, fromFilePrefFlow, electionType, end="\n")
     HoverPrefDetailed = writeHoverPrefDetailed(fromFileFirstPref, fromFilePrefFlow, electionType)
 
     with open(toFile, "w", newline="") as results:
         writer = csv.writer(results)
         writer.writerow(header)
         for division in HoverFirstSimple:
-            writer.writerow([division, HoverFirstSimple[division], HoverTPPSimple[division], HoverTPPDetailed[division], HoverPrefDetailed[division]])
+            writer.writerow([division, HoverFirstSimple[division], HoverTPPSimple[division], HoverTPPDetailedBR[division], HoverTPPDetailedstring[division], HoverPrefDetailed[division]])
 
 if __name__ == "__main__":
     createHoverText("Council", "2020")

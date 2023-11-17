@@ -8,7 +8,7 @@ from CENTRES import CENTRES
 
 BACKGROUND = "#C1E1C1"
 
-def BasicMap(electionType: str, electionYear: str, hoverTextType: str, show: bool = True, centre_points: bool = False, show_legend: bool = False) -> px.choropleth_mapbox:
+def BasicMap(electionType: str, electionYear: str, hoverTextType: str, show: bool = True, centre_location_lat: float = -27.4705, centre_location_lon: float = 153.0260, centre_points: bool = False, show_legend: bool = False) -> px.choropleth_mapbox:
 
     file_names = FILENAME()[(electionType, electionYear)]
     # Read in the data
@@ -30,7 +30,7 @@ def BasicMap(electionType: str, electionYear: str, hoverTextType: str, show: boo
                             hover_data=[hoverTextType],
                             mapbox_style="carto-positron",
                             zoom=13,
-                            center={"lat": -27.4705, "lon": 153.0260},
+                            center={"lat": centre_location_lat, "lon": centre_location_lat},
                             opacity=0.5,
                             color_discrete_map=COLOURSCALE()
                                                         )
