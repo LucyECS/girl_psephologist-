@@ -8,15 +8,18 @@ from BasicMap import BasicMap
 
 # pale pastel green
 BACKGROUND = "#C1E1C1"
-
-figs = {}
-electorates = {}
-for election in [("State", "2020"), ("Council", "2020"), ("Federal", "2022")]:
-    figs[election] = BasicMap(election[0], election[1], 'HoverTPPDetailedBr', show=False, centre_points=False, show_legend=False)
-    electorates[election[0]] = figs[election].data[0].locations
-
 # Set font to roboto
 FONT = "Roboto"
+
+
+# creates the map for each election type and year
+# figs = {}
+# electorates = {}
+# for election in [("State", "2020"), ("Council", "2020"), ("Federal", "2022")]:
+#     figs[election] = BasicMap(election[0], election[1], 'HoverTPPDetailedBr', show=False, centre_points=False, show_legend=False)
+#     electorates[election[0]] = figs[election].data[0].locations
+
+
 
 
 app = Dash(__name__, suppress_callback_exceptions=True)
@@ -43,38 +46,37 @@ app.layout = html.Div(
         ),
         # Graph
         dcc.Graph(id="Election Statistic-graph", style={"height": "calc(100vh - 200px)", 'fontFamily': FONT}),
-        # Hover text dropdown with the electorates as options depending on the chosen election with the default value being the first electorate
-        html.Div(id="electorate-selection-dropdown", style={'fontFamily': FONT}),
     ]
 )
 
 
-# Create the electorate dropdown based on the selected election
-@app.callback(
-    [Output("electorate-selection-dropdown", "children"),
-     Output("electorate-choosen", "value")],
-    [Input("Election", "value"),
-     Input("Election Statistic-graph", "clickData")],
-     supress_callback_exceptions=True
-)
-def update_electorate_dropdown(election, click_data, suppress_callback_exceptions=True):
-    if click_data:
-        choosen_electorate = click_data['points'][0]['location']
-    else:
-        choosen_electorate = electorates[election[0]][0]
-    electorate_selection_dropdown = None
-    # get the election type and year from the radioitems
-    election = tuple(election.split())
-    # get the electorates for the selected election
-    electorates = electorates[election[0]]
-    # return the dropdown with the electorates as options depending on the chosen election with the default value being the first electorate
-    electorate_selection_dropdown = dcc.Dropdown(
-        id="electorate-dropdown",
-        options=[{'label': electorate, 'value': electorate} for electorate in electorates],
-        value=choosen_electorate,
-        style={'fontFamily': FONT}
-    )
-    return electorate_selection_dropdown, choosen_electorate
+# # Create the electorate dropdown based on the selected election
+# @app.callback(
+#     [Output("electorate-selection-dropdown", "children"),
+#      Output("electorate-choosen", "value")],
+#     [Input("Election", "value"),
+#      Input("Election Statistic-graph", "clickData")],
+#      supress_callback_exceptions=True
+# )
+# def update_electorate_dropdown(election, click_data, suppress_callback_exceptions=True):
+#     if click_data:
+#         choosen_electorate = click_data['points'][0]['location']
+#     else:
+#         choosen_electorate = electorates[election[0]][0]
+
+#     electorate_selection_dropdown = None
+#     # get the election type and year from the radioitems
+#     election = tuple(election.split())
+#     # get the electorates for the selected election
+#     electorates = electorates[election[0]]
+#     # return the dropdown with the electorates as options depending on the chosen election with the default value being the first electorate
+#     electorate_selection_dropdown = dcc.Dropdown(
+#         id="electorate-dropdown",
+#         options=[{'label': electorate, 'value': electorate} for electorate in electorates],
+#         value=choosen_electorate,
+#         style={'fontFamily': FONT}
+#     )
+#     return electorate_selection_dropdown, choosen_electorate
 
 
 
