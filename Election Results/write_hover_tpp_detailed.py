@@ -33,6 +33,8 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
 
     HoverText = {}
 
+    TotalVotesDict = {}
+
     # READ FROM FIRST PREF CSV
     with open(fromFileFirstPref) as results:
         # object to DictReader method 
@@ -70,6 +72,8 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                         informalvotes = informalvotes + int(row["TotalVotes"])
                     if row["Elected"] == "Y":
                         winner = row["PartyNm"] + " (" + row["GivenNm"] + ", " + row["Surname"] + ")"
+            # Add dictionary entry for total votes
+            TotalVotesDict[division] = totalvotes
             # Write division information to hovertext
             hovertext += gap*2 + "DIVISION INFORMATION" + end
             hovertext += "-"*60 + end
@@ -168,7 +172,7 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
                         hovertext += "="*60 + end
                         margin = BottomTwoMargin[(division, row["CountNumber"])]
                         hovertext += "PREFERENCE FLOW FROM DISTRIBUTING: " + str(margin["BottomPartyVotes"]) + " " + row["DistributingPartyAb"] + end
-                        hovertext += "(There was a margin of " + '{:,}'.format(int((margin["NextBottomPartyVotes"] - margin["BottomPartyVotes"])/2)) + " votes between " + margin["BottomParty"] + " and " + margin["NextBottomParty"] + ")" + end
+                        hovertext += "(There was a margin of " + '{:,}'.format(int((margin["NextBottomPartyVotes"] - margin["BottomPartyVotes"])/2)) +  " (" + str(round((margin["NextBottomPartyVotes"] - margin["BottomPartyVotes"])*100/(2*TotalVotesDict[division]),2)) + "%)" + " votes between " + margin["BottomParty"] + " and " + margin["NextBottomParty"] + ")" + end
                         hovertext += "-"*60 + end
                         
                     if int(row["CountNumber"]) > int(ThreePPCount[division]): # rows after the three candidate count
@@ -182,7 +186,7 @@ def writeHoverTPPDetailed(fromFileFirstPref: str, fromFilePrefFlow: str, electio
             hovertext += "-"*60 + end
             hovertext += flowtext
             margin = BottomTwoMargin[(division, "Last")]
-            hovertext += "The winner is " + margin["NextBottomParty"] + " with a margin of " + '{:,}'.format(int((margin["NextBottomPartyVotes"] - margin["BottomPartyVotes"])/2)) + " votes over " + margin["BottomParty"] + end
+            hovertext += "The winner is " + margin["NextBottomParty"] + " with a margin of " + '{:,}'.format(int((margin["NextBottomPartyVotes"] - margin["BottomPartyVotes"])/2)) +  " (" + str(round((margin["NextBottomPartyVotes"] - margin["BottomPartyVotes"])*100/(2*TotalVotesDict[division]),2)) + "%)" + " votes over " + margin["BottomParty"] + end
             HoverText[division] = hovertext
 
     return HoverText
