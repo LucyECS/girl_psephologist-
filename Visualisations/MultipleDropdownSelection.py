@@ -1,10 +1,7 @@
 from dash import Dash, dcc, html, Input, Output
 import plotly.express as px
 import pandas as pd
-import json
 from FILENAMES import FILENAME
-from CENTRES import CENTRES
-from BasicMap import BasicMap
 
 # pale pastel green
 BACKGROUND = "#C1E1C1"
@@ -32,7 +29,7 @@ app.layout = html.Div(
         },
         children=[
             # Title
-            html.H2('Electorate One', id='map-title', style={'text-align': 'center', 'fontFamily': FONT}),
+            html.H2(id='map-title1', style={'text-align': 'center', 'fontFamily': FONT}),
             # RadioItems to select the election year
             dcc.RadioItems(
                 id='Election1',
@@ -62,7 +59,7 @@ app.layout = html.Div(
         },
         children=[
             # Title
-            html.H2('Electorate Two', id='map-title', style={'text-align': 'center', 'fontFamily': FONT}),
+            html.H2(id='map-title2', style={'text-align': 'center', 'fontFamily': FONT}),
             # RadioItems to select the election year
             dcc.RadioItems(
                 id='Election2',
@@ -93,7 +90,7 @@ app.layout = html.Div(
         },
         children=[
             # Title
-            html.H2('Electorate Three', id='map-title', style={'text-align': 'center', 'fontFamily': FONT}),
+            html.H2(id='map-title3', style={'text-align': 'center', 'fontFamily': FONT}),
             # RadioItems to select the election year
             dcc.RadioItems(
                 id='Election3',
@@ -219,6 +216,31 @@ def create_electorate_hovertext(electorate, election):
         value=hovertext,
         style={'width': '100%', 'height': '100vh', 'fontFamily': FONT}
     )
+
+##### UPDATE MAP TITLE CALLBACKS #####
+# Update the map title based on the selected electorate in DIV 1
+@app.callback(
+    Output("map-title1", "children"),
+    [Input("electorate-choosen1", "value")]
+)
+def update_map_title1(electorate):
+    return electorate
+
+# Update the map title based on the selected electorate in DIV 2
+@app.callback(
+    Output("map-title2", "children"),
+    [Input("electorate-choosen2", "value")]
+)
+def update_map_title2(electorate):
+    return electorate
+
+# Update the map title based on the selected electorate in DIV 3
+@app.callback(
+    Output("map-title3", "children"),
+    [Input("electorate-choosen3", "value")]
+)
+def update_map_title3(electorate):
+    return electorate
 
 if __name__ == '__main__':
     app.run_server(debug=True,dev_tools_ui=False,dev_tools_props_check=False)
